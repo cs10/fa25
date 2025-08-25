@@ -10,17 +10,19 @@ nav_order: 1
 ---
 
 # **CS 10: The Beauty and Joy of Computing**
-UC Berkeley, Spring 2025
+UC Berkeley, Fall 2025
 
 
 
 {{ site.description }}
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a><br/>
-**Instructor's OH:** Wednesday 3-4PM @ Soda-777<br/>
-**Lectures:**  Monday, Wednesday, Friday 1-2 PM @ Anthropology and Art Practice Building, Room 160 <br/>
-**Labs:**  Tuesday, Thursday 3-5 @ Soda Hall, Room 430-438 (The Woz)<br/>
-**Discussion:**  Thurs 6-7 PM @ Evans Hall, Room 60<br/>
+**Instructor's OH:** Wednesday 2-3PM @ Soda Hall, Room 777<br/>
+**Lectures:**  Monday, Wednesday, Friday 1-2 PM @ Dwinelle Hall, Room 145 <br/>
+**Lab 1 (Nahee):**  Monday, Wednesday 3-5 @ Barker Hall, Room 101 (The Woz)<br/>
+**Lab 2 (Marius):**  Monday, Wednesday 8-10 @ Soda Hall, Room 438 (The Woz)<br/>
+**Discussion 1:**  Thurs 4-5 PM @ Soda Hall, Room 438<br/>
+**Discussion 2:**  Thurs 5-6 PM @ Soda Hall, Room 438<br/>
 **OH Queue:** <a href="https://oh.cs10.org/"> oh.cs10.org</a>
 
 <br/>
@@ -31,5 +33,6 @@ UC Berkeley, Spring 2025
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 

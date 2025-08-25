@@ -184,9 +184,9 @@ If your percentage score on a latter exam is higher than your percentage score o
 
 | Component                                     |  Percentage Weighting  |
 | :----:                                        |  :----:  |
-| Attendance / Participation                    | 6.25%    |
+| Attendance / Participation                    | 3.75%    |
 | Labs                                          | 20%      |
-| Projects                                      | 36.25%   |
+| Projects                                      | 38.75%   |
 | Quest                                         | 6.25%    |
 | Midterm                                       | 12.5%    |
 | Postterm                                      | 18.75%   |
@@ -199,13 +199,13 @@ If your percentage score on a latter exam is higher than your percentage score o
 | Quest                                         | 25       |
 | Midterm                                       | 50       |
 | Postterm                                      | 75       |
-| Project 1: Wordle™-lite                       | 10       |
+| Project 1: Wordle™-lite                       | 15       |
 | Project 2: Spelling-Bee                       | 25       |
 | Project 3: 2048                               | 35       |
-| Project 4: Explore                            | 15       |
+| Project 4: Explore                            | 20       |
 | Final Project                                 | 60       |
 | Labs                                          | 80       |
-| Attendance / Participation                    | 25       |
+| Attendance / Participation                    | 15       |
 
 **Total: 400 Points**
 
@@ -348,3 +348,4 @@ Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/pro
 
 It is very important to the EECS Department that every student in the EECS community feels safe, respected and welcome.  We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
+

@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week14">Jump to Current Week</a>
+    <a href="#week1">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -45,7 +45,7 @@
             <a href="https://drive.google.com/drive/folders/163Rp1WSJVLrkt4mV4w4YzUOBHy7WxFiW?usp=sharing">(Slides 1)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617833">(Lecture Quiz 1)</a>
             </td> <!-- Lecture -->
-        <td><a href="/fa25/lab_dirctory>Lab 1: Welcome to Snap!</a></td><!-- Lab -->
+        <td><a href="/fa25/lab_dirctory">Lab 1: Welcome to Snap!</a></td><!-- Lab -->
         <td></td> <!-- Discussion -->
         <td><a href="https://forms.gle/jVGq66oNwRavc6Ut9">Presemester Survey Released</a><br/><b>Due (9/5)</b></td> <!-- Assignments -->
     </tr>

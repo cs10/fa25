@@ -36,10 +36,7 @@
     </tr>
     <tr>
         <th>Tue 1/21</th> <!-- Date -->
-        <td></td><!-- Lecture -->
-        <td></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
-        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeT5JP6feL0HwsvTsGf4aE__fzidar-42y3dt1bTCHX9hQKbQ/viewform?usp=sharing">Presemester Survey Released</a><br/><b>Due (1/31)</b></td> <!-- Assignment / Exam -->
+        <td colspan="4">NO CLASS (Holiday)</td><!-- Lecture -->
     </tr>
     <tr>
         <th>Wed 1/22</th> <!-- Date -->
@@ -50,7 +47,7 @@
             </td> <!-- Lecture -->
         <td></td><!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignments -->
+        <td><a href="https://forms.gle/jVGq66oNwRavc6Ut9">Presemester Survey Released</a><br/><b>Due (9/5)</b></td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 1/23</th> <!-- Date -->

@@ -59,7 +59,7 @@
     <tr>
         <th>Fri 8/29</th> <!-- Date -->
         <td>Talk 1: Ask Me Anything<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 1)</a></td> <!-- Lecture -->
+            (Recording: Talk 1)</td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
@@ -73,29 +73,21 @@
 <table class="table table-bordered schedule-table" id="week2">
   <thead>
     <tr>
-        <th class="center schedule-week-num">Week</th>
-        <th>Date</th>
-        <th>Lecture</th>
-        <th>Lab</th>
-        <th>Discussion</th>
-        <th>Assignment / Exam</th>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
     </tr>
   </thead>
   <tbody class="content">
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 2</td> <!-- Week Number -->
         <th>Mon 9/1</th> <!-- Date -->
-        <td colspan="4">NO CLASS (Holiday)</td><!-- Lecture -->
-        <td>Lec 2. Functions + Conditional Logic
-            <a href="https://edstem.org/us/courses/74174/discussion/6093531">(Recording 2)</a><br/>      
-            <a href="https://drive.google.com/drive/folders/16KBEliCaPrc4dX0MDTUCm1GOu5crJm11?usp=sharing">(Slides 2)</a><br/>
-            <a href="https://www.gradescope.com/courses/957259/assignments/5617832">(Lecture Quiz 2)</a>
-            </td> <!-- Lecture -->
-        <td><a href="/sp25/lab_directory">Lab 2. Build Your Own Blocks</a></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment / Exam --> 
+        <td colspan="4">NO CLASS</td><!-- Lecture -->
     </tr>
-    <tr>
+    </tr>
         <th>Tue 9/2</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -103,28 +95,27 @@
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <th>Wed 9/3 </th> <!-- Date -->
-        <td>Lec 3. Numbers + Abstraction<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 3)</a><br/>      
-            <a href="https://drive.google.com/drive/folders/1-F7NaPtb9S1HGfMHy6vCPFKGTMZ_TBDC?usp=sharing">(Slides 3)</a><br/>
-            <a href="https://www.gradescope.com/courses/957259/assignments/5617855">(Lecture Quiz 3)</a>
-        </td> <!-- Lecture -->
-        <td></td> <!-- Lab -->
+        <th>Wed 9/3</th> <!-- Date -->
+        <td>Lec 2. Functions + Conditional Logic
+            <a href="https://edstem.org/us/courses/74174/discussion/6093531">(Recording 2)</a><br/>      
+            <a href="https://drive.google.com/drive/folders/16KBEliCaPrc4dX0MDTUCm1GOu5crJm11?usp=sharing">(Slides 2)</a><br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617832">(Lecture Quiz 2)</a>
+            </td> <!-- Lecture -->
+        <td><a href="/sp25/lab_directory">Lab 2. Build Your Own Blocks</a></td><!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 9/4</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td><a href="/sp25/lab_directory">Lab 3. Conditionals, Reporters, Testing</a></td> <!-- Lab -->
+        <td></td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 2. Numeral Rep + Conditionals</a></td> <!-- Discussion -->
-        <td><a href="/sp25/readings">Reading: Week 2 Due</a></td> <!-- Assignment / Exam -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 9/5</th> <!-- Date -->
-        <td>Talk 2: Predicates, Truth Tables, Conversions<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 2)</a>
-            </td> <!-- Lecture -->
+        <td>Talk 2: Making Functions<br/>
+            (Recording: Talk 2)</td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
@@ -133,6 +124,7 @@
 </table>
 
 <br/>
+
 <!-- Week 3 Calendar -->
 <table class="table table-bordered schedule-table" id="week3">
   <thead>

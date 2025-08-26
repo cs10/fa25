@@ -31,15 +31,15 @@
   <tbody class="content">
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 1</td> <!-- Week Number -->
-        <th>Mon 8/25</th> <!-- Date -->
+        <th>Mon 9/8</th> <!-- Date -->
         <td colspan="4">NO CLASS</td><!-- Lecture -->
     </tr>
     <tr>
-        <th>Tue 8/26</th> <!-- Date -->
+        <th>Tue 9/9</th> <!-- Date -->
         <td colspan="4">NO CLASS</td><!-- Lecture -->
     </tr>
     <tr>
-        <th>Wed 8/27</th> <!-- Date -->
+        <th>Wed 9/10</th> <!-- Date -->
         <td>Lec 1. Logistics + Abstraction<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 1)</a><br/>      
             <a href="https://drive.google.com/drive/folders/163Rp1WSJVLrkt4mV4w4YzUOBHy7WxFiW?usp=sharing">(Slides 1)</a><br/>
@@ -50,14 +50,14 @@
         <td><a href="https://forms.gle/jVGq66oNwRavc6Ut9">Presemester Survey Released</a><br/><b>Due (9/5)</b></td> <!-- Assignments -->
     </tr>
     <tr>
-        <th>Thu 8/28</th> <!-- Date -->
+        <th>Thu 9/11</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 1. Welcome to CS10!</a></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <th>Fri 8/29</th> <!-- Date -->
+        <th>Fri 9/12</th> <!-- Date -->
         <td>Talk 1: Ask Me Anything<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 1)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->

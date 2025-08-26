@@ -35,6 +35,7 @@ UC Berkeley, Fall 2025
 - **Place:** Soda Hall, Room 438 (both sections)
 
 **[CS 10 Attendance Form]()**
+
 **OH Queue:** <a href="https://oh.cs10.org/"> oh.cs10.org</a>
 
 <br/>
@@ -45,6 +46,7 @@ UC Berkeley, Fall 2025
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 name: Nahee Jeong
-role: Tutor
+role: Teaching Assistant
 email: naheejeong@ 
 pronouns: she/her
 website: https://www.linkedin.com/in/naheejeong

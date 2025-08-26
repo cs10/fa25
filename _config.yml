@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CS10 Spring 2025
+title: CS10 Fall 2025
 tagline: The Beauty and Joy of Computing
 description: A gentle but thorough introduction to computer science.
 author: Victoria Phelps
@@ -198,5 +198,6 @@ exclude:
   - spec/
   - docs/
   - node_modules/
+
 
 

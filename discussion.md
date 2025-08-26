@@ -59,7 +59,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
      <tr>
       <td>Week 3 Discussion</td>
-      <td>Domain/Range, HOFs</td>
+      <td>Domain/Range, scope, Iteration, Lists</td>
       <td>Worksheet 3</td>
       <td>Solutions 3</td>
       <td>Recording 3</td>
@@ -67,7 +67,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
       <td>Week 4 Discussion</td>
-      <td>Algorithmic Complexity + Quest Practice</td>
+      <td>Quest Review</td>
       <td>Worksheet 4</td>
       <td>Solutions 4</td>
       <td>Recording 4</td>
@@ -75,7 +75,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
       <td>Week 5 Discussion</td>
-      <td>Nested Lists + Recursion</td>
+      <td>HOFs</td>
       <td>Worksheet 5</td>
       <td>Solutions 5</td>
       <td>Recording 5</td>
@@ -83,7 +83,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
       <td>Week 6 Discussion</td>
-      <td>More Recursion!</td>
+      <td>Advanced HOFs, Lambdas, Debugging</td>
       <td>Worksheet 6</td>
       <td>Solutions 6</td>
       <td>No Recording 6</td>
@@ -91,7 +91,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
       <td>Week 7 Discussion</td>
-      <td>HOFs, Rings, Debugging</td>
+      <td>Recursion + Fractals</td>
       <td>Worksheet 7</td>
       <td>Solutions 7</td>
       <td>Recording 7</td>
@@ -99,7 +99,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
       <td>Week 8 Discussion </td>
-      <td>Midterm Practice</td>
+      <td>Tree Recursion + Algorithmic Complexity</td>
       <td>Worksheet 8</td>
       <td>Solutions 8</td>
       <td>Recording 8</td>
@@ -107,14 +107,14 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
      <tr>
       <td>Week 9 Discussion</td>
-      <td>OOP, Clones, Events</td>
+      <td>Midterm Practice</td>
       <td>Worksheet 9</td>
       <td>Solutions 9</td>
       <td>Recording 9</td>
       <td>Slides 9</td>
     </tr>
     <tr>
-    <td>Week 11 Discussion</td>
+    <td>Week 10 Discussion</td>
       <td>Project 4 Presentations</td>
       <td>No Worksheet</td>
       <td>No Solutions</td>
@@ -122,23 +122,30 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>No Slides</td>
     </tr>
     <tr>
+    <td>Week 11 Discussion</td>
+      <td>Welcome to Python</td>
+     <td>Worksheet 11</td>
+      <td>Solutions 11</td>
+      <td>Recording 11</td>
+      <td>Slides 11</td>
+    </tr>
+    <tr>
     <td>Week 12 Discussion</td>
       <td>Data Structures in Python</td>
-     <td>Worksheet 12</td>
+      <td>Worksheet 12</td>
       <td>Solutions 12</td>
       <td>Recording 12</td>
       <td>Slides 12</td>
     </tr>
     <tr>
     <td>Week 13 Discussion</td>
-      <td>Concurrency + Postterm Practice</td>
+      <td>Concurrency + Practice Postterm</td>
       <td>Worksheet 13</td>
-      <td>Solutions 13</td>
-      <td>Recording 13</td>
-      <td>Slides 13</td>
+      <td>Solutions 12</td>
+      <td>Recordings 12</td>
+      <td>Slides 12</td>
     </tr>
-    <tr>
-    <td>Week 14 Discussion</td>
+    <td>Week 13 Discussion</td>
       <td>HOLIDAY - NO DISCUSSION</td>
       <td>-</td>
       <td>-</td>
@@ -155,4 +162,5 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
 

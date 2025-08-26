@@ -12,7 +12,7 @@ nav_order: 1
 # **CS 10: The Beauty and Joy of Computing**
 UC Berkeley, Fall 2025
 
-
+## SITE UNDER CONSTRUCTION. SCHEDULE IS TO BE UPDATED. BUT SYLLABUS IS UP TO DATE
 
 {{ site.description }}
 
@@ -45,6 +45,7 @@ UC Berkeley, Fall 2025
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 

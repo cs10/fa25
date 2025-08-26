@@ -31,15 +31,15 @@
   <tbody class="content">
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 1</td> <!-- Week Number -->
-        <th>Mon 1/20</th> <!-- Date -->
-        <td colspan="4">NO CLASS (Holiday)</td><!-- Lecture -->
+        <th>Mon 8/25</th> <!-- Date -->
+        <td colspan="4">NO CLASS</td><!-- Lecture -->
     </tr>
     <tr>
-        <th>Tue 1/21</th> <!-- Date -->
-        <td colspan="4">NO CLASS (Holiday)</td><!-- Lecture -->
+        <th>Tue 8/26</th> <!-- Date -->
+        <td colspan="4">NO CLASS</td><!-- Lecture -->
     </tr>
     <tr>
-        <th>Wed 1/22</th> <!-- Date -->
+        <th>Wed 8/27</th> <!-- Date -->
         <td>Lec 1. Logistics + Abstraction<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 1)</a><br/>      
             <a href="https://drive.google.com/drive/folders/163Rp1WSJVLrkt4mV4w4YzUOBHy7WxFiW?usp=sharing">(Slides 1)</a><br/>
@@ -50,14 +50,14 @@
         <td><a href="https://forms.gle/jVGq66oNwRavc6Ut9">Presemester Survey Released</a><br/><b>Due (9/5)</b></td> <!-- Assignments -->
     </tr>
     <tr>
-        <th>Thu 1/23</th> <!-- Date -->
+        <th>Thu 8/28</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 1. Welcome to CS10!</a></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <th>Fri 1/24</th> <!-- Date -->
+        <th>Fri 8/29</th> <!-- Date -->
         <td>Talk 1: Ask Me Anything<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 1)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -84,7 +84,8 @@
   <tbody class="content">
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 2</td> <!-- Week Number -->
-        <th>Mon 1/27</th> <!-- Date -->
+        <th>Mon 9/1</th> <!-- Date -->
+        <td colspan="4">NO CLASS (Holiday)</td><!-- Lecture -->
         <td>Lec 2. Functions + Conditional Logic
             <a href="https://edstem.org/us/courses/74174/discussion/6093531">(Recording 2)</a><br/>      
             <a href="https://drive.google.com/drive/folders/16KBEliCaPrc4dX0MDTUCm1GOu5crJm11?usp=sharing">(Slides 2)</a><br/>
@@ -92,17 +93,17 @@
             </td> <!-- Lecture -->
         <td><a href="/sp25/lab_directory">Lab 2. Build Your Own Blocks</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/sp25/projects/">Proj 1: Worldle Released</a><br/><b>Due (2/05)</b></td> <!-- Assignment / Exam --> 
+        <td></td> <!-- Assignment / Exam --> 
     </tr>
     <tr>
-        <th>Tue 1/28</th> <!-- Date -->
+        <th>Tue 9/2</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <th>Wed 1/29 </th> <!-- Date -->
+        <th>Wed 9/3 </th> <!-- Date -->
         <td>Lec 3. Numbers + Abstraction<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 3)</a><br/>      
             <a href="https://drive.google.com/drive/folders/1-F7NaPtb9S1HGfMHy6vCPFKGTMZ_TBDC?usp=sharing">(Slides 3)</a><br/>
@@ -113,14 +114,14 @@
         <td></td> <!-- Assignments -->
     </tr>
     <tr>
-        <th>Thu 1/30</th> <!-- Date -->
+        <th>Thu 9/4</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td><a href="/sp25/lab_directory">Lab 3. Conditionals, Reporters, Testing</a></td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 2. Numeral Rep + Conditionals</a></td> <!-- Discussion -->
         <td><a href="/sp25/readings">Reading: Week 2 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <th>Fri 1/31</th> <!-- Date -->
+        <th>Fri 9/5</th> <!-- Date -->
         <td>Talk 2: Predicates, Truth Tables, Conversions<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 2)</a>
             </td> <!-- Lecture -->
@@ -155,7 +156,7 @@
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment / Exam -->
+        <td><a href="/fa25/projects/">Proj 1: Worldle Released</a><br/><b>Due (9/17)</b></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 2/04</th> <!-- Date -->

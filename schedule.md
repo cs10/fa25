@@ -40,8 +40,8 @@
     </tr>
     <tr>
         <th>Wed 8/27</th> <!-- Date -->
-        <td>Lec 1. Logistics + Abstraction<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 1)</a><br/>      
+        <td>Lec 1. Welcome + Abstraction<br/>
+            (Recording 1)<br/>      
             <a href="https://drive.google.com/drive/folders/163Rp1WSJVLrkt4mV4w4YzUOBHy7WxFiW?usp=sharing">(Slides 1)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617833">(Lecture Quiz 1)</a>
             </td> <!-- Lecture -->

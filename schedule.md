@@ -45,14 +45,14 @@
             <a href="https://drive.google.com/drive/folders/163Rp1WSJVLrkt4mV4w4YzUOBHy7WxFiW?usp=sharing">(Slides 1)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617833">(Lecture Quiz 1)</a>
             </td> <!-- Lecture -->
-        <td></td><!-- Lab -->
+        <td><a href="/fa25/lab_dirctory>Lab 1: Welcome to Snap!</a></td><!-- Lab -->
         <td></td> <!-- Discussion -->
         <td><a href="https://forms.gle/jVGq66oNwRavc6Ut9">Presemester Survey Released</a><br/><b>Due (9/5)</b></td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 1/23</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td><a href="https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=drive_link">Lab 1. Welcome to Snap!</a></td> <!-- Lab -->
+        <td></td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 1. Welcome to CS10!</a></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
@@ -90,14 +90,14 @@
             <a href="https://drive.google.com/drive/folders/16KBEliCaPrc4dX0MDTUCm1GOu5crJm11?usp=sharing">(Slides 2)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617832">(Lecture Quiz 2)</a>
             </td> <!-- Lecture -->
-        <td></td> <!-- Lab -->
+        <td><a href="/sp25/lab_directory">Lab 2. Build Your Own Blocks</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td><a href="/sp25/projects/">Proj 1: Worldle Released</a><br/><b>Due (2/05)</b></td> <!-- Assignment / Exam --> 
     </tr>
     <tr>
         <th>Tue 1/28</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td><a href="/sp25/lab_directory">Lab 2. Build Your Own Blocks</a></td> <!-- Lab -->
+        <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>

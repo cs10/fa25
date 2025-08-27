@@ -43,11 +43,10 @@ This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) s
 * **Edstem**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read Weekly Blasts, which are required readings in CS10. Click the `Ed Discussion` tab on the left to navigate to Edstem. Here is the link to the [EdStem](https://edstem.org/us/courses/83126). If you need to join the EdStem, click the following: [Join EdStem](https://edstem.org/us/join/Hf372b)
 * **Gradescope**: This is where you will submit Projects 1-4, and the Final Project. Click the `Gradescope` tab on the left to open Edstem. Submission instructions can be found at the following: [Gradescope](https://www.gradescope.com/courses/1098053). To join,l you can enter the following entry code: X247Z2
 * **Bcourses**: Lecture recordings can be found on [the Bcourses site](https://bcourses.berkeley.edu/courses/1547647/external_tools/90481), generally within 48h of lecture. You will have to be logged into your Berkeley email to access the recordings. The recordings are under the "Media Gallery" tab in Bcourses.
-<!--- * **iClicker**: You are required to [create a free iClicker account](https://mhe.my.site.com/iclicker/s/article/How-Students-Create-an-iClicker-Account-Through-a-Campus-Portal) and download the free iClicker app. Then, you should signup with your Berkeley email. To get credit for attending lecture, please open the app once you're seated in the lecture hall and mark your attendance. If for some reason you are not enrolled, use this the following links:
-    -  [Lecture iClcker](https://join.iclicker.com/NATV).
-    -  [Discussion iClicker](https://join.iclicker.com/DSRE)
-    -  [Lab iClicker](https://join.iclicker.com/TOXH)
---> 
+**iClicker**: You are required to [create a free iClicker account](https://mhe.my.site.com/iclicker/s/article/How-Students-Create-an-iClicker-Account-Through-a-Campus-Portal) and download the free iClicker app. Then, you should signup with your Berkeley email. To get credit for attending lecture, please open the app once you're seated in the lecture hall and mark your attendance. If for some reason you are not enrolled, use this the following links:
+    -  [Lecture iClcker](https://join.iclicker.com/LOCE).
+    -  [Discussion iClicker](https://join.iclicker.com/ZNLT)
+    -  [Lab iClicker](https://join.iclicker.com/LLFC)
 * **PrairieLearn**: This is the platform you will use to take exams (Quest, Midterm, and Postterm). We will manually add you the site later in the semester. <!--Here is the link to [PrairieLearn](https://us.prairielearn.com/pl/course_instance/192475). You will need to manually be added to the PrairieLearn. If you are not, please post a message on EdStem.-->
 * **Snap!**: The programming language we will be using for more than half the semester. The website can be found here: [Snap!](https://snap.berkeley.edu/)
 * **Gradeview**: This is the website where you will be able to access your current grades in the class. You will need to sign-in using your UC Berkeley credentials on the [Gradeview](https://gradeview.eecs.berkeley.edu/login) website.
@@ -85,7 +84,7 @@ There are two in-person lab options:
 1. Nahee's Lab on Monday and Wednesday from 3 to 5PM in Barker Hall, Room 101
 2. Marius's Lab on Monday and Wednesday from 8 to 10PM in Soda Hall, Room 438
 
-<b>Attendance to lab sections are required and part of your grade.</b> You can miss up to 5 lab sections without penalty so you do not need to inform us when you cannot attend lab. If there are extenuating circumstances which cause you to miss more than 5 lab sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Please note, the 5 "skip days" for lab sections only applies to attendance. You are still required to complete and submit the lab assignment. Lab attendance will be tracked through a Google form. 
+<b>Attendance to lab sections are required and part of your grade.</b> You can miss up to 5 lab sections without penalty so you do not need to inform us when you cannot attend lab. If there are extenuating circumstances which cause you to miss more than 5 lab sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Please note, the 5 "skip days" for lab sections only applies to attendance. You are still required to complete and submit the lab assignment. Lab attendance will be tracked through iClicker. 
 
 If you cannot attend a lab section for a particular day or in general for the semester, then you can earn lab attendance credit through submitting the lab assignment early. So if you either cannot reguarly attend lab, or if you miss a day, the lab will be due earlier. For example, if Lab X is due on Wednesday at 23:59PM, but you did not attend lab in-person; then, the deadline for you to submit Lab X is Wednesday at 3PM (the time before the lab section). There will be no lab attendance grade for Lab-1.
 
@@ -368,6 +367,7 @@ Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/pro
 
 It is very important to the EECS Department that every student in the EECS community feels safe, respected and welcome.  We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
+
 
 
 

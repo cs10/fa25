@@ -372,3 +372,66 @@
 </table>
 
 <br/>
+<!-- Week 7 Calendar -->
+<table class="table table-bordered schedule-table" id="week7">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan=5>Week 7</td>
+      <th>Mon 10/06</th>
+      <td>Lec 9. Recursion I (Functional)<br/>
+          <a href="">(Recording 9)</a><br/>
+          <a href="">(Slides 9)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577034">(Lecture Quiz 9)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 9. Boards</a></td>
+      <td></td>
+      <td><a href="/fa25/projects/">Proj 3: 2048 Released</a><br/><b>QUEST 2</b></td>
+    </tr>
+    <tr>
+      <th>Tue 10/07</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Wed 10/08</th>
+      <td>Lec 10. Recursion II (Fractals)<br/>
+          <a href="">(Recording 10)</a><br/>
+          <a href="">(Slides 10)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577037">(Lecture Quiz 10)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 10. Trees &amp; Fractals</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Thu 10/09</th>
+      <td></td>
+      <td></td>
+      <td><a href="/fa25/discussion">Disc 7. Recursion I</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Fri 10/10</th>
+      <td>Talk 7: Quest 2 Review<br/>
+          <a href="">(Recording: Talk 7)</a>
+      </td>
+      <td></td>
+      <td></td>
+      <td><b>QUEST 3</b></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>

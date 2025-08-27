@@ -531,7 +531,7 @@
     </tr>
     <tr>
       <th>Wed 10/22</th>
-      <td>Lec 14. Guest Lecture?<br/>
+      <td>Lec 14. Guest Lecture<br/>
           <a href="">(Recording 14)</a><br/>
           <a href="">(Slides 14)</a><br/>
           <a href="">(Lecture Quiz 14)</a>
@@ -554,6 +554,133 @@
       <td></td>
       <td></td>
       <td><b>MIDTERM 1</b></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+<!-- Week 10 Calendar -->
+<table class="table table-bordered schedule-table" id="week10">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan=5>Week 10</td>
+      <th>Mon 10/27</th>
+      <td>Lec 15. Concurrency<br/>
+          <a href="">(Recording 15)</a><br/>
+          <a href="">(Slides 15)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577059">(Lecture Quiz 15)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 13. Concurrency</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Tue 10/28</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Wed 10/29</th>
+      <td>Lec 16. OOP in Snap!<br/>
+          <a href="">(Recording 16)</a><br/>
+          <a href="">(Slides 16)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577079">(Lecture Quiz 16)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 14. OOP in Snap!</a></td>
+      <td></td>
+      <td><a href="/fa25/projects/"><b>Proj 4 Due</b></a></td>
+    </tr>
+    <tr>
+      <th>Thu 10/30</th>
+      <td></td>
+      <td></td>
+      <td><a href="/fa25/discussion">Disc 10. Proj 4 Presentations</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Fri 10/31</th>
+      <td>Talk 10: Midterm 2 Review<br/>
+          <a href="">(Recording: Talk 10)</a>
+      </td>
+      <td></td>
+      <td></td>
+      <td><a href="/fa25/projects/"><b>Final Projects Released</b></a><br/><b>MIDTERM 2</b></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+<!-- Week 11 Calendar -->
+<table class="table table-bordered schedule-table" id="week11">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan=5>Week 11</td>
+      <th>Mon 11/03</th>
+      <td>Lec 17. Python I – Intro<br/>
+          <a href="">(Recording 17)</a><br/>
+          <a href="">(Slides 17)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577083">(Lecture Quiz 17)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 15. Welcome to Python</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Tue 11/04</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Wed 11/05</th>
+      <td>Lec 18. Python II – Data Structures<br/>
+          <a href="">(Recording 18)</a><br/>
+          <a href="">(Slides 18)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577048">(Lecture Quiz 18)</a></td>
+      <td><a href="/fa25/lab_directory">Lab 16. Lists and Mutability</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Thu 11/06</th>
+      <td></td>
+      <td></td>
+      <td><a href="/fa25/discussion">Disc 11. Welcome to Python</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Fri 11/07</th>
+      <td>Talk 11: Midterm 3 Review<br/>
+          <a href="">(Recording: Talk 11)</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="/fa25/projects/">Proj 4 Comments Due</a><br/>
+          <a href="/fa25/projects/">Proj 4 Makeup Presentations Due</a><br/>
+          <a href="/fa25/projects/">Final Project Proposals Due</a><br/>
+          <b>MIDTERM 3</b></td>
     </tr>
   </tbody>
 </table>

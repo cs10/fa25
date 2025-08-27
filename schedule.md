@@ -809,3 +809,51 @@
 </table>
 
 <br/>
+<!-- Week 14 Calendar -->
+<table class="table table-bordered schedule-table" id="week14">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan=6>Week 14</td>
+      <th>Mon 11/24</th>
+      <td>Lec 23. Python III – Game Theory<br/>
+          <a href="">(Recording 23)</a><br/>
+          <a href="">(Slides 23)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577076">(Lecture Quiz 23)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 20. Recursion in Python</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Tue 11/25</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Wed 11/26</th>
+      <td colspan="4">NO CLASS</td>
+    </tr>
+    <tr>
+      <th>Thu 11/27</th>
+      <td colspan="4">NO CLASS</td>
+    </tr>
+    <tr>
+      <th>Fri 11/28</th>
+      <td colspan="4">NO CLASS</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>

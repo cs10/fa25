@@ -47,8 +47,9 @@
             </td> <!-- Lecture -->
         <td><a href="/fa25/lab_dirctory">Lab 1: Welcome to Snap!</a></td><!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="https://forms.gle/jVGq66oNwRavc6Ut9">Presemester Survey Released</a><br/><b>Due (9/5)</b></td> <!-- Assignments -->
-    </tr>
+        <td></td> <!-- Assignments -->
+<!--         <td><a href="https://forms.gle/jVGq66oNwRavc6Ut9">Presemester Survey Released</a><br/><b>Due (9/5)</b></td> <!-- Assignments -->
+    </tr> -->
     <tr>
         <th>Thu 8/28</th> <!-- Date -->
         <td></td><!-- Lecture -->
@@ -96,8 +97,8 @@
     </tr>
     <tr>
         <th>Wed 9/03</th> <!-- Date -->
-        <td>Lec 2. Functions + Conditional Logic
-            <a href="https://edstem.org/us/courses/74174/discussion/6093531">(Recording 2)</a><br/>      
+        <td>Lec 2. Functions
+            (Recording 2)<br/>      
             <a href="https://drive.google.com/drive/folders/16KBEliCaPrc4dX0MDTUCm1GOu5crJm11?usp=sharing">(Slides 2)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617832">(Lecture Quiz 2)</a>
             </td> <!-- Lecture -->
@@ -109,7 +110,7 @@
         <th>Thu 9/04</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td><a href="/sp25/discussion">Disc 2. Numeral Rep + Conditionals</a></td> <!-- Discussion -->
+        <td><a href="/sp25/discussion">Disc 2. Numeral Rep + Control Structures</a></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
@@ -140,46 +141,43 @@
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 3</td> <!-- Week Number -->
         <th>Mon 9/08</th> <!-- Date -->
-        <td>Lec 4. Victoria Phelps: Iteration (Guest Lecture) <br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 4)</a><br/>      
-            <a href="https://drive.google.com/drive/folders/1urD0m6icMElXfZXn8RMqrFcPgrlS6F7W?usp=sharing">(Slides 4)</a><br/>
-            <a href="https://www.gradescope.com/courses/957259/assignments/5711830">(Lecture Quiz 4)</a>
+        <td>Lec 3. Abstraction II <br/>
+            (Recording 3)<br/>      
+            (Slides 3)<br/>
+            (Lecture Quiz 3)
             </td> <!-- Lecture -->
-        <td></td> <!-- Lab -->
+        <td>Lab 3. Conditionals, Reporters, & Testing</td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td><a href="/fa25/projects/">Proj 1: Worldle Released</a><br/><b>Due (9/17)</b></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 9/09</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td><a href="/sp25/lab_directory">Lab 4. Iteration</a></td> <!-- Lab -->
+        <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 9/10 </th> <!-- Date -->
-        <td>Lec 5. Scope, Lists, HOFs<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 5)</a><br/>      
-            <a href="https://drive.google.com/drive/folders/1-gtzjKOx9AcdHEKYU1pLq0R-1Tlhsf4m?usp=sharing">(Slides 5)</a><br/>
-            <a href="https://www.gradescope.com/courses/957259/assignments/5617852">(Lecture Quiz 5)</a>
-        </td> <!-- Lecture -->
-        <td></td> <!-- Lab -->
+        <td>Lec 14. Computing in Education<br/>
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 14)</a><br/>      
+            <a href="https://drive.google.com/drive/folders/1BHmKClQCNFBnu_STNupfs-2NM5IflmUV?usp=drive_link">(Slides 14)</a><br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617851">(Lecture Quiz 14)</a></td> <!-- Lecture -->
+        <td>Catch-up Lab (optional)</td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td><a href="/sp25/projects">Proj 1: Worldle Due</a></td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 9/11</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td><a href="/sp25/lab_directory">Lab 5. Lists + HOFs</a></td> <!-- Lab -->
-        <td><a href="/sp25/discussion">Disc 3. Data-types, Domain / Range, HOFs</a></td> <!-- Discussion -->
-        <td><a href="">Reading: Week 3 Due</a></td> <!-- Assignment / Exam -->
+        <td></td> <!-- Lab -->
+        <td><a href="/sp25/discussion">Disc 3. Domain/Range, Scoping, Iteration, Lists </a></td> <!-- Discussion -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 9/12</th> <!-- Date -->
-        <td>Talk 3: HOFs<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 5)</a><br/>      
-            <a href="">(Slides 5)</a><br/>
-        </td> <!-- Lecture -->
+        <td>Talk 3: Binary/Dec/Hex Conversion<br/>
+            (Recording: Talk 3)</td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
@@ -330,7 +328,14 @@
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 5</td> <!-- Week Number -->
         <th>Mon 9/22</th> <!-- Date -->
-        <td colspan="4">NO CLASS (Holiday)</td>
+        <td>Lec 5. Scope, Lists, HOFs<br/>
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 5)</a><br/>      
+            <a href="https://drive.google.com/drive/folders/1-gtzjKOx9AcdHEKYU1pLq0R-1Tlhsf4m?usp=sharing">(Slides 5)</a><br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617852">(Lecture Quiz 5)</a>
+        </td> <!-- Lecture -->
+        <td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td><!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 9/23</th> <!-- Date -->

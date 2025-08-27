@@ -12,7 +12,7 @@ submission_files:
 *We highly recommend reading through this spec in its entirety before you begin.*
 
 > Any important updates or clarifications will be made here
-> The Project 1 Party is Monday, 2/3 from 3 to 5PM in Cory 400 
+>> The Project 1 Party is Monday, 2/3 from 3 to 5PM in Cory 400 
 
 ## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=BJC%20CS10%20Project%201%3A%20Wordle%E2%84%A2-lite)
 
@@ -46,7 +46,17 @@ The expected timeframe for this project is about 4 hours, with a partner.
 - Part 2: "matching slots" Block - 1 hour
 - Part 3: "update score" Block - 1 hr
 - Feedback Form - 10 minutes
+  
+Working on this project assumes you have completed the following:
+- Lecture 1
+- Lecture 2
+- Lecture 3
+- Lab 1
+- Lab 2
+- Lab 3
+- Discussion 1
 
+We recommend watching Lecture 4 and completing Lab 4 beforehand too, but this is optional.
 
 **Important: Ensure that you use the starter file we’ve linked below- do NOT create your own Snap! file for this project!**
 
@@ -111,3 +121,4 @@ Note: correct, working code should handle those test cases, but not have the tes
 
 ## Feedback Form 
 Congratulations on finishing your first project in CS10🥳. Please spend some time completing this [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeZ3Qm8l5PiXsl6Ow4_8rB0Zb3OM6kaPrKefFEeCD_-vKw7tg/viewform?usp=sharing). This will be worth 1 point of your project grade. 
+

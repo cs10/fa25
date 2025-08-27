@@ -248,3 +248,65 @@
 </table>
 
 <br/>
+<!-- Week 5 Calendar -->
+<table class="table table-bordered schedule-table" id="week5">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan=5>Week 5</td>
+      <th>Mon 9/22</th>
+      <td>Lec 5. Lists, Scoping, &amp; HOFs<br/>
+          <a href="">(Recording 5)</a><br/>
+          <a href="">(Slides 5)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577027">(Lecture Quiz 5)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 5. Lists &amp; HOFs</a></td>
+      <td></td>
+      <td><a href="/fa25/projects/">Proj 2: Spelling Bee Released</a></td>
+    </tr>
+    <tr>
+      <th>Tue 9/23</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Wed 9/24</th>
+      <td>Lec 6. Higher-Order Functions<br/>
+          <a href="">(Recording 6)</a><br/>
+          <a href="">(Slides 6)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577006">(Lecture Quiz 6)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 6. Functions as Data, HOFs</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Thu 9/25</th>
+      <td></td>
+      <td></td>
+      <td><a href="/fa25/discussion">Disc 5. HOFs</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Fri 9/26</th>
+      <td>Talk 5: Quest 1 Preview<br/>
+            <a href="">(Recording: Talk 5)</a></td> <!-- Lecture -->  
+      <td></td>
+      <td></td>
+      <td><b>QUEST 1</b></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>

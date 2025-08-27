@@ -42,7 +42,7 @@
         <th>Wed 8/27</th> <!-- Date -->
         <td>Lec 1. Welcome + Abstraction<br/>
             <a href="">(Recording 1)</a><br/>   
-            <a href="https://drive.google.com/drive/folders/163Rp1WSJVLrkt4mV4w4YzUOBHy7WxFiW?usp=sharing">(Slides 1)</a><br/>
+            <a href="https://drive.google.com/drive/folders/1ZMfd23KyrJEl9Yw-g_8sXZF7Td4G7_IT">(Slides 1)</a><br/>
             <a href="https://www.gradescope.com/courses/1098053/assignments/6577011">(Lecture Quiz 1)</a>
             </td> <!-- Lecture -->
         <td><a href="/fa25/lab_directory">Lab 1: Welcome to Snap!</a></td><!-- Lab -->
@@ -99,7 +99,7 @@
         <td>Lec 2. Functions<br/>
             <a href="">(Recording 2)</a><br/>      
             <a href="https://drive.google.com/drive/folders/1pMyNs4LdwbUrsJmK0m--iMUKwAbXLxmv">(Slides 2)</a><br/>
-            <a href="">(Lecture Quiz 2)</a>
+            <a href="https://www.gradescope.com/courses/1098053/assignments/6577012">(Lecture Quiz 2)</a>
             </td> <!-- Lecture -->
         <td><a href="/fa25/lab_directory">Lab 2. Build Your Own Blocks</a></td><!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -143,7 +143,7 @@
         <td>Lec 3. Abstraction II <br/>
             <a href="">(Recording 3)</a><br/>       
             <a href="https://drive.google.com/drive/folders/1RF-WgoEka4wRVxbfZNjLLlKcw7_O7BhN">(Slides 3)</a><br/>
-            <a href="">(Lecture Quiz 3)</a>
+            <a href="https://www.gradescope.com/courses/1098053/assignments/6577022">(Lecture Quiz 3)</a>
             </td> <!-- Lecture -->
         <td><a href="/fa25/lab_directory">Lab 3. Conditionals, Reporters, & Testing</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -160,8 +160,8 @@
         <th>Wed 9/10 </th> <!-- Date -->
         <td>Lec 14. Computing in Education<br/>
             <a href="">(Recording 14)</a><br/>      
-            <a href="https://drive.google.com/drive/folders/1BHmKClQCNFBnu_STNupfs-2NM5IflmUV?usp=drive_link">(Slides 14)</a><br/>
-            <a href="https://www.gradescope.com/courses/957259/assignments/5617851">(Lecture Quiz 14)</a></td> <!-- Lecture -->
+            <a href="https://drive.google.com/drive/folders/1X88498eFRUfx33I3f2fkE7uh5yh1rHfq">(Slides 14)</a><br/>
+            <a href="https://www.gradescope.com/courses/1098053/assignments/6577029">(Lecture Quiz 14)</a></td> <!-- Lecture -->
         <td>Catch-up Lab (optional)</td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->

@@ -250,8 +250,7 @@ Your total points will be rounded to the nearest integer when we compute letter 
 
 For all extension requests on any assignment, please use the [Extension Request Form][(https://forms.gle/FaAosSEWXKGWoXoV9](https://forms.gle/Wym7CXpRUBH2UhZk9)).
 
-You're also allowed to retroactively obtain extensions without penalty: i.e., you can obtain an extension even after the deadline of a lab/project, but not after the extended deadline for that assignment. The extended deadline for labs, as noted above, 48 hours (with the exception of labs due on Friday which are given 72-hours -- extended until Monday), at 2359 hrs; for projects, it's 72h after the original deadline.
-
+You're also allowed to retroactively obtain extensions without penalty: i.e., you can obtain an extension even after the deadline of a lab/project, but not after the extended deadline for that assignment.
 
 <b>NOTE: If you added the course late, please use your updated deadline as the 'original due date'.</b>
 
@@ -263,7 +262,9 @@ We understand that circumstances may arise that may cause you to not be able to 
 
 The policy for extension requests on labs are as follows:
 
-- An extension request will grant you an extra lab section in order to complete the lab assignment without any lateness penalties. <!-- For instance, if you ask for an extension on a , which is generally due on the day that lab-13 is scheduled, then it will now be due the day that lab-14 is scheduled. So, if you are getting an exttension on Lab X, then the new deadline for Lab X is when Lab X + 2 is released at 11:59PM. However, if you are trying to obtain lab attendance credit, then it is due by 5PM when Lab X + 2 is released. -->
+- An extension request will grant you an extra lab section in order to complete the lab assignment without any lateness penalties.
+- The extended deadline for labs, as noted above under the "Lab Section", is 48 hours (with the exception of labs due on Friday which are given 72-hours -- extended until Monday), at 2359 hrs; for projects, it's 72h after the original deadline.
+ <!-- For instance, if you ask for an extension on a , which is generally due on the day that lab-13 is scheduled, then it will now be due the day that lab-14 is scheduled. So, if you are getting an exttension on Lab X, then the new deadline for Lab X is when Lab X + 2 is released at 11:59PM. However, if you are trying to obtain lab attendance credit, then it is due by 5PM when Lab X + 2 is released. -->
 
 - There are two exceptions:
     - Practice Midterm will only be given a 48-hour extension (for both the coding and non-coding)
@@ -367,6 +368,7 @@ Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/pro
 
 It is very important to the EECS Department that every student in the EECS community feels safe, respected and welcome.  We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
+
 
 
 

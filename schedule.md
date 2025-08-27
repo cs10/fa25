@@ -87,7 +87,7 @@
         <th>Mon 9/01</th> <!-- Date -->
         <td colspan="4">NO CLASS</td><!-- Lecture -->
     </tr>
-    </tr>
+    <tr>
         <th>Tue 9/02</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->

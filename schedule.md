@@ -186,70 +186,6 @@
 </table>
 
 <br/>
-<!-- Week 3 Calendar (OLD) -->
-<table class="table table-bordered schedule-table" id="week3">
-  <thead>
-    <tr>
-        <th class="center schedule-week-num">Week</th>
-        <th>Date</th>
-        <th>Lecture</th>
-        <th>Lab</th>
-        <th>Discussion</th>
-        <th>Assignment / Exam</th>
-    </tr>
-  </thead>
-  <tbody class="content">
-    <tr>
-        <td class="schedule-week-num" rowspan=5>Week 3</td> <!-- Week Number -->
-        <th>Mon 2/03</th> <!-- Date -->
-        <td>Lec 4. Victoria Phelps: Iteration (Guest Lecture) <br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 4)</a><br/>      
-            <a href="https://drive.google.com/drive/folders/1urD0m6icMElXfZXn8RMqrFcPgrlS6F7W?usp=sharing">(Slides 4)</a><br/>
-            <a href="https://www.gradescope.com/courses/957259/assignments/5711830">(Lecture Quiz 4)</a>
-            </td> <!-- Lecture -->
-        <td></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
-        <td><a href="/fa25/projects/">Proj 1: Worldle Released</a><br/><b>Due (9/17)</b></td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
-        <th>Tue 2/04</th> <!-- Date -->
-        <td></td><!-- Lecture -->
-        <td><a href="/sp25/lab_directory">Lab 4. Iteration</a></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
-        <th>Wed 2/05 </th> <!-- Date -->
-        <td>Lec 5. Scope, Lists, HOFs<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 5)</a><br/>      
-            <a href="https://drive.google.com/drive/folders/1-gtzjKOx9AcdHEKYU1pLq0R-1Tlhsf4m?usp=sharing">(Slides 5)</a><br/>
-            <a href="https://www.gradescope.com/courses/957259/assignments/5617852">(Lecture Quiz 5)</a>
-        </td> <!-- Lecture -->
-        <td></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
-        <td><a href="/sp25/projects">Proj 1: Worldle Due</a></td> <!-- Assignments -->
-    </tr>
-    <tr>
-        <th>Thu 2/06</th> <!-- Date -->
-        <td></td><!-- Lecture -->
-        <td><a href="/sp25/lab_directory">Lab 5. Lists + HOFs</a></td> <!-- Lab -->
-        <td><a href="/sp25/discussion">Disc 3. Data-types, Domain / Range, HOFs</a></td> <!-- Discussion -->
-        <td><a href="">Reading: Week 3 Due</a></td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
-        <th>Fri 2/07</th> <!-- Date -->
-        <td>Talk 3: HOFs<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 5)</a><br/>      
-            <a href="">(Slides 5)</a><br/>
-        </td> <!-- Lecture -->
-        <td></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment / Exam -->
-    </tr>
-  </tbody>
-</table>
-
-<br/>
 <!-- Week 4 Calendar -->
 <table class="table table-bordered schedule-table" id="week4">
   <thead>
@@ -300,9 +236,8 @@
     </tr>
     <tr>
         <th>Fri 9/19</th> <!-- Date -->
-        <td>Talk 4. Quest Preview<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">Talk 4: Recording</a><br/>      
-            (No Slides)</td> <!-- Lecture -->
+        <td>Talk 4. Conditionals, Truth Tables, Predicates<br/>
+            (Recording: Talk 4)</td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Quest 1</td> <!-- Assignment / Exam -->
@@ -364,9 +299,8 @@
     </tr>
     <tr>
         <th>Fri 9/26</th> <!-- Date -->
-        <td>Talk 5: Quest 1 Review<br/> 
-            (No Recording)<br/>      
-            (No Slides)<br/></td> <!-- Lecture -->
+        <td>Talk 5. Quest 1 Preview<br/>
+            (Recording: Talk 5)</td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Quest 2</td> <!-- Assignment / Exam -->
@@ -427,10 +361,8 @@
     </tr>
     <tr>
         <th>Fri 10/03</th> <!-- Date -->
-        <td>Talk 6. Marius Castro: Quest 2 Review (Guest Lecture) <br/>
-            (No Recording)<br/>
-            (No Slides)
-            </td>  <!-- Lecture -->
+        <td>Talk 6. Quest 1 Review <br/>
+            (Recording: Talk 6)</td>  <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Quest 3</td> <!-- Assignment / Exam -->
@@ -491,9 +423,8 @@
     </tr>
     <tr>
         <th>Fri 10/10</th> <!-- Date -->
-        <td>Talk 7. Recursion I<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 7)</a><br/>      
-            <a href="">(Slides: Talk 7)</a> </td> <!-- Lecture -->
+        <td>Talk 7. Quest 2 Review<br/>
+            (Recording: Talk 7)</td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
@@ -553,9 +484,8 @@
     </tr>
     <tr>
         <th>Fri 10/17</th> <!-- Date -->
-        <td>Talk 8. Midterm Preview<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 8)</a><br/>      
-            (No Slides)</td> <!-- Lecture -->
+        <td>Talk 8. Quest 3 Preview<br/>
+            (Recording: Talk 8)</td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Midterm 1</td> <!-- Assignment / Exam -->
@@ -615,9 +545,8 @@
     </tr>
     <tr>
         <th>Fri 10/24</th> <!-- Date -->
-        <td>Talk 9: Midterm 1 Review<br/>
-            (No Recording)<br/>    
-            (No Slides)</td> <!-- Lecture -->
+        <td>Talk 9. Midterm 1 Preview<br/>
+            (Recording: Talk 9)</td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Midterm 2</td> <!-- Assignment / Exam -->
@@ -659,7 +588,11 @@
     </tr>
     <tr>
         <th>Fri 10/31</th> <!-- Date -->
-        <td colspan="4">NO CLASS (Holiday)</td>
+        <td>Talk 10. Midterm 2 Review<br/>
+            (Recording: Talk 10)</td> <!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td>Midterm 2</td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -717,9 +650,8 @@
     </tr>
     <tr>
         <th>Fri 11/07</th> <!-- Date -->
-        <td>Talk 11: Midterm 2 Review<br/>
-            (No Recording)<br/>      
-            (No Slides)</td> <!-- Lecture -->
+        <td>Talk 11: Midterm 3 Review<br/>
+            (Recording: Talk 11)<!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Midterm 3</td> <!-- Assignment / Exam -->
@@ -781,7 +713,7 @@
     <tr>
         <th>Fri 11/14</th> <!-- Date -->
         <td>Talk 12. Python Live Coding<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 12)</a></td> <!-- Lecture -->
+            (Recording: Talk 12)</td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Proj 4: Feedback + Comments Due<br/>
@@ -843,7 +775,7 @@
     <tr>
         <th>Fri 11/21</th> <!-- Date -->
         <td>Talk 13. Postterm Preview<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 13)</a></td> <!-- Lecture -->
+            (Recording: Talk 13)</td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Postterm 1</td> <!-- Assignment / Exam -->
@@ -902,9 +834,7 @@
     </tr>
     <tr>
         <th>Fri 11/28</th> <!-- Date -->
-        <td>Talk 14. Postterm 1 Review<br/>
-            (No Recording)<br/>      
-            (No Slides)</td> <!-- Lecture -->
+        <td></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Postterm 2</td> <!-- Assignment / Exam -->
@@ -963,9 +893,8 @@
     </tr>
     <tr>
         <th>Fri 12/05</th> <!-- Date -->
-        <td>Talk 15. Postterm 2 Review<br/>
-            (No Recording)<br/>      
-            (No Slides)</td> <!-- Lecture -->
+        <td>Talk 14. Postterm 2 Review<br/>
+            (Recording: Talk 14)</td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Postterm 3</td> <!-- Assignment / Exam -->

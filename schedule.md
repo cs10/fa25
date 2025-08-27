@@ -184,4 +184,67 @@
   </tbody>
 </table>
 
+<br/>
+<!-- Week 4 Calendar -->
+<table class="table table-bordered schedule-table" id="week4">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan="5">Week 4</td>
+      <th>Mon 9/15</th>
+      <td>Lec 4. Iteration<br/>
+          <a href="">(Recording 4)</a><br/>
+          <a href="">(Slides 4)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577004">(Lecture Quiz 4)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 4. Iteration</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Tue 9/16</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Wed 9/17</th>
+      <td>Lec 5. Saving the World with Computing (Guest Lecture)<br/>
+          <a href="">(Recording 5)</a><br/>
+          <a href="">(Slides 5)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577043">(Lecture Quiz 5)</a>
+      </td>
+      <td>Project 1 Party (optional)</td>
+      <td></td>
+      <td><a href="/fa25/projects/">Proj 1 Due</a></td> <!-- Assignment / Exam -->
+    </tr>
+    <tr>
+      <th>Thu 9/18</th>
+      <td></td>
+      <td></td>
+      <td><a href="/fa25/discussion">Disc 4. Quest Review</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Fri 9/19</th>
+      <td>Talk 4: Conditionals, Truth Tables, Predicates<br/>
+          <a href="">(Recording: Talk 4)</a>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
+<br/>

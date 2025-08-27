@@ -742,12 +742,68 @@
       <td></td>
       <td><a href="/fa25/projects/">Final Project Meetings</a></td>
     </tr>
+  </tbody>
+</table>
+
+<br/>
+<!-- Week 13 Calendar -->
+<table class="table table-bordered schedule-table" id="week13">
+  <thead>
     <tr>
-      <th>Sat 11/15</th>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan=6>Week 13</td>
+      <th>Mon 11/17</th>
+      <td>Lec 21. Generative AI<br/>
+          <a href="">(Recording 21)</a><br/>
+          <a href="">(Slides 21)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577081">(Lecture Quiz 21)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 19. Data Science</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Tue 11/18</th>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
+    </tr>
+    <tr>
+      <th>Wed 11/19</th>
+      <td>Lec 22. Ethics in AI<br/>
+          <a href="">(Recording 22)</a><br/>
+          <a href="">(Slides 22)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577077">(Lecture Quiz 22)</a>
+      </td>
+      <td><a href="/fa25/labs">Practice Postterm (no code + code)</a></td>
+      <td></td>
+      <td><a href="/fa25/projects/"><b>Proj 4 Resubmissions Due</b></a></td>
+    </tr>
+    <tr>
+      <th>Thu 11/20</th>
+      <td></td>
+      <td></td>
+      <td><a href="/fa25/discussion">Disc 13. Concurrency + Postterm Practice</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Fri 11/21</th>
+      <td>Talk 13: Postterm 1 Preview<br/>
+          <a href="">(Recording: Talk 13)</a>
+      </td>
+      <td></td>
+      <td></td>
+      <td><b>POSTTERM 1</b></td>
     </tr>
   </tbody>
 </table>

@@ -16,7 +16,7 @@ Lab Slides and Worksheets: TBD
 
 | Labs                                       | Submission Deadline       |
 | :----:                                     | :----:                     |
-| [Lab 1: Welcome to Snap!](/fa25/_labs/lab01)                | WED 8/27 Nothing to submit |
+| [Lab 1: Welcome to Snap!](/fa25/labs/lab01)                | WED 8/27 Nothing to submit |
 | [Lab 2: Build Your Own Block]()            | FRI 9/5                    |
 | [Lab 3: Conditionals, Reporters, Testing]()| WED 9/10                   |
 | [Lab 4: Iteration]()                       | WED 9/17                   |

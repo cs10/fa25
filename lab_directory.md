@@ -6,7 +6,7 @@ nav_order: 8
 ---
 # Labs
 
-Lab Slides and Worksheets: [Folder]()
+Lab Slides and Worksheets: TBD
 
 > Labs are an opportunity for you to apply what you've learned in lecture in code (and other forms) All labs have a conceptual and a coding component. All labs assignments must be uploaded and autograded using Gradescope; the Gradescope link can be found on the worksheet. There is also two sets of practice exams that will count towards your lab grade (the Practice Midterm and the Practice Postterm). You will need to take both the coding and non-coding portions to receive credit. Credit for the practice exams is based on completion only not the score you received on the practice exam. 
 
@@ -16,7 +16,7 @@ Lab Slides and Worksheets: [Folder]()
 
 | Labs                                       | Submission Deadline       |
 | :----:                                     | :----:                     |
-| [Lab 1: Welcome to Snap!]()                | WED 8/27 Nothing to submit |
+| [Lab 1: Welcome to Snap!](/fa25/_labs/lab01)                | WED 8/27 Nothing to submit |
 | [Lab 2: Build Your Own Block]()            | FRI 9/5                    |
 | [Lab 3: Conditionals, Reporters, Testing]()| WED 9/10                   |
 | [Lab 4: Iteration]()                       | WED 9/17                   |

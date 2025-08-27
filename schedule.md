@@ -310,3 +310,65 @@
 </table>
 
 <br/>
+<!-- Week 6 Calendar -->
+<table class="table table-bordered schedule-table" id="week6">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan=5>Week 6</td>
+      <th>Mon 9/29</th>
+      <td>Lec 7. Algorithms<br/>
+          <a href="">(Recording 7)</a><br/>
+          <a href="">(Slides 7)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577030">(Lecture Quiz 7)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 7. Algorithms</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Tue 9/30</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Wed 10/01</th>
+      <td>Lec 8. Testing + 2048<br/>
+          <a href="">(Recording 8)</a><br/>
+          <a href="">(Slides 8)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577025">(Lecture Quiz 8)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 8. Testing + 2048</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Thu 10/02</th>
+      <td></td>
+      <td></td>
+      <td><a href="/fa25/discussion">Disc 6. HOFs, Lambdas, Debugging</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Fri 10/03</th>
+      <td>Talk 6: Quest 1 Review<br/>
+            <a href="">(Recording: Talk 6)</a></td> <!-- Lecture -->    
+      <td></td>
+      <td></td>
+      <td><a href="/fa25/projects/"><b>Proj 2 Due</b></a><br/><b>QUEST 2</b></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>

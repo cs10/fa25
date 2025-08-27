@@ -94,7 +94,7 @@ Some lab days will be Project Parties or Catch-up Sessions. On these days, there
 
 ### Discussion Sections
 
-Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming and to prepare for our exams. Discussion will be located in Soda Hall, Room 438. 
+Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming and to prepare for our exams. Discussion 1 (4 to 5PM) will be located in Soda Hall, Room 438. Discussion 2 (5 to 6PM) will be located in Stanley Hall, Room 106.
 
 Discussion attendance is mandatory. If you attend, then we will check you off in person, and there is no further action needed to receive credit other than your participation during discussion. If you do not attend (either you have a regular conflict or just miss a few classes), then you can make-up the entire attendance credit by submitting the discussion worksheet (just the required portions) to Gradescope. You must complete the entire required portions of the worksheet to receive credit. Worksheets will be graded on completion and honest effort. Discussions will also be recorded, so we recommend watching the recordings to get help with the worksheet problems. However, discussions will not go over every problem on the worksheet.
 
@@ -367,6 +367,7 @@ Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/pro
 
 It is very important to the EECS Department that every student in the EECS community feels safe, respected and welcome.  We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
+
 
 
 

@@ -41,7 +41,7 @@
     <tr>
         <th>Wed 8/27</th> <!-- Date -->
         <td>Lec 1. Welcome + Abstraction<br/>
-            (Recording 1)<br/>      
+            <a href="">(Recording 1)</a><br/>   
             <a href="https://drive.google.com/drive/folders/163Rp1WSJVLrkt4mV4w4YzUOBHy7WxFiW?usp=sharing">(Slides 1)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617833">(Lecture Quiz 1)</a>
             </td> <!-- Lecture -->
@@ -59,7 +59,7 @@
     <tr>
         <th>Fri 8/29</th> <!-- Date -->
         <td>Talk 1: Ask Me Anything<br/>
-            (Recording: Talk 1)</td> <!-- Lecture -->
+            <a href="">(Recording: Talk 1)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
@@ -141,9 +141,9 @@
         <td class="schedule-week-num" rowspan=5>Week 3</td> <!-- Week Number -->
         <th>Mon 9/08</th> <!-- Date -->
         <td>Lec 3. Abstraction II <br/>
-            (Recording 3)<br/>      
-            (Slides 3)<br/>
-            (Lecture Quiz 3)
+            <a href="">(Recording 3)</a><br/>       
+            <a href="">(Slides 3)</a><br/>
+            <a href="">(Lecture Quiz 3)</a>
             </td> <!-- Lecture -->
         <td>Lab 3. Conditionals, Reporters, & Testing</td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -176,7 +176,7 @@
     <tr>
         <th>Fri 9/12</th> <!-- Date -->
         <td>Talk 3: Binary/Dec/Hex Conversion<br/>
-            (Recording: Talk 3)</td> <!-- Lecture -->
+            <a href="">(Recording: Talk 3)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->

@@ -12,7 +12,7 @@ nav_order: 1
 # **CS 10: The Beauty and Joy of Computing**
 UC Berkeley, Fall 2025
 
-## SITE UNDER CONSTRUCTION. SCHEDULE IS TO BE UPDATED. BUT SYLLABUS IS UP TO DATE
+## SITE UNDER CONSTRUCTION
 
 {{ site.description }}
 
@@ -34,8 +34,6 @@ UC Berkeley, Fall 2025
 - **Time:**  4-5PM  *or* 5-6PM 
 - **Place:** Soda Hall, Room 438 (both sections)
 
-**[CS 10 Attendance Form]()**
-
 **OH Queue:** <a href="https://oh.cs10.org/"> oh.cs10.org</a>
 
 <br/>
@@ -46,6 +44,7 @@ UC Berkeley, Fall 2025
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 

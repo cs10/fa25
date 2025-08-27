@@ -686,3 +686,70 @@
 </table>
 
 <br/>
+<!-- Week 12 Calendar -->
+<table class="table table-bordered schedule-table" id="week12">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan=6>Week 12</td>
+      <th>Mon 11/10</th>
+      <td>Lec 19. Guest Lecture<br/>
+          <a href="">(Recording 19)</a><br/>
+          <a href="">(Slides 19)</a><br/>
+          <a href="">(Lecture Quiz 19)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 17. Data Structures in Python</a></td>
+      <td></td>
+      <td><a href="/fa25/projects/">Final Project Meetings</a></td>
+    </tr>
+    <tr>
+      <th>Tue 11/11</th>
+      <td colspan="4">NO CLASS</td>
+    </tr>
+    <tr>
+      <th>Wed 11/12</th>
+      <td>Lec 20. Programming Paradigms<br/>
+          <a href="">(Recording 20)</a><br/>
+          <a href="">(Slides 20)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577047">(Lecture Quiz 20)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 18. Text Processing in Python</a></td>
+      <td></td>
+      <td><a href="/fa25/projects/">Final Project Meetings</a></td>
+    </tr>
+    <tr>
+      <th>Thu 11/13</th>
+      <td></td>
+      <td></td>
+      <td><a href="/fa25/discussion">Disc 12. Data Structures in Python</a></td>
+      <td><a href="/fa25/projects/">Final Project Meetings</a></td>
+    </tr>
+    <tr>
+      <th>Fri 11/14</th>
+      <td>Talk 12: Python Live Coding<br/>
+          <a href="">(Recording: Talk 12)</a>
+      </td>
+      <td></td>
+      <td></td>
+      <td><a href="/fa25/projects/">Final Project Meetings</a></td>
+    </tr>
+    <tr>
+      <th>Sat 11/15</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>

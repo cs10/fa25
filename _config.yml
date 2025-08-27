@@ -56,8 +56,6 @@ aux_links:
     - 'https://student.iclicker.com/#/login'
   Gradescope:
     - 'https://www.gradescope.com/courses/1098053'
-  Attendance Form:
-    - ''
 
 
 
@@ -198,6 +196,7 @@ exclude:
   - spec/
   - docs/
   - node_modules/
+
 
 
 

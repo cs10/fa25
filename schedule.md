@@ -435,3 +435,128 @@
 </table>
 
 <br/>
+```html
+<!-- Week 8 Calendar -->
+<table class="table table-bordered schedule-table" id="week8">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan=5>Week 8</td>
+      <th>Mon 10/13</th>
+      <td>Lec 11. Recursion III (Count Change)<br/>
+          <a href="">(Recording 11)</a><br/>
+          <a href="">(Slides 11)</a><br/>
+          <a href="">(Lecture Quiz 11)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 11. Recursive Reporters</a></td>
+      <td></td>
+      <td><b>QUEST 3 (Sun 10/12)</b></td>
+    </tr>
+    <tr>
+      <th>Tue 10/14</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Wed 10/15</th>
+      <td>Lec 12. Algorithmic Complexity<br/>
+          <a href="">(Recording 12)</a><br/>
+          <a href="">(Slides 12)</a><br/>
+          <a href="">(Lecture Quiz 12)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 12. Algorithmic Complexity</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Thu 10/16</th>
+      <td></td>
+      <td></td>
+      <td><a href="/fa25/discussion">Disc 8. Algorithmic Complexity + Tree Recursion</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Fri 10/17</th>
+      <td>Talk 8: Quest 3 Preview<br/>
+          <a href="">(Recording: Talk 8)</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+<!-- Week 8 Calendar -->
+<table class="table table-bordered schedule-table" id="week8">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan=5>Week 8</td>
+      <th>Mon 10/13</th>
+      <td>Lec 11. Recursion III (Count Change)<br/>
+          <a href="">(Recording 11)</a><br/>
+          <a href="">(Slides 11)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577044">(Lecture Quiz 11)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 11. Recursive Reporters</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Tue 10/14</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Wed 10/15</th>
+      <td>Lec 12. Algorithmic Complexity<br/>
+          <a href="">(Recording 12)</a><br/>
+          <a href="">(Slides 12)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577028">(Lecture Quiz 12)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 12. Algorithmic Complexity</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Thu 10/16</th>
+      <td></td>
+      <td></td>
+      <td><a href="/fa25/discussion">Disc 8. Algorithmic Complexity + Tree Recursion</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Fri 10/17</th>
+      <td>Talk 8: Quest 3 Preview<br/>
+          <a href="">(Recording: Talk 8)</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>

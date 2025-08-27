@@ -47,9 +47,8 @@
             </td> <!-- Lecture -->
         <td><a href="/fa25/lab_dirctory">Lab 1: Welcome to Snap!</a></td><!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignments -->
-<!--         <td><a href="https://forms.gle/jVGq66oNwRavc6Ut9">Presemester Survey Released</a><br/><b>Due (9/5)</b></td> <!-- Assignments -->
-    </tr> -->
+        <td><a href="https://forms.gle/jVGq66oNwRavc6Ut9">Presemester Survey Released</a><br/><b>Due (9/5)</b></td> <!-- Assignments -->
+    </tr>
     <tr>
         <th>Thu 8/28</th> <!-- Date -->
         <td></td><!-- Lecture -->
@@ -97,10 +96,10 @@
     </tr>
     <tr>
         <th>Wed 9/03</th> <!-- Date -->
-        <td>Lec 2. Functions
-            (Recording 2)<br/>      
-            <a href="https://drive.google.com/drive/folders/16KBEliCaPrc4dX0MDTUCm1GOu5crJm11?usp=sharing">(Slides 2)</a><br/>
-            <a href="https://www.gradescope.com/courses/957259/assignments/5617832">(Lecture Quiz 2)</a>
+        <td>Lec 2. Functions<br/>
+            <a href="">(Recording 2)</a><br/>      
+            <a href="">(Slides 2)</a><br/>
+            <a href="">(Lecture Quiz 2)</a>
             </td> <!-- Lecture -->
         <td><a href="/sp25/lab_directory">Lab 2. Build Your Own Blocks</a></td><!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -184,6 +183,8 @@
     </tr>
   </tbody>
 </table>
+
+
 
 <br/>
 <!-- Week 3 Calendar (OLD) -->

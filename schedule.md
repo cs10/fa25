@@ -857,3 +857,172 @@
 </table>
 
 <br/>
+<!-- Week 15 Calendar -->
+<table class="table table-bordered schedule-table" id="week15">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan=5>Week 15</td>
+      <th>Mon 12/01</th>
+      <td>Lec 25. Alumni Panel<br/>
+          <a href="">(Recording 25)</a><br/>
+          <a href="">(Slides 25)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577058">(Lecture Quiz 25)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Lab 21 OPTIONAL. Snap + Python Libraries</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Tue 12/02</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Wed 12/03</th>
+      <td>Lec 26. Conclusion and Farewell<br/><br/>
+          <a href="">(Recording 26)</a><br/>
+          <a href="">(Slides 26)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577082">(Lecture Quiz 26)</a>
+      </td>
+      <td>Project Work Session</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Thu 12/04</th>
+      <td></td>
+      <td></td>
+      <td><a href="/fa25/discussion">Disc 14. Review</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Fri 12/05</th>
+      <td>POSTTERM 2 REVIEW<br/>
+          <a href="">(Recording: Postterm 2 Review)</a></td>
+      <td></td>
+      <td></td>
+      <td><b>POSTTERM 2</b></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<!-- RRR Week Calendar -->
+<table class="table table-bordered schedule-table" id="rrrweek">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan=5>RRR Week</td>
+      <th>Mon 12/08</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Tue 12/09</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><a href="/fa25/projects/"><b>Final Project Due</b></a></td>
+    </tr>
+    <tr>
+      <th>Wed 12/10</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Thu 12/11</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Fri 12/12</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><b>POSTTERM 3</b></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+<!-- Finals Week Calendar -->
+<table class="table table-bordered schedule-table" id="finalsweek">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan=5>Finals Week</td>
+      <th>Mon 12/15</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Tue 12/16</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Release Grades<br/>Final Project Regrades</td>
+    </tr>
+    <tr>
+      <th>Wed 12/17</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Thu 12/18</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Fri 12/19</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>

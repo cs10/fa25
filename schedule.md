@@ -98,7 +98,7 @@
         <th>Wed 9/03</th> <!-- Date -->
         <td>Lec 2. Functions<br/>
             <a href="">(Recording 2)</a><br/>      
-            <a href="">(Slides 2)</a><br/>
+            <a href="https://drive.google.com/drive/folders/1pMyNs4LdwbUrsJmK0m--iMUKwAbXLxmv">(Slides 2)</a><br/>
             <a href="">(Lecture Quiz 2)</a>
             </td> <!-- Lecture -->
         <td><a href="/fa25/lab_directory">Lab 2. Build Your Own Blocks</a></td><!-- Lab -->
@@ -115,7 +115,7 @@
     <tr>
         <th>Fri 9/05</th> <!-- Date -->
         <td>Talk 2: Making Functions<br/>
-            (Recording: Talk 2)</td> <!-- Lecture -->
+            <a href="">(Recording: Talk 2)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
@@ -142,7 +142,7 @@
         <th>Mon 9/08</th> <!-- Date -->
         <td>Lec 3. Abstraction II <br/>
             <a href="">(Recording 3)</a><br/>       
-            <a href="">(Slides 3)</a><br/>
+            <a href="https://drive.google.com/drive/folders/1RF-WgoEka4wRVxbfZNjLLlKcw7_O7BhN">(Slides 3)</a><br/>
             <a href="">(Lecture Quiz 3)</a>
             </td> <!-- Lecture -->
         <td><a href="/fa25/lab_directory">Lab 3. Conditionals, Reporters, & Testing</a></td> <!-- Lab -->
@@ -159,12 +159,12 @@
     <tr>
         <th>Wed 9/10 </th> <!-- Date -->
         <td>Lec 14. Computing in Education<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 14)</a><br/>      
+            <a href="">(Recording 14)</a><br/>      
             <a href="https://drive.google.com/drive/folders/1BHmKClQCNFBnu_STNupfs-2NM5IflmUV?usp=drive_link">(Slides 14)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617851">(Lecture Quiz 14)</a></td> <!-- Lecture -->
         <td>Catch-up Lab (optional)</td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/fa25/projects">Proj 1: Worldle Due</a></td> <!-- Assignments -->
+        <td></td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 9/11</th> <!-- Date -->

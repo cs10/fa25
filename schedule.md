@@ -147,7 +147,7 @@
             </td> <!-- Lecture -->
         <td><a href="/fa25/lab_directory">Lab 3. Conditionals, Reporters, & Testing</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/fa25/projects/">Proj 1: Worldle Released</a><br/><b>Due (9/17)</b></td> <!-- Assignment / Exam -->
+        <td><a href="/fa25/projects/"><b>Proj 1: Worldle Released</b></a><br/><b>Due (9/17)</b></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 9/09</th> <!-- Date -->
@@ -226,7 +226,7 @@
       </td>
       <td>Project 1 Party (optional)</td>
       <td></td>
-      <td><a href="/fa25/projects/">Proj 1 Due</a></td> <!-- Assignment / Exam -->
+      <td><a href="/fa25/projects/"><b>Proj 1 Due</b></a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
       <th>Thu 9/18</th>
@@ -271,7 +271,7 @@
       </td>
       <td><a href="/fa25/lab_directory">Lab 5. Lists &amp; HOFs</a></td>
       <td></td>
-      <td><a href="/fa25/projects/">Proj 2: Spelling Bee Released</a></td>
+      <td><a href="/fa25/projects/"><b>Proj 2: Spelling Bee Released</b></a></td>
     </tr>
     <tr>
       <th>Tue 9/23</th>
@@ -395,7 +395,7 @@
       </td>
       <td><a href="/fa25/lab_directory">Lab 9. Boards</a></td>
       <td></td>
-      <td><a href="/fa25/projects/">Proj 3: 2048 Released</a><br/><b>QUEST 2</b></td>
+      <td><a href="/fa25/projects/"><b>Proj 3: 2048 Released</b></a><br/><b>Due (10/20)</b><br/><b>QUEST 2</b></td> <!-- Assignment / Exam -->  
     </tr>
     <tr>
       <th>Tue 10/07</th>
@@ -430,69 +430,6 @@
       <td></td>
       <td></td>
       <td><b>QUEST 3</b></td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
-```html
-<!-- Week 8 Calendar -->
-<table class="table table-bordered schedule-table" id="week8">
-  <thead>
-    <tr>
-      <th class="center schedule-week-num">Week</th>
-      <th>Date</th>
-      <th>Lecture</th>
-      <th>Lab</th>
-      <th>Discussion</th>
-      <th>Assignment / Exam</th>
-    </tr>
-  </thead>
-  <tbody class="content">
-    <tr>
-      <td class="schedule-week-num" rowspan=5>Week 8</td>
-      <th>Mon 10/13</th>
-      <td>Lec 11. Recursion III (Count Change)<br/>
-          <a href="">(Recording 11)</a><br/>
-          <a href="">(Slides 11)</a><br/>
-          <a href="">(Lecture Quiz 11)</a>
-      </td>
-      <td><a href="/fa25/lab_directory">Lab 11. Recursive Reporters</a></td>
-      <td></td>
-      <td><b>QUEST 3 (Sun 10/12)</b></td>
-    </tr>
-    <tr>
-      <th>Tue 10/14</th>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Wed 10/15</th>
-      <td>Lec 12. Algorithmic Complexity<br/>
-          <a href="">(Recording 12)</a><br/>
-          <a href="">(Slides 12)</a><br/>
-          <a href="">(Lecture Quiz 12)</a>
-      </td>
-      <td><a href="/fa25/lab_directory">Lab 12. Algorithmic Complexity</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Thu 10/16</th>
-      <td></td>
-      <td></td>
-      <td><a href="/fa25/discussion">Disc 8. Algorithmic Complexity + Tree Recursion</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Fri 10/17</th>
-      <td>Talk 8: Quest 3 Preview<br/>
-          <a href="">(Recording: Talk 8)</a></td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
   </tbody>
 </table>
@@ -555,6 +492,68 @@
       <td></td>
       <td></td>
       <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+<!-- Week 9 Calendar -->
+<table class="table table-bordered schedule-table" id="week9">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan=5>Week 9</td>
+      <th>Mon 10/20</th>
+      <td>Lec 13. Guest Lecture: Human–Computer Interaction (HCI)<br/>
+          <a href="">(Recording 13)</a><br/>
+          <a href="">(Slides 13)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577060">(Lecture Quiz 13)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Practice Midterm (no code)</a></td>
+      <td></td>
+      <td><a href="/fa25/projects/"><b>Proj 3 Due</b></a></td>
+    </tr>
+    <tr>
+      <th>Tue 10/21</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Wed 10/22</th>
+      <td>Lec 14. Guest Lecture?<br/>
+          <a href="">(Recording 14)</a><br/>
+          <a href="">(Slides 14)</a><br/>
+          <a href="">(Lecture Quiz 14)</a>
+      </td>
+      <td><a href="/fa25/lab_directory">Practice Midterm (fractal)</a></td>
+      <td></td>
+      <td><a href="/fa25/projects/"><b>Proj 4: Explore Released</b></a><br/><b>Due (10/29)</b></td> <!-- Assignment / Exam -->  
+    </tr>
+    <tr>
+      <th>Thu 10/23</th>
+      <td></td>
+      <td></td>
+      <td><a href="/fa25/discussion">Disc 9. Midterm Preview</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Fri 10/24</th>
+      <td>Talk 9: Midterm 1 Preview<br/>
+          <a href="">(Recording: Talk 9)</a></td>
+      <td></td>
+      <td></td>
+      <td><b>MIDTERM 1</b></td>
     </tr>
   </tbody>
 </table>

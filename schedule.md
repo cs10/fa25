@@ -43,9 +43,9 @@
         <td>Lec 1. Welcome + Abstraction<br/>
             <a href="">(Recording 1)</a><br/>   
             <a href="https://drive.google.com/drive/folders/163Rp1WSJVLrkt4mV4w4YzUOBHy7WxFiW?usp=sharing">(Slides 1)</a><br/>
-            <a href="https://www.gradescope.com/courses/957259/assignments/5617833">(Lecture Quiz 1)</a>
+            <a href="https://www.gradescope.com/courses/1098053/assignments/6577011">(Lecture Quiz 1)</a>
             </td> <!-- Lecture -->
-        <td><a href="/fa25/lab_dirctory">Lab 1: Welcome to Snap!</a></td><!-- Lab -->
+        <td><a href="/fa25/lab_directory">Lab 1: Welcome to Snap!</a></td><!-- Lab -->
         <td></td> <!-- Discussion -->
         <td><a href="https://forms.gle/jVGq66oNwRavc6Ut9">Presemester Survey Released</a><br/><b>Due (9/5)</b></td> <!-- Assignments -->
     </tr>
@@ -53,7 +53,7 @@
         <th>Thu 8/28</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td><a href="/sp25/discussion">Disc 1. Welcome to CS10!</a></td> <!-- Discussion -->
+        <td><a href="/fa25/discussion">Disc 1. Welcome to CS10!</a></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
@@ -101,7 +101,7 @@
             <a href="">(Slides 2)</a><br/>
             <a href="">(Lecture Quiz 2)</a>
             </td> <!-- Lecture -->
-        <td><a href="/sp25/lab_directory">Lab 2. Build Your Own Blocks</a></td><!-- Lab -->
+        <td><a href="/fa25/lab_directory">Lab 2. Build Your Own Blocks</a></td><!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
@@ -109,7 +109,7 @@
         <th>Thu 9/04</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td><a href="/sp25/discussion">Disc 2. Numeral Rep + Control Structures</a></td> <!-- Discussion -->
+        <td><a href="/fa25/discussion">Disc 2. Numeral Rep + Control Structures</a></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
@@ -145,7 +145,7 @@
             <a href="">(Slides 3)</a><br/>
             <a href="">(Lecture Quiz 3)</a>
             </td> <!-- Lecture -->
-        <td>Lab 3. Conditionals, Reporters, & Testing</td> <!-- Lab -->
+        <td><a href="/fa25/lab_directory">Lab 3. Conditionals, Reporters, & Testing</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td><a href="/fa25/projects/">Proj 1: Worldle Released</a><br/><b>Due (9/17)</b></td> <!-- Assignment / Exam -->
     </tr>
@@ -164,13 +164,13 @@
             <a href="https://www.gradescope.com/courses/957259/assignments/5617851">(Lecture Quiz 14)</a></td> <!-- Lecture -->
         <td>Catch-up Lab (optional)</td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/sp25/projects">Proj 1: Worldle Due</a></td> <!-- Assignments -->
+        <td><a href="/fa25/projects">Proj 1: Worldle Due</a></td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 9/11</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td><a href="/sp25/discussion">Disc 3. Domain/Range, Scoping, Iteration, Lists </a></td> <!-- Discussion -->
+        <td><a href="/fa25/discussion">Disc 3. Domain/Range, Scoping, Iteration, Lists </a></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>

@@ -12,8 +12,6 @@ nav_order: 1
 # **CS 10: The Beauty and Joy of Computing**
 UC Berkeley, Fall 2025
 
-## SITE UNDER CONSTRUCTION
-
 {{ site.description }}
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a><br/>
@@ -44,6 +42,7 @@ UC Berkeley, Fall 2025
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 

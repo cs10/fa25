@@ -145,7 +145,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Recordings 12</td>
       <td>Slides 12</td>
     </tr>
-    <td>Week 13 Discussion</td>
+    <tr>
+    <td>Week 14 Discussion</td>
       <td>HOLIDAY - NO DISCUSSION</td>
       <td>-</td>
       <td>-</td>
@@ -162,6 +163,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
 
 
 

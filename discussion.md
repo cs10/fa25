@@ -14,7 +14,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
 
 > Discussion worksheet handouts will be provided. Any extras will be left in Soda 777 (Dan's office).
 
-> Solutions can be found within the slides.
+> Solutions can typically be found within the slides.
 
 > Please attend Victoria's Office Hours for any discussion related questions!
 
@@ -44,10 +44,10 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Week 1 Discussion</td>
       <td>Welcome to CS10!</td>
-      <td>Worksheet 1</td>
+      <td><a href="https://docs.google.com/document/d/1GwmYDp-1uJ4uQSHnT7njHEuB3As9f4Zu/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 1</a></td>
       <td>Solutions 1</td>
       <td>Recording 1</td>
-      <td>Slides 1</td>
+      <td><a href="https://docs.google.com/presentation/d/1BSoHMe8QN-09XX3Yt_cxDJi79Yk99BVhliWe1wfFcp8/edit?usp=sharing">Slides 1</a></td>
     </tr> 
     <tr>
       <td>Week 2 Discussion</td>
@@ -162,5 +162,6 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
 
 

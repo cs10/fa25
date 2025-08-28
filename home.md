@@ -27,10 +27,10 @@ UC Berkeley, Fall 2025
 - **Time:**  3-5PM (Nahee) *or* 8-10PM (Marius)
 - **Place:** Barker Hall, Room 101 (Nahee) *or* Soda Hall, Room 438 (Marius)
 
-**Lecture:**  
+**Discussion:**  
 - **Days:** Thursday 
 - **Time:**  4-5PM  *or* 5-6PM 
-- **Place:** Soda Hall, Room 438 *or* Stanley Hall, Room 106
+- **Place:** Soda Hall, Room 438 (4-5PM) *or* Stanley Hall, Room 106 (5-6PM)
 
 **OH Queue:** <a href="https://oh.cs10.org/"> oh.cs10.org</a>
 
@@ -42,6 +42,7 @@ UC Berkeley, Fall 2025
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 

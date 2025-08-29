@@ -41,7 +41,7 @@
     <tr>
         <th>Wed 8/27</th> <!-- Date -->
         <td>Lec 1. Welcome + Abstraction<br/>
-            <a href="">(Recording 1)</a><br/>   
+            <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 1)</a><br/>   
             <a href="https://drive.google.com/drive/folders/1ZMfd23KyrJEl9Yw-g_8sXZF7Td4G7_IT">(Slides 1)</a><br/>
             <a href="https://www.gradescope.com/courses/1098053/assignments/6577011">(Lecture Quiz 1)</a>
             </td> <!-- Lecture -->

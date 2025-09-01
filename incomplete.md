@@ -11,7 +11,7 @@ Here you will find logistics about resolving your grade, along with next steps a
 
 ## What should I do first?
 
-You will need to be manually enrolled into each of the platforms (Bcourses, Gradescope, PrairieLearn, EdStem). To get started, please enroll yourself into the [EdStem](https://edstem.org/us/join/HfmcD2) and make a post about being enrolled into the platforms.
+You will need to be manually enrolled into each of the platforms (Bcourses, Gradescope, PrairieLearn, EdStem). To get started, please enroll yourself into the [EdStem](https://edstem.org/us/join/Hf372b) and make a post about being enrolled into the platforms.
 
 ## Who should I contact if I have questions?
 
@@ -56,4 +56,5 @@ If you are ready to receive your final letter grade, please reach out on EdStem.
 ## Continuing Work Students
 
 Much of the process is the same as resolving an Incomplete. The other difference is that you do not need to request an Extension. Please follow all other steps though. 
+
 

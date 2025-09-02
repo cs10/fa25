@@ -59,7 +59,7 @@
     <tr>
         <th>Fri 8/29</th> <!-- Date -->
         <td>Talk 1: Ask Me Anything<br/>
-            <a href="">(Recording: Talk 1)</a></td> <!-- Lecture -->
+            <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 1)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
@@ -219,12 +219,12 @@
     </tr>
     <tr>
       <th>Wed 9/17</th>
-      <td>Lec 5. Saving the World with Computing (Guest Lecture)<br/>
+      <td>Lec 5. Lists, Scoping, &amp; HOFs<br/>
           <a href="">(Recording 5)</a><br/>
           <a href="">(Slides 5)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577043">(Lecture Quiz 5)</a>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577027">(Lecture Quiz 5)</a>
       </td>
-      <td>Project 1 Party (optional)</td>
+      <td><a href="/fa25/lab_directory">Lab 5. Lists &amp; HOFs</a></td>
       <td></td>
       <td><a href="/fa25/projects/"><b>Proj 1 Due</b></a></td> <!-- Assignment / Exam -->
     </tr>
@@ -242,7 +242,7 @@
       </td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>Quest 1 </br>(due by 9/20)</td>
     </tr>
   </tbody>
 </table>
@@ -264,12 +264,12 @@
     <tr>
       <td class="schedule-week-num" rowspan=5>Week 5</td>
       <th>Mon 9/22</th>
-      <td>Lec 5. Lists, Scoping, &amp; HOFs<br/>
+      <td>Lec 6. Saving the World with Computing (Guest Lecture)<br/>
           <a href="">(Recording 5)</a><br/>
           <a href="">(Slides 5)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577027">(Lecture Quiz 5)</a>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577043">(Lecture Quiz 5)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Lab 5. Lists &amp; HOFs</a></td>
+      <td>Catch-up Session (optional)</td>
       <td></td>
       <td><a href="/fa25/projects/"><b>Proj 2: Spelling Bee Released</b></a></td>
     </tr>

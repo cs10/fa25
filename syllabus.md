@@ -45,8 +45,12 @@ This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) s
 * **Bcourses**: Lecture recordings can be found on [the Bcourses site](https://bcourses.berkeley.edu/courses/1547647/external_tools/90481), generally within 48h of lecture. You will have to be logged into your Berkeley email to access the recordings. The recordings are under the "Media Gallery" tab in Bcourses.
 * **iClicker**: You are required to [create a free iClicker account](https://mhe.my.site.com/iclicker/s/article/How-Students-Create-an-iClicker-Account-Through-a-Campus-Portal) and download the free iClicker app. Then, you should signup with your Berkeley email. To get credit for attending lecture, please open the app once you're seated in the lecture hall and mark your attendance. If for some reason you are not enrolled, use this the following links:
     -  [Lecture iClcker](https://join.iclicker.com/LOCE).
-    -  [Discussion iClicker](https://join.iclicker.com/ZNLT)
-    -  [Lab iClicker](https://join.iclicker.com/LLFC)
+    -  Discussion iClicker:
+          - [Section 1: 4 to 5PM in Soda 438](https://join.iclicker.com/ZNLT)
+          - [Section 2: 5 to 6PM in Stanley 106](https://join.iclicker.com/YRIL)
+    -  Lab iClicker:
+          - [Nahee's Section: 3 to 5PM in Barker 101](https://join.iclicker.com/LLFC)
+          - [Marius's Section: 8 to 10PM in Soda 438](https://join.iclicker.com/WXYE)
 * **PrairieLearn**: This is the platform you will use to take exams (Quest, Midterm, and Postterm). We will manually add you the site later in the semester. <!--Here is the link to [PrairieLearn](https://us.prairielearn.com/pl/course_instance/192475). You will need to manually be added to the PrairieLearn. If you are not, please post a message on EdStem.-->
 * **Snap!**: The programming language we will be using for more than half the semester. The website can be found here: [Snap!](https://snap.berkeley.edu/)
 * **Gradeview**: This is the website where you will be able to access your current grades in the class. You will need to sign-in using your UC Berkeley credentials on the [Gradeview](https://gradeview.eecs.berkeley.edu/login) website.
@@ -154,8 +158,7 @@ These assignments will be one of the best ways for you to apply what you have le
 Here are the following Project Parties times and dates:
 | Project Parties                               |  Date | Time  |  Room  |
 | :----:                                        |  :----:        |  :----:   |
-| Project 1 Party: Wordle™-lite                       | WED 9/17 | 3-5PM   |  Barker 101  |
-| Project 1 Party: Wordle™-lite                       | WED 9/17 | 8-10PM   |  Soda 438  |
+| Project 1 Party: Wordle™-lite                       | TBD | TBD  |  TBD  |
 | Project 2 Party: Spelling-Bee                       | TBD | TBD  |  TBD  |
 | Project 3 Party: 2048                               | TBD | TBD  |  TBD  |
 | Project 5 Party: Final Project                      | WED 12/3 | 3-5PM   |  Barker 101  |
@@ -368,6 +371,7 @@ Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/pro
 
 It is very important to the EECS Department that every student in the EECS community feels safe, respected and welcome.  We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
+
 
 
 

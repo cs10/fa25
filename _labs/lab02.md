@@ -10,12 +10,13 @@ submission_files:
 # Lab 2: Build Your Own Blocks
 
 ## Instructions: 
-This worksheet serves as a guide and set of instructions to complete lab 1. All material was sourced from the CS10 version of The Beauty and Joy of Computing course.
+This worksheet serves as a guide and set of instructions to complete lab 2. All material was sourced from the CS10 version of The Beauty and Joy of Computing course.
 
 - You **must** use the [starter file, found here](https://snap.berkeley.edu/snap/snap.html#open:https://cs10.org/bjc-r/prog/loop/lab2-starter-code-v3.xml) to get credit for the lab.
+- Make sure to login first before you start the lab! (upper left, cloud icon)
+- DO NOT modify the "Autograd" sprite. You should only modify the blocks pertinent to the "Lab" sprite.
 - Remember to save your work as you progress through the lab.
     - You can save your work by clicking the page icon on the upper left corner and choosing to save your work on the cloud or directly to your computer
-    -![Upper left of Snap! window with Save As...](/images)
 - [Here is the workbook](https://cs10.org/bjc-r/cur/programming/loops/repeat-n/introduction-to-repeat-n.html?1&2&2&3&topic=berkeley_bjc%2Fintro_pair%2F2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment) that you can read through for further context and additional (non-required) material. 
 
 ## Submitting: 
@@ -38,7 +39,9 @@ In this lab, you will learn to create your own blocks and procedures. By the end
 - [Block 1:  draw a polygon with (sides) sides of (length) length](#block-1--draw-a-polygon-with-sides-sides-of-length-length)
 - [Block 2: draw a square leaved flower with (leaves) leaves of (size) size](#block-2-draw-a-square-leaved-flower-with-leaves-leaves-of-size-size)
 
-> **Please do not change the pen hue color when attempting the flower field block as it tends to mess up the autograder 
+> **Please do not change the pen hue color when attempting the flower field block as it tends to mess up the autograder
+
+> **Please do not change block names
 
 ## Important Topics mentioned in the CS 10 Workbook: 
 For better understanding of the lab we highly recommend going through these workbook pages! Topics that are important but not required for this lab will be indicated with an asterisk**

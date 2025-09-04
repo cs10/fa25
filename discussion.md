@@ -14,7 +14,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
 
 > Discussion worksheet handouts will be provided. Any extras will be left in Soda 777 (Dan's office).
 
-> Solutions can typically be found within the slides.
+> Solutions and walkthroughs can typically be found within the slides. However, the formal solutions will be posted the Friday after the discussion worksheet is due.
 
 > Please attend Victoria's Office Hours for any discussion related questions!
 
@@ -51,8 +51,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr> 
     <tr>
       <td>Week 2 Discussion</td>
-      <td>Control Structures + Numeral Representation</td>
-      <td>Worksheet 2</td>
+      <td>Functions + Control Structures</td>
+      <td><a href="https://docs.google.com/document/d/1l4UlkjablKPeA7voDmu-CgFNGwjSkPv7/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 2</a></td>
       <td>Solutions 2</td>
       <td>Recording 2</td>
       <td>Slides 2</td>
@@ -163,6 +163,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
 
 
 

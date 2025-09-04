@@ -20,7 +20,7 @@ Lab Slides and Worksheets: TBD
 | [Lab 2: Build Your Own Block](/fa25/labs/lab02) | FRI 9/5                 |
 | Lab 3: Conditionals, Reporters, Testing     | WED 9/10                 |
 | Lab 4: Iteration                            | WED 9/17                 |
-| Lab 5: Lists + HOFs                         | WED 9/24                 |
+| Lab 5: Lists + HOFs                         | FRI 9/19                 |
 | Lab 6: Functions as Data                    | FRI 9/26                 |
 | Lab 7: Algorithms                           | WED 10/1                 |
 | Lab 8: Testing + Proj 3                     | FRI 10/3                 |

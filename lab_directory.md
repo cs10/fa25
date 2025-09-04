@@ -6,7 +6,9 @@ nav_order: 8
 ---
 # Labs
 
-Lab Slides and Worksheets: TBD
+Lab Slides:
+- [Nahee's Lab (3 to 5PM)](https://drive.google.com/drive/folders/1YVFwyAh5wzAxKcUVONY9G8yhMJBvSBME?usp=drive_link)
+- [Marius's Lab (8 to 10PM)](https://drive.google.com/drive/folders/1_Z6GmeIdKamfGKOkJNYxmgAQ2anunTPY?usp=sharing)
 
 > Labs are an opportunity for you to apply what you've learned in lecture in code (and other forms). All labs have a conceptual and a coding component. All lab assignments must be uploaded and autograded using Gradescope; the Gradescope link can be found on the worksheet. There are also two sets of practice exams that will count towards your lab grade (the Practice Midterm and the Practice Postterm). You will need to take both the coding and non-coding portions to receive credit. Credit for the practice exams is based on completion only, not the score you received on the practice exam.
 

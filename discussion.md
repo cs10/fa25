@@ -55,7 +55,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td><a href="https://docs.google.com/document/d/1l4UlkjablKPeA7voDmu-CgFNGwjSkPv7/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 2</a></td>
       <td>Solutions 2</td>
       <td>Recording 2</td>
-      <td>Slides 2</td>
+      <td><a href="https://docs.google.com/presentation/d/1t38xDPooeHmzZwIgcEVZtkP-Rd8NbkqQlz_SWPcccTM/edit?usp=sharing">Slides 2</a></td>
     </tr>
      <tr>
       <td>Week 3 Discussion</td>
@@ -163,6 +163,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
 
 
 

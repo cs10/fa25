@@ -97,7 +97,7 @@
     <tr>
         <th>Wed 9/03</th> <!-- Date -->
         <td>Lec 2. Functions<br/>
-            <a href="">(Recording 2)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 2)</a><br/>      
             <a href="https://drive.google.com/drive/folders/1pMyNs4LdwbUrsJmK0m--iMUKwAbXLxmv">(Slides 2)</a><br/>
             <a href="https://www.gradescope.com/courses/1098053/assignments/6577012">(Lecture Quiz 2)</a>
             </td> <!-- Lecture -->

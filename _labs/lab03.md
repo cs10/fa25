@@ -1,173 +1,130 @@
 ---
-title: # Lab 03: Lists + Loops
+title: # Lab 03: 
 
-description: Lists + Loops
-due: Tuesday July 1st, 2359 hrs
+description: Conditionals, Reporters, & Abstraction
+due: Wednesday September 10th, 11:59PM
 gradescope_assignment_id: 
 submission_files:
 ---
 
-# Lab 3:  Lists + Loops
+# Lab 3:  Conditionals, Reporters, & Abstraction
 
 ## Instructions: 
-
 This worksheet serves as a guide and set of instructions to complete lab 3. All material was sourced from the CS10 version of The Beauty and Joy of Computing course.
 
-- You **must** use the [starter file, found here](https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=Lab%3a%20Lists%20%2b%20Loops&editMode&noRun) to get credit for the lab.
-- **This lab has NO workbook.** All instructions are within this page and starter file
+- You **must** use the [starter file, found here](https://snap.berkeley.edu/snap/snap.html#open:https://cs10.org/bjc-r/prog/conditionals/lab3-starter-code-v2.xml) to get credit for the lab.
+- Additionally, here is the [workbook](https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment) that you can read through for further context and additional (non-required) material.
+- All material was sourced from the CS10 version of The Beauty and Joy of Computing course.
 
 ## Submitting: 
 
-You will need to fill in the blocks under "Lab 3: Lists + Loops" and submit this to Gradescope. 
+You will need to fill in the blocks under "Lab 3: Conditionals, Reporters, & Abstraction" and submit this to Gradescope. 
 - To receive full credit, you will need to complete the required blocks, and the required blocks must pass all tests from the autograder in Gradescope. 
 - For instructions on how to submit to labs to Gradescope, please see [this page](https://docs.google.com/document/d/1XAcZc9ypX07-bt0gK6uQ4P-06SrjPRsgiOjERIOlvYU/edit?usp=sharing).
 
-Please note, you must use the [starter file](https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=Lab%3a%20Lists%20%2b%20Loops&editMode&noRun), and you must NOT edit the name of any of the required blocks. Failing to do either for these will result in the autograder failing.
+Please note, you must use the [starter file](https://snap.berkeley.edu/snap/snap.html#open:https://cs10.org/bjc-r/prog/conditionals/lab3-starter-code-v2.xml), and you must NOT edit the name of any of the required blocks. Failing to do either for these will result in the autograder failing.
 
 ## Objectives:
-
-Previously in the lab, we have worked with iteration (loops) when creating polygons. In lecture, we saw how we can use iteration with variables and with lists. By the end of the lab, you will be comfortable implementing and understanding:
-- Iterative functions
-- Fucntions using the list data type
-- The ordered characteristic of lists
-- The differences between the various loops
-- When to use certain loops
-- How to filter and keep items from a list
-- How to use variables with lists
+So far, you've practiced writing scripts that carry out short sequences of commands. These scripts will run every single one of their blocks, no matter how. In this lab you will explore a new level of complexity with the idea of conditionals. By the end of the lab, you will:
+- Implement conditional statements into your code
+- Practice writing and reading functions with booleans and boolean operators
+- Understand the use of reporter functions and their outcomes
 
 ## Required Blocks: 
+- [Block 1: traffic signal (color)](#block-1-traffic-signal-color)
+- [Block 2: letter grade (number)](#block-2-letter-grade-number)
+- [Block 3: is (num1) between (num2) and (num3)](#block-3-is-num1-between-num2-and-num3)
+- [Block 4: sum of two smallest (num1) and (num2) and (num3)](#block-4-sum-of-two-smallest-num1-and-num2-and-num3)
 
-***Please note, all functions must be completed iteratively. HOFs and Recursion are banned. You will need 10/10 points from the autograder to recieve credit for the coding portion of the lab.***
-- Block 1: add all numbers from num1: _ to num2: _
-- Block 2: report only even numbers from list: _
-- Block 3: add start num: _ until > than stop num: _ and is odd
-    - "for each" and "for i" blocks are also banned **for this function only**.
-- Block 4:  is num: _ prime?
-- Block 5: report only prime numbers from list: _
+## Important Topics mentioned in the Workbook: 
+For better understanding of the lab we highly recommend going through these workbook pages! Topics that are important but not required for this lab will be indicated with an asterisk**. These topics are best reviewed in order and as you complete the lab. 
+- [Introduction: why do we need conditionals?](https://cs10.org/bjc-r/cur/programming/conditionals/conditionals-intro.html?1&1&1&2&2&2&3&3&3&4&4&topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
+- [If and If-else](https://cs10.org/bjc-r/cur/programming/conditionals/if-and-if-else.html?1&1&1&2&2&2&3&3&3&4&4&topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
+- [More Complex Boolean Expressions](https://cs10.org/bjc-r/cur/programming/conditionals/complex-booleans.html?1&1&1&1&2&2&2&3&3&3&4&4&topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment)**
+- [Predicates](https://cs10.org/bjc-r/cur/programming/conditionals/predicates.html?1&1&1&1&2&2&2&2&3&3&3&4&4&topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
+- [The Max block](https://cs10.org/bjc-r/cur/programming/functions/review-max-block.html?1&1&1&1&2&2&2&2&3&3&3&3&4&4&topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
 
-## Block 1: add all numbers from num1: _ to num2: _
-
+## [Block 1: Traffic signal (color)](https://cs10.org/bjc-r/cur/programming/functions/reporters.html?1&1&1&2&2&2&3&3&4&topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
 Objective:
-- Add all the numbers together in the range from num1 to num2. The starting number will be num1, and you will continuously add numbers until you reach num2 (the final number to add).  
+- Create a **reporter** block that when inputted a traffic light color it makes the sprite report the appropriate action (see below)  
 
 Inputs: 
-- num1: Number
-- num2: Number
+- color = any text
+    - This variable takes in any text input.
+    - Any text can be typed, but for the autograder we will be testing the three traffic light colors: Red, Green, Yellow 
 
 Output: 
-- Reports: Number 
+- Reports: Text 
+- The following inputs and outputs need to be case sensitive to pass the autograder 
+    - Input: Green --> Output: Go
+    - Input: Red --> Output: Stop
+    - Input: Yellow --> Output: Yield
 
 Examples:
-- add all numbers from num1: "1" to num2: "5" will add 1 + 2 + 3 + 4 + 5. This will return 15.
-- add all numbers from num1: "3" to num2: "7" will add 3 + 4 + 5 + 6 + 7. This will return 25.
-- add all numbers from num1: "-4" to num2: "2" will add -4 + -3 + -2 + -1 + 0 + 1 + 2. This will return -7.
-- add all numbers from num1: "2" to num2: "2" will not add but start and end at 2. This will return 2.
+- ![example of traffic signal reporter 'Yellow' with output 'Yield'](asssets/images/lab_images/lab3_b1_1.png)
+- ![example of traffic signal reporter 'Red' with output 'Stop'](asssets/images/lab_images/lab3_b1_2.png)
+- ![example of failed traffic signal reporter 'Cheese' with output 'did not report'](asssets/images/lab_images/lab3_b1_3.png)
 
-
-## Block 2: report only even numbers from list: _
-
+## [Block 2: letter grade (number)](https://cs10.org/bjc-r/cur/programming/functions/reporters.html?1&1&1&2&2&2&3&3&4&topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
 Objective:
-- Report a new list that only contains numbers that are even (i.e. divisible by 2). You should be returning a new list that only keeps the even numbers.
-- You may use the “mod" block. Mod stands for modulus. Given two numbers, a (the dividend) and b (the divisor), the modulus operation a mod b returns the remainder when a is divided by b. For example, 4 mod 2 is 0 since 4 is divisible by 2. 4 mod 3 is 1. [See this Wikipedia article](https://en.wikipedia.org/wiki/Modulo) for more information on modulus.
+- Create a reporter block that when inputted percentage, makes the sprite say the associated letter grade. For example, letter grade (74) should say "C."
+- Standardized Letter Grade 
+    - A: 90-100, B: 80-89.99, C 70-79.99, D: 60-69.99, F < 60 
+    - Note that the autograder is sensitive to decimals and should work for all non negative numbers. Ex. 89.99123123
 
 Inputs: 
-- input: List
+- number = any number
+    - This variable takes in any number. However we can assume that the user will input a non negative, whole number 100 or less. 
+
+
 
 Output: 
-- Reports: List 
+- Reports: Text 
+- The following outputs need to be case sensitive to pass the autograder. No spaces, no quotes ""
+    - **A**: 90-100, **B**: 80-89.99, **C**: 70-89.99, **D**: 60-69.99, **F**: < 60
 
 Examples:
-- report only even numbers from list "[1, 2, 3, 4, 5]". This will return the list with [2, 4].
-- report only even numbers from list "[2, 4, 6, 8]". This will return the list with [2, 4, 6, 8].
-- report only even numbers from list "[-2, -4, -6, -8]". This will return the list with [-2, -4, -6, -8].
-- report only even numbers from list "[1, 3, 5, 7]". This will return an empty list (a list containing no items) [].
+- ![example of letter grade reporter '89.999' with output 'B'](asssets/images/lab_images/lab3_b2_1.png)
+- ![example of letter grade reporter '70' with output 'C'](asssets/images/lab_images/lab3_b2_2.png)
+- ![example of letter grade reporter '2' with output 'F'](asssets/images/lab_images/lab3_b2_3.png)
 
-## Block 3: add start num: _ until > than stop num: _ and is odd
-
+## [Block 3: is (num1) between (num2) and (num3)](https://cs10.org/bjc-r/cur/programming/functions/predicates/predicates-make-a-between-block.html?1&1&1&2&2&2&3&3&3&4&topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
 Objective:
-- Add numbers continuously starting at a start number until the added numbers are greater than the stop number AND the added numbers are odd. Both of these conditions need to be true until the loop terminates.
-- Each time the loop is iterated through, the output number will be added to by a number incrementing by 1 starting at the start num.  
-- ***For this function, you will need the "repeat until" block. You are NOT allowed to use the "for i" loop OR the "for each item" loop.***
+- Create a predicate block that determines if a number is between two other numbers. The block should return true if the first number is between the two numbers or if it is equal to either of the numbers.
+- Note: num1, num2, num3 can be the same numbers 
+- Num2 and num3 can be non numerical order, that is num3 can be less than num2 
 
 Inputs: 
-- start: Number
-- stop: Number
+- num1, num2, num3 = any number
+    - This variable takes in any and all numbers
 
 Output:
-- Reports: Number
-
-Restrictions:
-- Cannot use "for each item" or "for i" blocks. Must use "repeat until".
+- Reports a boolean (True or False) 
 
 Examples:
-- add start num: "1" until > than stop num: "2" and is odd. The following numbers will be added: 1 + 2. This will return 3.
-- add start num: "1" until > than stop num: "7" and is odd. The following numbers will be added: 1 + 2 + 3 + 4 + 5. This will return 15.
-- add start num: "3" until > than stop num: "6" and is odd. The following numbers will be added: 3 + 4. This will return 7.
+- ![example of is '3' between '1' and '5' and reports 'True'](asssets/images/lab_images/lab3_b3_1.png)
+- ![example of is '9' between '1' and '5' and reports 'False'](asssets/images/lab_images/lab3_b3_2.png)
+- ![example of is '88' between '36' and '-5' and reports 'False'](asssets/images/lab_images/lab3_b3_3.png)
+- ![example of is '4' between '4' and '4' and reports 'True'](asssets/images/lab_images/lab3_b3_4.png)
 
-## Block 4: is num: _ prime?
-
+## [Block 4: sum of two smallest (num1) and (num2) and (num3)]
 Objective:
-- Evaluates the number and returns true if the number is prime, and return false if the number is NOT prime. To do this, you will need to check if all the numbers smaller than the given number and greater than 1 are divisible by the given number.
-- Note, a prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.
-- 0 and 1 are neither prime nor composite, so the domain will be greater than 1.
+- Edit a reporter block named "sum of two smallest" that takes three numbers as inputs, and reports the sum of the two smallest
+- If two of the greatest numbers are the same the block should report the smallest and any of the two
+- If three numbers are the same, the block should report the sum of two of the numbers
 
 Inputs: 
-- num: Number
-  - num will always be greater than 1.
+- num1, num2, num3 = any number
+    - This variable takes in any and all numbers
 
 Output:
-- Reports: Boolean 
+- Reports: Num (the sum of the smallest two numbers) 
 
 Examples:
-- is num: "17" prime?. This will return True.
-- is num: "10" prime?. This will return False.
-- is num: "2” prime?. This will return True.
+- ![example of sum of two smallest '2' and '5' and '5' and reports '7'](asssets/images/lab_images/lab3_b4_1.png)
+- ![example of sum of two smallest '9' and '9' and '9' and reports '18'](asssets/images/lab_images/lab3_b4_2.png)
+- ![example of sum of two smallest '1' and '12' and '2' and reports '3'](asssets/images/lab_images/lab3_b4_1.png)
 
-## Block 5: report only prime numbers from list: _
-
-Objective:
-- Report a new list that only contains prime numbers. This function should filter out any non-prime numbers from the input list.
-  - The order of the items should still be preserved - just filtered.
-
-Notes:
-- You can and should use the "is num: _ prime?" block you just made!
-- **There is a typo in one of the test cases: Ex: report only prime number from list: "[2, 4, 6, 8]"; This will return an empty list.**
-  - **This list should return [2]**
-
-Inputs:
-- Input: List
-
-Outputs:
-- Output: List
-
-Examples:
-- report only prime numbers from list: "[2, 3, 4, 5]": This will return [2, 3, 5].
-- report only prime number from list: "[11, 7, 6, 8]": This will return [11, 7].
-- report only prime number from list: "[4, 6, 8, 10]": This will return an empty list.
-
-## **(Optional) Extremely Challenging:** Block 6: report the duplicates in list: _
-
-Objective:
-- Write a function that takes a list of integers and returns a list of all the integers that appear more than once in the input list. The returned list should not contain any duplicates. If there are no duplicates, then the function should report any empty list.
-  - The order of the items should still be preserved - just filtered.
-
-Notes:
-- This block is optional and not required for the lab!
-- There is a built-in function in Snap! called "uniques". You are NOT allowed to use this function.
-
-Inputs:
-- Input: List
-
-Outputs:
-- Output: List
-
-Examples:
-- report the duplicates in list: "[1, 2, 1, 3, 2, 3]". This will return: [1, 2, 3].
-- report the duplicates in list: "[4, 4, 3, 10, 33, 4]". This will return: [4].
-- report the duplicates in list: "[7, 2, 3, 2, 7]". This will return: [7, 2].
-- report the duplicates in list: "[1, 4, 6, 3]". This will return an empty list.
-
-
-
+> Hint: Look at the [max block](https://cs10.org/bjc-r/cur/programming/functions/review-max-block.html?1&1&1&2&2&2&3&3&3&4&4&topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment). How does it work? 
 
 **You can always check the validity of your solutions by using the local autograder. Remember to submit on Gradescope and complete the conceptual portion!** 

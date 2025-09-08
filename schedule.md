@@ -145,7 +145,7 @@
             <a href="https://drive.google.com/drive/folders/1RF-WgoEka4wRVxbfZNjLLlKcw7_O7BhN">(Slides 3)</a><br/>
             <a href="https://www.gradescope.com/courses/1098053/assignments/6577022">(Lecture Quiz 3)</a>
             </td> <!-- Lecture -->
-        <td><a href="/fa25/lab_directory">Lab 3. Conditionals, Reporters, & Testing</a></td> <!-- Lab -->
+        <td><a href="/fa25/labs/lab03">Lab 3. Conditionals, Reporters, & Testing</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td><a href="/fa25/projects/"><b>Proj 1: Worldle Released</b></a><br/><b>Due (9/17)</b></td> <!-- Assignment / Exam -->
     </tr>

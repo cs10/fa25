@@ -33,60 +33,63 @@ nav_order: 6
     </tr>
     <tr>
       <td>Project 2: Spelling Bee</td>
-      <td><a href="/fa25/projects/project2/">Project 2 Intructions</a></td>
-      <td><a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view">Proj 2 Walkthrough Slides</a></td>
+      <td>Project 2 Intructions</td>
+      <!-- <td><a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view">Proj 2 Walkthrough Slides</a></td> -->
+      <td>Proj 2 Walkthrough Slides</td>
       <td>Monday, 9/22</td>
       <td>Monday, 10/3</td>
     </tr>
      <tr>
       <td>Project 3: 2048</td>
-       <td><a href="/fa25/projects/project3">Project 3 Intructions</a></td>
-      <td><a href="https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing">Proj 3 Walkthrough Slides</a></td>
+       <td>>Project 3 Intructions</td>
+      <!--<td><a href="https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing">Proj 3 Walkthrough Slides</a></td>-->
+       <td>Proj 3 Walkthrough Slides</td>
       <td>Monday, 10/6</td>
       <td>Monday, 10/20</td>
     </tr>
     <tr>
       <td>Project 4: Tech in Context</td>
-      <td><a href="/fa25/projects/project4">Project 4 Intructions</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1Rr0uR3vTD9ch5qs6IaLWrtEILqh_mCzk?usp=sharing">Example Projects</a></td>
+      <td>Project 4 Intructions</td>
+      <!--<td><a href="https://drive.google.com/drive/folders/1Rr0uR3vTD9ch5qs6IaLWrtEILqh_mCzk?usp=sharing">Example Projects</a></td>--> <td>Example Projects</td>
       <td>Wednesday, 10/22</td>
       <td>Wednesday, 10/29</td>
     </tr>
     <tr>
       <td>Project 4: Presentations</td>
-      <td><a href="/fa25/projects/project4">Project 4 Intructions</a></td>
+      <td>Project 4 Intructions</td>
       <td>-</td>
       <td>-</td>
       <td>Thursday, 10/30</td>
     </tr>
     <tr>
       <td>Project 4: Feedback + Comments</td>
-      <td><a href="/fa25/projects/project4">Project 4 Intructions</a></td>
-      <td><a href="">Example Feedback + Comments</a></td>
+      <td>Project 4 Intructions</td>
+      <td>Example Feedback + Comments</td>
       <td>-</td>
       <td>Friday, 11/7</td>
     </tr>
     <tr>
       <td>Project 5: Proposals</td>
-      <td><a href="/fa25/projects/project6-proposals">Project 5 Proposal Intructions</a></td>
+      <td>Project 5 Proposal Intructions</td>
       <td>Example Projects Proposals</td>
       <td>Friday, 10/31</td>
       <td>Friday, 11/07</td>
     </tr>
     <tr>
       <td>Project 5: Proposal Meetings</td>
-      <td><a href="/fa25/projects/project6-proposals">Project 5 Proposal Intructions</a></td>
+      <td>Project 5 Proposal Intructions</td>
       <td>-</td>
       <td>Monday, 11/10</td>
       <td>Friday, 11/14</td>
     </tr>
     <tr>
       <td>Project 5: Final Project</td>
-      <td><a href="/fa25/projects/project6-project">Project 5 Intructions</a></td>
+      <td>Project 5 Intructions</td>
       <td>-</td>
       <td>Monday, 11/10 (earliest)<br/>Only start once your project has been approved</td>
       <td>Monday, 12/08</td>
     </tr>
   </tbody>
 </table> 
+
 

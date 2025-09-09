@@ -1,20 +1,20 @@
 ---
 title: Project 1
 description: Wordle™-lite
-due: "11:59 PM PST on Wednesday, 2/5"
-gradescope_assignment_id: 957259
+due: "11:59 PM PST on Wednesday, 9/17"
+gradescope_assignment_id: 6577021
 submission_files:
     - starter.xml
 ---
 
-*Version 3.0. Last Updated: 2024-09-08.*
+*Version 3.0. Last Updated: 2025-09-09.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
 > Any important updates or clarifications will be made here
->> The Project 1 Party is Monday, 2/3 from 3 to 5PM in Cory 400 
+>> The Project 1 Party is Wednesday, 9/10 from 3 to 5PM in Barker 101 and 8-10PM in Soda 438
 
-## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=BJC%20CS10%20Project%201%3A%20Wordle%E2%84%A2-lite)
+## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=BJC%20CS10%20Project%201%3A%20Wordle%E2%84%A2-lite)
 
 
 [Project 1 Walkthrough Guide.pdf](https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view)
@@ -120,5 +120,6 @@ Note: correct, working code should handle those test cases, but not have the tes
 | (update score based on matched slots: [] and score: ())    | 0.8    | 5 |
 
 ## Feedback Form 
-Congratulations on finishing your first project in CS10🥳. Please spend some time completing this [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeZ3Qm8l5PiXsl6Ow4_8rB0Zb3OM6kaPrKefFEeCD_-vKw7tg/viewform?usp=sharing). This will be worth 1 point of your project grade. 
+Congratulations on finishing your first project in CS10🥳. Please spend some time completing this [feedback form](https://docs.google.com/forms/d/e/1FAIpQLScbRbxm1teA3mNIh8yq418u7-Qb8CtxVNJbsJah530USfJRtw/viewform?usp=sharing&ouid=106220240438634734707). This will be worth 1 point of your project grade. 
+
 

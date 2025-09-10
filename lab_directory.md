@@ -21,7 +21,7 @@ Lab Slides:
 | [Lab 1: Welcome to Snap!](/fa25/labs/lab01) | WED 8/27 – Nothing to submit |
 | [Lab 2: Build Your Own Block](/fa25/labs/lab02) | FRI 9/5                 |
 | [Lab 3: Conditionals, Reporters, Testing](/fa25/labs/lab03)     | WED 9/10                 |
-| Lab 4: Iteration                            | WED 9/17                 |
+| [Lab 4: Iteration](/fa25/labs/lab04)                          | WED 9/17                 |
 | Lab 5: Lists + HOFs                         | FRI 9/19                 |
 | Lab 6: Functions as Data                    | FRI 9/26                 |
 | Lab 7: Algorithms                           | WED 10/1                 |

@@ -34,5 +34,13 @@ It depends, but expect to spend extra hours at first.
 ### Can I get extra help?  
 **Yes!** Our Regular and Support OH times can be found on this [calendar](https://cs10.org/fa25/calendar/).
 
+###Primary Course Components + Attendance
+Here is a visualization that summarizes the components of the course, and which platform to use to submit work.
+
+![](fa25/assets/images/general/course-breakdown1.png)
+![](fa25/assets/images/general/course-breakdown2.png)
+
+
 Stay focused, reach out for support **cs10@berkeley.edu**, and you’ll catch up in no time! 🚀
+
 

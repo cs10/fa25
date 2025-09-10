@@ -60,8 +60,8 @@ This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) s
 
 Here is a visualization that summarizes the components of the course, and which platform to use to submit work.
 
-![](sp25/assets/images/general/course1.png)
-![](sp25/assets/images/general/course2.png)
+![](fa25/assets/images/general/course1.png)
+![](fa25/assets/images/general/course2.png)
 
 
 ### Lecture 
@@ -371,6 +371,7 @@ Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/pro
 
 It is very important to the EECS Department that every student in the EECS community feels safe, respected and welcome.  We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
+
 
 
 

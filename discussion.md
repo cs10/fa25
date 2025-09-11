@@ -59,8 +59,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
      <tr>
       <td>Week 3 Discussion</td>
-      <td>Domain/Range, scope, Iteration, Lists</td>
-      <td>Worksheet 3</td>
+      <td>Numeral Representation + Conditionals Continued</td>
+      <td><a href="https://docs.google.com/document/d/1svo40V6A3TrxY9Zaz9WKPBifYS7G8tUa/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 3</a></td>
       <td>Solutions 3</td>
       <td>Recording 3</td>
       <td>Slides 3</td>
@@ -163,6 +163,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
 
 
 

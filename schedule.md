@@ -232,17 +232,17 @@
       <th>Thu 9/18</th>
       <td></td>
       <td></td>
-      <td><a href="/fa25/discussion">Disc 4. Quest Review</a></td>
+      <td><a href="/fa25/discussion">Disc 4. HOFs + Iteration</a></td>
       <td></td>
     </tr>
     <tr>
       <th>Fri 9/19</th>
-      <td>Talk 4: Conditionals, Truth Tables, Predicates<br/>
+      <td>Talk 4: Iteration + Lists<br/>
           <a href="">(Recording: Talk 4)</a>
       </td>
       <td></td>
       <td></td>
-      <td>Quest 1 </br>(due by 9/20)</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -264,12 +264,12 @@
     <tr>
       <td class="schedule-week-num" rowspan=5>Week 5</td>
       <th>Mon 9/22</th>
-      <td>Lec 6. Saving the World with Computing (Guest Lecture)<br/>
+      <td>Lec 7. Higher-Order Functions<br/>
           <a href="">(Recording 5)</a><br/>
           <a href="">(Slides 5)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577043">(Lecture Quiz 5)</a>
       </td>
-      <td>Catch-up Session (optional)</td>
+      <td><a href="/fa25/lab_directory">Lab 6. Functions as Data, HOFs</a></td>
       <td></td>
       <td><a href="/fa25/projects/"><b>Proj 2: Spelling Bee Released</b></a></td>
     </tr>
@@ -282,12 +282,12 @@
     </tr>
     <tr>
       <th>Wed 9/24</th>
-      <td>Lec 6. Higher-Order Functions<br/>
+      <td>Lec 8. Social Implications of Computing: Privacy<br/>
           <a href="">(Recording 6)</a><br/>
           <a href="">(Slides 6)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577006">(Lecture Quiz 6)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Lab 6. Functions as Data, HOFs</a></td>
+      <td>Catch-up Session (Optional)</td>
       <td></td>
       <td></td>
     </tr>
@@ -295,7 +295,7 @@
       <th>Thu 9/25</th>
       <td></td>
       <td></td>
-      <td><a href="/fa25/discussion">Disc 5. HOFs</a></td>
+      <td><a href="/fa25/discussion">Disc 5. HOFs + Quest Review</a></td>
       <td></td>
     </tr>
     <tr>
@@ -326,7 +326,7 @@
     <tr>
       <td class="schedule-week-num" rowspan=5>Week 6</td>
       <th>Mon 9/29</th>
-      <td>Lec 7. Algorithms<br/>
+      <td>Lec 9. Algorithms<br/>
           <a href="">(Recording 7)</a><br/>
           <a href="">(Slides 7)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577030">(Lecture Quiz 7)</a>
@@ -344,7 +344,7 @@
     </tr>
     <tr>
       <th>Wed 10/01</th>
-      <td>Lec 8. Testing + 2048<br/>
+      <td>Lec 10. Testing + 2048<br/>
           <a href="">(Recording 8)</a><br/>
           <a href="">(Slides 8)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577025">(Lecture Quiz 8)</a>

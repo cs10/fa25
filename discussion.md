@@ -12,7 +12,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
 
 > Discussion worksheets only need to be turned in if you did not attend discussion in-person or if your attendance was not logged in the Google form. In this case, the worksheets are due before the next discussion. All due dates can be found in Gradescope under the assignment. 
 
-> Discussion worksheet handouts will be provided. Any extras will be left in Soda 777 (Dan's office).
+> Discussion worksheet handouts will be provided. Any extras will be left in Soda 431B (office hours room).
 
 > Solutions and walkthroughs can typically be found within the slides. However, the formal solutions will be posted the Friday after the discussion worksheet is due.
 
@@ -54,7 +54,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Functions + Control Structures</td>
       <td><a href="https://docs.google.com/document/d/1l4UlkjablKPeA7voDmu-CgFNGwjSkPv7/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 2</a></td>
       <td>Solutions 2</td>
-      <td>Recording 2</td>
+      <td><a href="https://berkeley.zoom.us/rec/share/CfdThlSdw4WaOo0SJjD70Ive4Sc2A63C5CuckpKLLkTocuEviLPVwpHflOjd64bE.bUDZOy0REcWsPj7k 
+Passcode: c4rZ76Z=">Recording 2</a></td>
       <td><a href="https://docs.google.com/presentation/d/1t38xDPooeHmzZwIgcEVZtkP-Rd8NbkqQlz_SWPcccTM/edit?usp=sharing">Slides 2</a></td>
     </tr>
      <tr>
@@ -163,6 +164,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
 
 
 

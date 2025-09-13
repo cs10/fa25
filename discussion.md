@@ -45,7 +45,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Week 1 Discussion</td>
       <td>Welcome to CS10!</td>
       <td><a href="https://docs.google.com/document/d/1GwmYDp-1uJ4uQSHnT7njHEuB3As9f4Zu/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 1</a></td>
-      <td>Solutions 1</td>
+      <td><a href="https://docs.google.com/document/d/12rjkpdVLegsktfJMDQGZGVpIh0yqXIJU/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Solutions 1</a></td>
       <td><a href="https://drive.google.com/drive/folders/1JN8NpOxVk_lWZ_Gkaw-A7hVon-EcAcwu?usp=sharing">Recording 1</a></td>
       <td><a href="https://docs.google.com/presentation/d/1BSoHMe8QN-09XX3Yt_cxDJi79Yk99BVhliWe1wfFcp8/edit?usp=sharing">Slides 1</a></td>
     </tr> 
@@ -164,6 +164,7 @@ Passcode: c4rZ76Z=">Recording 2</a></td>
     </tr>
   </tbody>
 </table>
+
 
 
 

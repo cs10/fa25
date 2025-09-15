@@ -206,7 +206,7 @@
           <a href="https://docs.google.com/presentation/d/1qYTsByI8i-bHzJaqYieAavt87vFoLPkGHhspDveQ-1U/edit?usp=sharing">(Slides 5)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577004">(Lecture Quiz 5)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Lab 4. Lists + Loops</a></td>
+      <td><a href="/fa25/labs/lab04">Lab 4. Lists + Loops</a></td>
       <td></td>
       <td></td>
     </tr>

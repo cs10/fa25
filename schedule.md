@@ -203,7 +203,7 @@
       <th>Mon 9/15</th>
       <td>Lec 5. Iteration<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 5)</a><br/>
-          <a href="">(Slides 5)</a><br/>
+          <a href="https://docs.google.com/presentation/d/1qYTsByI8i-bHzJaqYieAavt87vFoLPkGHhspDveQ-1U/edit?usp=sharing">(Slides 5)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577004">(Lecture Quiz 5)</a>
       </td>
       <td><a href="/fa25/lab_directory">Lab 4. Lists + Loops</a></td>
@@ -220,7 +220,7 @@
     <tr>
       <th>Wed 9/17</th>
       <td>Lec 6. Lists, Scoping, &amp; HOFs<br/>
-          <a href="">(Recording 6)</a><br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 6)</a><br/>
           <a href="">(Slides 6)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577027">(Lecture Quiz 6)</a>
       </td>
@@ -238,7 +238,7 @@
     <tr>
       <th>Fri 9/19</th>
       <td>Talk 4: Iteration + Lists<br/>
-          <a href="">(Recording: Talk 4)</a>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 4)</a>
       </td>
       <td></td>
       <td></td>
@@ -265,7 +265,7 @@
       <td class="schedule-week-num" rowspan=5>Week 5</td>
       <th>Mon 9/22</th>
       <td>Lec 7. Higher-Order Functions<br/>
-          <a href="">(Recording 5)</a><br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 5)</a><br/>
           <a href="">(Slides 5)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577043">(Lecture Quiz 5)</a>
       </td>
@@ -283,9 +283,9 @@
     <tr>
       <th>Wed 9/24</th>
       <td>Lec 8. Social Implications of Computing: Privacy<br/>
-          <a href="">(Recording 6)</a><br/>
-          <a href="">(Slides 6)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577006">(Lecture Quiz 6)</a>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 8)</a><br/>
+          <a href="">(Slides 8)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577006">(Lecture Quiz 8)</a>
       </td>
       <td>Catch-up Session (Optional)</td>
       <td></td>

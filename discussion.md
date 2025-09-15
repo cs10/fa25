@@ -54,7 +54,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Functions + Control Structures</td>
       <td><a href="https://docs.google.com/document/d/1l4UlkjablKPeA7voDmu-CgFNGwjSkPv7/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 2</a></td>
       <td>Solutions 2</td>
-      <td><a href="https://berkeley.zoom.us/rec/share/CfdThlSdw4WaOo0SJjD70Ive4Sc2A63C5CuckpKLLkTocuEviLPVwpHflOjd64bE.bUDZOy0REcWsPj7k">Recording 2</a></br>Passcode: c4rZ76Z=</td>
+      <td><a href="https://berkeley.zoom.us/rec/share/CfdThlSdw4WaOo0SJjD70Ive4Sc2A63C5CuckpKLLkTocuEviLPVwpHflOjd64bE.bUDZOy0REcWsPj7k">Recording 2</a><br>Passcode: c4rZ76Z=</td>
       <td><a href="https://docs.google.com/presentation/d/1t38xDPooeHmzZwIgcEVZtkP-Rd8NbkqQlz_SWPcccTM/edit?usp=sharing">Slides 2</a></td>
     </tr>
      <tr>
@@ -62,7 +62,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Numeral Representation + Conditionals Continued</td>
       <td><a href="https://docs.google.com/document/d/1svo40V6A3TrxY9Zaz9WKPBifYS7G8tUa/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 3</a></td>
       <td>Solutions 3</td>
-      <td><a href="https://berkeley.zoom.us/rec/share/mZXtEpBlDOLkBWC3hUKtct5tRkwE3ItzqFG9rf5bGuK1d8SqOvAiYPDaVgIay1pa.6acfX8qDnWhE-mZJ">Recording 3</a></br>Passcode: sYb1!!qD</td>
+      <td><a href="https://berkeley.zoom.us/rec/share/mZXtEpBlDOLkBWC3hUKtct5tRkwE3ItzqFG9rf5bGuK1d8SqOvAiYPDaVgIay1pa.6acfX8qDnWhE-mZJ">Recording 3</a><br>Passcode: sYb1!!qD</td>
       <td><a href="https://docs.google.com/presentation/d/1wtV1TCFRCFbhIWyuJWiKbRcxUDmZI3IXH0TEw8Uoo6s/edit?usp=sharing">Slides 3</a></td>
     </tr>
     <tr>
@@ -163,6 +163,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
 
 
 

@@ -237,7 +237,7 @@
     </tr>
     <tr>
       <th>Fri 9/19</th>
-      <td>Talk 4: Iteration + Lists<br/>
+      <td>Talk 4: Booleans + Iteration<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 4)</a>
       </td>
       <td></td>

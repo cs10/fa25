@@ -224,7 +224,7 @@
           <a href="">(Slides 6)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577027">(Lecture Quiz 6)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Lab 5. Lists &amp; HOFs</a></td>
+      <td><a href="https://docs.google.com/document/d/1EH7DJaWCrdoW_qsfbOhbhztdpYP2PxiYcqGUIMlZjZA/edit?tab=t.0">Lab 5. Lists &amp; HOFs</a></td>
       <td></td>
       <td><a href="/fa25/projects/"><b>Proj 1 Due</b></a></td> <!-- Assignment / Exam -->
     </tr>

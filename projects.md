@@ -33,8 +33,8 @@ nav_order: 6
     </tr>
     <tr>
       <td>Project 2: Spelling Bee</td>
-      <td>Project 2 Intructions</td>
-      <!-- <td><a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view">Proj 2 Walkthrough Slides</a></td> -->
+      <td><a href="/fa25/projects/project2">Project 2 Intructions</a></td>
+      <td><a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view">Proj 2 Walkthrough Slides</a></td>
       <td>Proj 2 Walkthrough Slides</td>
       <td>Monday, 9/22</td>
       <td>Monday, 10/3</td>
@@ -91,5 +91,8 @@ nav_order: 6
     </tr>
   </tbody>
 </table> 
+
+
+
 
 

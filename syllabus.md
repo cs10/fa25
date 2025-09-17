@@ -221,7 +221,7 @@ If your percentage score on a latter exam is higher than your percentage score o
 | Midterm                                       | 50       |
 | Postterm                                      | 75       |
 | Project 1: Wordle™-lite                       | 15       |
-| Project 2: Spelling-Bee                       | 25       |
+| Project 2: Spelling-Bee                       | 15       |
 | Project 3: 2048                               | 35       |
 | Project 4: Explore                            | 20       |
 | Final Project                                 | 60       |
@@ -371,6 +371,7 @@ Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/pro
 
 It is very important to the EECS Department that every student in the EECS community feels safe, respected and welcome.  We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
+
 
 
 

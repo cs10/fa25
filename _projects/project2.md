@@ -1,8 +1,8 @@
 ---
 title: Project 2
 description: Spelling Bee
-due: "11:59 PM PST on Monday, 2/24"
-gradescope_assignment_id: 957259
+due: "11:59 PM PST on Friday, 10/203"
+gradescope_assignment_id: 6577063
 submission_files:
     - starter.xml
 ---
@@ -164,4 +164,5 @@ Note: correct, working code should handle those test cases, but not have the tes
 | complete solution to puzzle _ using words _ | 7.5   | Reporter | list and string | string
 
 ## Feedback Form 
-Congratulations on finish your first project in CS10🥳. Please spend some time completing this [feedback form](https://forms.gle/CTRvnkLVmyD1CEqs5). This will be worth 1 point of your project grade. Each person should submit this feedback form. Thank you!
+Congratulations on finish your first project in CS10🥳. Please spend some time completing this [feedback form](https://forms.gle/RiGStSMY4QW6Su4T7). This will be worth 1 point of your project grade. Each person should submit this feedback form. Thank you!
+

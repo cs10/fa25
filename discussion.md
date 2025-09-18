@@ -70,10 +70,10 @@ Passcode: sYb1!!qD">Recording 3</a></td>
     <tr>
       <td>Week 4 Discussion</td>
       <td>Quest Review</td>
-      <td>Worksheet 4</td>
+      <td><a href="https://docs.google.com/document/d/1ADyMALpPxa_2EcGO5ClYU6wD-G2zi2TB/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 4</a></td>
       <td>Solutions 4</td>
       <td>Recording 4</td>
-      <td>Slides 4</td>
+      <td><a href="https://docs.google.com/presentation/d/18_9rL-cQsYlqUoZXc2wCvA-Op85fVfVmYdgfqll78lk/edit?usp=sharing">Slides 4</a></td>
     </tr>
     <tr>
       <td>Week 5 Discussion</td>
@@ -165,6 +165,7 @@ Passcode: sYb1!!qD">Recording 3</a></td>
     </tr>
   </tbody>
 </table>
+
 
 
 

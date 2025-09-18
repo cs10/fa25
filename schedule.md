@@ -160,7 +160,7 @@
         <th>Wed 9/10 </th> <!-- Date -->
         <td>Lec 4. Computing in Education<br/>
             <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 14)</a><br/>      
-            <a href="https://drive.google.com/drive/folders/1X88498eFRUfx33I3f2fkE7uh5yh1rHfq">(Slides 14)</a><br/>
+            <a href="https://drive.google.com/drive/folders/1X88498eFRUfx33I3f2fkE7uh5yh1rHfq">(Slides 4)</a><br/>
             <a href="https://www.gradescope.com/courses/1098053/assignments/6577029">(Lecture Quiz 14)</a></td> <!-- Lecture -->
         <td>Catch-up Lab (optional)</td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -203,7 +203,7 @@
       <th>Mon 9/15</th>
       <td>Lec 5. Iteration<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 5)</a><br/>
-          <a href="">(Slides 5)</a><br/>
+          <a href="https://drive.google.com/drive/folders/1MaDZp9WNo0GXgw5uo4_J9eyCBJN3B2MO">(Slides 5)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577004">(Lecture Quiz 5)</a>
       </td>
       <td><a href="/fa25/labs/lab04">Lab 4. Iteration</a></td>
@@ -221,7 +221,7 @@
       <th>Wed 9/17</th>
       <td>Lec 6. Lists, Scoping, &amp; HOFs<br/>
           <a href="">(Recording 6)</a><br/>
-          <a href="">(Slides 6)</a><br/>
+          <a href="https://drive.google.com/drive/folders/196es2A1TR6iijUgHt10i0ocd43R2mpb-">(Slides 6)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577027">(Lecture Quiz 6)</a>
       </td>
       <td><a href="/fa25/lab_directory">Lab 5. Lists &amp; HOFs</a></td>

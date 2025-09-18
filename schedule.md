@@ -206,7 +206,7 @@
           <a href="">(Slides 5)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577004">(Lecture Quiz 5)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Lab 4. Iteration</a></td>
+      <td><a href="/fa25/labs/lab04">Lab 4. Iteration</a></td>
       <td></td>
       <td></td>
     </tr>

@@ -175,7 +175,7 @@
     </tr>
     <tr>
         <th>Fri 9/12</th> <!-- Date -->
-        <td>Talk 3: Binary/Dec/Hex Conversion<br/>
+        <td>Talk 3: Quest 1 Preview I<br/>
             <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 3)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -237,7 +237,7 @@
     </tr>
     <tr>
       <th>Fri 9/19</th>
-      <td>Talk 4: Iteration + Lists<br/>
+      <td>Talk 4: Quest 1 Preview II<br/>
           <a href="">(Recording: Talk 4)</a>
       </td>
       <td></td>
@@ -300,7 +300,7 @@
     </tr>
     <tr>
       <th>Fri 9/26</th>
-      <td>Talk 5: Quest 1 Preview<br/>
+      <td>Talk 5: Quest 1 Preview III<br/>
             <a href="">(Recording: Talk 5)</a></td> <!-- Lecture -->  
       <td></td>
       <td></td>

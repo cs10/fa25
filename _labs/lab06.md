@@ -16,9 +16,10 @@ This worksheet serves as a guide and set of instructions to complete Lab 6. All 
 - Please note: The file name **does not equal the lab number!**
 
 ## Submitting
-You will need to fill in the blocks under **“Lab 9 Starter”** and submit this to Gradescope (again, the file name does not eqaul the lab number!)).  
+You will need to fill in the blocks under **“Lab 9 Starter”** and submit this to Gradescope (again, the file name does not equal the lab number!).  
 - To receive full credit, you must complete the required blocks, and those blocks must pass all tests from the Gradescope autograder.  
 - For instructions on how to submit labs to Gradescope, please see [this page](https://docs.google.com/document/d/1XAcZc9ypX07-bt0gK6uQ4P-06SrjPRsgiOjERIOlvYU/edit?usp=sharing).
+- ![run autograder]({{ site.baseurl }}/assets/images/lab_images/lab6_0.png)
 
 Please note: you must use the **starter file** above, and you must **not** edit the name of any required blocks. Failing to do either will result in autograder failure.
 
@@ -26,7 +27,7 @@ Please note: you must use the **starter file** above, and you must **not** edit 
 Throughout the course, you’ve been exposed to HOF blocks like `map`, `keep`, and `combine`. You may have used them to carry out relatively simple tasks, like summing a list with `combine`, or filtering based on word length with `keep`. In this lab, you're going to attack some more complicated problems with the help of HOFs.  
 
 By the end of the lab, you will be comfortable implementing and understanding:
-- Build non-HOF blocks to use as helper functions in larger HOFs problems
+- Build non-HOF blocks to use as helper functions in larger HOF problems
 - Complete complex, multi-step HOFs problems
 - Use HOFs to solve real-life problems, like minimizing or composing functions
 
@@ -53,7 +54,7 @@ Topics that are important but not required for this lab will be indicated with a
 
 ## Block 1: is (num) a factorion?
 **Objective**  
-- Create a predicate block that, when inputted with a number, reports if that number is a factorion (True/False).  
+- Create a predicate block that, when input with a number, reports if that number is a factorion (True/False).  
 - A number is called a factorion if the number is equal to the sum of the factorials of its digits.  
 - Example: 145 is a factorion since 145 = 1! + 4! + 5!.  
 - Please use HOFs in your solution.  
@@ -67,9 +68,9 @@ Topics that are important but not required for this lab will be indicated with a
 - Reports a **boolean** (`true` if factorion, otherwise `false`)  
 
 **Examples**  
-- ![example factorion check true for 145]({{ site.baseurl }}/assets/images/lab_images/lab6_b1_1.PNG)  
-- ![example factorion check false for 123]({{ site.baseurl }}/assets/images/lab_images/lab6_b1_2.PNG)  
-- ![example factorion check true for 40585]({{ site.baseurl }}/assets/images/lab_images/lab6_b1_3.PNG)  
+- ![example factorion check true for 145]({{ site.baseurl }}/assets/images/lab_images/lab6_b1_1.png)  
+- ![example factorion check false for 123]({{ site.baseurl }}/assets/images/lab_images/lab6_b1_2.png)  
+- ![example factorion check true for 40585]({{ site.baseurl }}/assets/images/lab_images/lab6_b1_3.png)  
 
 ---
 
@@ -84,8 +85,8 @@ Topics that are important but not required for this lab will be indicated with a
 - Reports a **list** containing all factorions between (and including) num1 and num2  
 
 **Examples**  
-- ![example list factorions between 1 and 2000]({{ site.baseurl }}/assets/images/lab_images/lab6_b2_1.PNG)  
-- ![example list factorions between 1 and 50000]({{ site.baseurl }}/assets/images/lab_images/lab6_b2_2.PNG)  
+- ![example list factorions between 1 and 2000]({{ site.baseurl }}/assets/images/lab_images/lab6_b2_1.png)  
+- ![example list factorions between 1 and 50000]({{ site.baseurl }}/assets/images/lab_images/lab6_b2_2.png)  
 
 ---
 
@@ -102,9 +103,9 @@ Topics that are important but not required for this lab will be indicated with a
 - Reports a **boolean**  
 
 **Examples**  
-- ![example pandigital check true for 15432]({{ site.baseurl }}/assets/images/lab_images/lab6_b3_1.PNG)  
-- ![example pandigital check false for 11132]({{ site.baseurl }}/assets/images/lab_images/lab6_b3_2.PNG)  
-- ![example pandigital check true for 987654321]({{ site.baseurl }}/assets/images/lab_images/lab6_b3_3.PNG)  
+- ![example pandigital check true for 15432]({{ site.baseurl }}/assets/images/lab_images/lab6_b3_1.png)  
+- ![example pandigital check false for 11132]({{ site.baseurl }}/assets/images/lab_images/lab6_b3_2.png)  
+- ![example pandigital check true for 987654321]({{ site.baseurl }}/assets/images/lab_images/lab6_b3_3.png)  
 
 ---
 
@@ -119,8 +120,8 @@ Topics that are important but not required for this lab will be indicated with a
 - Reports a **list** containing all pandigital numbers between (and including) num1 and num2  
 
 **Examples**  
-- ![example list pandigital numbers between 100 and 500]({{ site.baseurl }}/assets/images/lab_images/lab6_b4_1.PNG)  
-- ![example list pandigital numbers between 1 and 10000]({{ site.baseurl }}/assets/images/lab_images/lab6_b4_2.PNG)  
+- ![example list pandigital numbers between 100 and 500]({{ site.baseurl }}/assets/images/lab_images/lab6_b4_1.png)  
+- ![example list pandigital numbers between 1 and 10000]({{ site.baseurl }}/assets/images/lab_images/lab6_b4_2.png)  
 
 ---
 

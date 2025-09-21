@@ -23,7 +23,7 @@ Lab Slides:
 | [Lab 3: Conditionals, Reporters, Testing](/fa25/labs/lab03)     | WED 9/10                 |
 | [Lab 4: Iteration](/fa25/labs/lab04)                          | WED 9/17                 |
 | [Lab 5: Lists + HOFs](https://docs.google.com/document/d/1Z8YuBlzGsWTCgsnY4ambZcHeregOifj8c_pzF3BQP3o/edit?usp=sharing)                         | FRI 9/19                 |
-| [Lab 6: Functions as Data](/fa25/labs/lab06)                    | FRI 9/26                 |
+| [Lab 6: Functions as Data](/fa25/labs/lab06)                    | WED 9/24                 |
 | Lab 7: Algorithms                           | WED 10/1                 |
 | Lab 8: Testing + Proj 3                     | FRI 10/3                 |
 | Lab 9: Boards                               | WED 10/8                 |

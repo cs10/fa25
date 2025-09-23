@@ -265,9 +265,9 @@
       <td class="schedule-week-num" rowspan=5>Week 5</td>
       <th>Mon 9/22</th>
       <td>Lec 7. Higher-Order Functions<br/>
-          <a href="">(Recording 5)</a><br/>
-          <a href="">(Slides 5)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577043">(Lecture Quiz 5)</a>
+          <a href="">(Recording 7)</a><br/>
+          <a href="https://drive.google.com/drive/folders/1iS1S4LZDQRcLPEKvXD9Ow-psaU99ZDQv">(Slides 7)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577043">(Lecture Quiz 7)</a>
       </td>
       <td><a href="/fa25/lab_directory">Lab 6. Functions as Data, HOFs</a></td>
       <td></td>

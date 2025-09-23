@@ -37,7 +37,7 @@ nav_order: 6
       <!-- <td><a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view">Proj 2 Walkthrough Slides</a></td> -->
       <td><a href="https://drive.google.com/file/d/1HXzSkplICnBcCwllj5ES4Ai10ylGgMrN/view?usp=sharing">Proj 2 Walkthrough Slides</a></td>
       <td>Monday, 9/23</td>
-      <td>Monday, 10/3</td>
+      <td>Friday, 10/3</td>
     </tr>
      <tr>
       <td>Project 3: 2048</td>
@@ -91,6 +91,7 @@ nav_order: 6
     </tr>
   </tbody>
 </table> 
+
 
 
 

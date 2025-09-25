@@ -77,7 +77,7 @@ Passcode: sYb1!!qD">Recording 3</a></td>
     </tr>
     <tr>
       <td>Week 5 Discussion</td>
-      <td>HOFs</td>
+      <td><a href="https://docs.google.com/document/d/15eF8ev0Ht4G2Ij_MvkJO0ow9Zb8i1Jws/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">HOFs + Quest Practice</a></td>
       <td>Worksheet 5</td>
       <td>Solutions 5</td>
       <td>Recording 5</td>
@@ -165,6 +165,7 @@ Passcode: sYb1!!qD">Recording 3</a></td>
     </tr>
   </tbody>
 </table>
+
 
 
 

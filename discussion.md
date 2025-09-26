@@ -77,11 +77,11 @@ Passcode: sYb1!!qD">Recording 3</a></td>
     </tr>
     <tr>
       <td>Week 5 Discussion</td>
-      <td><a href="https://docs.google.com/document/d/15eF8ev0Ht4G2Ij_MvkJO0ow9Zb8i1Jws/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">HOFs + Quest Practice</a></td>
-      <td>Worksheet 5</td>
-      <td>Solutions 5</td>
+      <td>HOFs + Quest Practice</td>
+      <td><a href="https://docs.google.com/document/d/15eF8ev0Ht4G2Ij_MvkJO0ow9Zb8i1Jws/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 5</a></td>
+      <td><a href="https://docs.google.com/document/d/1xY8Qn7U1eJvSEZ01GbKicSV487WkNmdD/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Solutions 5</a></td>
       <td>Recording 5</td>
-      <td>Slides 5</td>
+      <td><a href="https://docs.google.com/presentation/d/1JRY_LnAHqvno8bP8MJBEBVZgJwSQ32qX6M0JkFMN3O8/edit?usp=drive_link">Slides 5</a></td>
     </tr>
     <tr>
       <td>Week 6 Discussion</td>
@@ -165,6 +165,7 @@ Passcode: sYb1!!qD">Recording 3</a></td>
     </tr>
   </tbody>
 </table>
+
 
 
 

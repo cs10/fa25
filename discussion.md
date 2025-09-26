@@ -53,7 +53,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Week 2 Discussion</td>
       <td>Functions + Control Structures</td>
       <td><a href="https://docs.google.com/document/d/1l4UlkjablKPeA7voDmu-CgFNGwjSkPv7/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 2</a></td>
-      <td>Solutions 2</td>
+      <td><a href="https://docs.google.com/document/d/1PasTyjnTPHlhhA7TSn0_vP7eSy9LRYrz/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Solutions 2</a></td>
       <td><a href="https://berkeley.zoom.us/rec/share/CfdThlSdw4WaOo0SJjD70Ive4Sc2A63C5CuckpKLLkTocuEviLPVwpHflOjd64bE.bUDZOy0REcWsPj7k 
 Passcode: c4rZ76Z=">Recording 2</a></td>
       <td><a href="https://docs.google.com/presentation/d/1t38xDPooeHmzZwIgcEVZtkP-Rd8NbkqQlz_SWPcccTM/edit?usp=sharing">Slides 2</a></td>
@@ -165,6 +165,7 @@ Passcode: sYb1!!qD">Recording 3</a></td>
     </tr>
   </tbody>
 </table>
+
 
 
 

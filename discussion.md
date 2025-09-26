@@ -62,7 +62,7 @@ Passcode: c4rZ76Z=">Recording 2</a></td>
       <td>Week 3 Discussion</td>
       <td>Numeral Representation + Conditionals Continued</td>
       <td><a href="https://docs.google.com/document/d/1svo40V6A3TrxY9Zaz9WKPBifYS7G8tUa/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 3</a></td>
-      <td>Solutions 3</td>
+      <td><a href="https://docs.google.com/document/d/1q-2hNBxLBwNIc1rHYVyI1Km93F-IWs9w/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Solutions 3</a></td>
       <td><a href="https://berkeley.zoom.us/rec/share/mZXtEpBlDOLkBWC3hUKtct5tRkwE3ItzqFG9rf5bGuK1d8SqOvAiYPDaVgIay1pa.6acfX8qDnWhE-mZJ 
 Passcode: sYb1!!qD">Recording 3</a></td>
       <td><a href="https://docs.google.com/presentation/d/1wtV1TCFRCFbhIWyuJWiKbRcxUDmZI3IXH0TEw8Uoo6s/edit?usp=sharing">Slides 3</a></td>
@@ -165,6 +165,7 @@ Passcode: sYb1!!qD">Recording 3</a></td>
     </tr>
   </tbody>
 </table>
+
 
 
 

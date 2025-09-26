@@ -54,8 +54,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Functions + Control Structures</td>
       <td><a href="https://docs.google.com/document/d/1l4UlkjablKPeA7voDmu-CgFNGwjSkPv7/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 2</a></td>
       <td><a href="https://docs.google.com/document/d/1PasTyjnTPHlhhA7TSn0_vP7eSy9LRYrz/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Solutions 2</a></td>
-      <td><a href="https://berkeley.zoom.us/rec/share/CfdThlSdw4WaOo0SJjD70Ive4Sc2A63C5CuckpKLLkTocuEviLPVwpHflOjd64bE.bUDZOy0REcWsPj7k 
-Passcode: c4rZ76Z=">Recording 2</a></td>
+      <td><a href="https://berkeley.zoom.us/rec/share/CfdThlSdw4WaOo0SJjD70Ive4Sc2A63C5CuckpKLLkTocuEviLPVwpHflOjd64bE.bUDZOy0REcWsPj7k">
+Recording 2</a><br/>Passcode: c4rZ76Z</td>
       <td><a href="https://docs.google.com/presentation/d/1t38xDPooeHmzZwIgcEVZtkP-Rd8NbkqQlz_SWPcccTM/edit?usp=sharing">Slides 2</a></td>
     </tr>
      <tr>
@@ -63,16 +63,15 @@ Passcode: c4rZ76Z=">Recording 2</a></td>
       <td>Numeral Representation + Conditionals Continued</td>
       <td><a href="https://docs.google.com/document/d/1svo40V6A3TrxY9Zaz9WKPBifYS7G8tUa/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 3</a></td>
       <td><a href="https://docs.google.com/document/d/1q-2hNBxLBwNIc1rHYVyI1Km93F-IWs9w/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Solutions 3</a></td>
-      <td><a href="https://berkeley.zoom.us/rec/share/mZXtEpBlDOLkBWC3hUKtct5tRkwE3ItzqFG9rf5bGuK1d8SqOvAiYPDaVgIay1pa.6acfX8qDnWhE-mZJ 
-Passcode: sYb1!!qD">Recording 3</a></td>
+      <td><a href="https://berkeley.zoom.us/rec/share/mZXtEpBlDOLkBWC3hUKtct5tRkwE3ItzqFG9rf5bGuK1d8SqOvAiYPDaVgIay1pa.6acfX8qDnWhE-mZJ">Recording 3</a><br/>Passcode: sYb1!!qD</td>
       <td><a href="https://docs.google.com/presentation/d/1wtV1TCFRCFbhIWyuJWiKbRcxUDmZI3IXH0TEw8Uoo6s/edit?usp=sharing">Slides 3</a></td>
     </tr>
     <tr>
       <td>Week 4 Discussion</td>
-      <td>Quest Review</td>
+      <td>Iteration + Scope</td>
       <td><a href="https://docs.google.com/document/d/1ADyMALpPxa_2EcGO5ClYU6wD-G2zi2TB/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 4</a></td>
-      <td>Solutions 4</td>
-      <td>Recording 4</td>
+      <td><a href="https://docs.google.com/document/d/1YdqmYwgOJoXfTRNvStbj0KOJbG7r0NPM/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Solutions 4</a></td>
+      <td><a href="https://berkeley.zoom.us/rec/share/7sOSRhqh9yW5Zef67r2GM0vzbBM2rA7l_OMP0OoA9gNA7PDhUwxAgpNVd5SmVXX7.35V4Rz3CwIUTZf-c">Recording 4</a><br/>Passcode: D5V^=GH4</td>
       <td><a href="https://docs.google.com/presentation/d/18_9rL-cQsYlqUoZXc2wCvA-Op85fVfVmYdgfqll78lk/edit?usp=sharing">Slides 4</a></td>
     </tr>
     <tr>
@@ -80,7 +79,7 @@ Passcode: sYb1!!qD">Recording 3</a></td>
       <td>HOFs + Quest Practice</td>
       <td><a href="https://docs.google.com/document/d/15eF8ev0Ht4G2Ij_MvkJO0ow9Zb8i1Jws/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 5</a></td>
       <td><a href="https://docs.google.com/document/d/1xY8Qn7U1eJvSEZ01GbKicSV487WkNmdD/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Solutions 5</a></td>
-      <td>Recording 5</td>
+      <td><a href="https://berkeley.zoom.us/rec/share/in9Q4pphPo5KWUKS2jr4W0wQ_oSsWYwEO8lOpWgBYmzEnN3AQin30_Xn88AeOEG8.oTMgUKTjqONlUxsY">Recording 5</a><br/>Passcode: ^ctu+6ks</td>
       <td><a href="https://docs.google.com/presentation/d/1JRY_LnAHqvno8bP8MJBEBVZgJwSQ32qX6M0JkFMN3O8/edit?usp=drive_link">Slides 5</a></td>
     </tr>
     <tr>
@@ -165,6 +164,7 @@ Passcode: sYb1!!qD">Recording 3</a></td>
     </tr>
   </tbody>
 </table>
+
 
 
 

@@ -331,7 +331,7 @@
           <a href="https://drive.google.com/drive/folders/1bR5cxJinuZZhVz4hKphD-HMS2nYD4d6Q?usp=sharing">(Slides 7)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577030">(Lecture Quiz 7)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Lab 7. Algorithms</a></td>
+      <td><a href="https://docs.google.com/document/d/1vBD-hA5BTbiBJIT-TstaM2wMu_bPbGt_XRrwTN-ZBWY/edit?tab=t.0#heading=h.ew4i1encppj2">Lab 7. Algorithms</a></td>
       <td></td>
       <td></td>
     </tr>

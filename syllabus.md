@@ -241,9 +241,9 @@ If your percentage score on a latter exam is higher than your percentage score o
 | B                  |    330-350                        |
 | B-                 |    320-330                        |
 | C+                 |    310-320                        |
-| C                  |    300-310                        |
-| C-                 |    290-300                        |
-| D                  |    250-290                        |
+| C                  |    290-310                        |
+| C-                 |    280-290                        |
+| D                  |    250-280                        |
 | F                  |    0-250                          |
 
 Your total points will be rounded to the nearest integer when we compute letter grades. 0.5 will round to 1, but 0.49 will round to 0. We will not shift the bins / curve the class / ooch or round your grade beyond the listed rounding scheme, so please don't ask.
@@ -371,6 +371,7 @@ Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/pro
 
 It is very important to the EECS Department that every student in the EECS community feels safe, respected and welcome.  We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
+
 
 
 

@@ -25,7 +25,7 @@ Lab Slides:
 | [Lab 5: Lists + HOFs](https://docs.google.com/document/d/1Z8YuBlzGsWTCgsnY4ambZcHeregOifj8c_pzF3BQP3o/edit?usp=sharing)                         | FRI 9/19                 |
 | [Lab 6: Functions as Data](/fa25/labs/lab06)                    | WED 9/24                 |
 | [Lab 7: Algorithms](https://docs.google.com/document/d/1vBD-hA5BTbiBJIT-TstaM2wMu_bPbGt_XRrwTN-ZBWY/edit?tab=t.0#heading=h.ew4i1encppj2)        | WED 10/1                 |
-| Lab 8: Testing + Proj 3                     | FRI 10/3                 |
+| [Lab 8: Testing + Proj 3](/fa25/labs/lab08)                     | FRI 10/3                 |
 | Lab 9: Boards                               | WED 10/8                 |
 | Lab 10: Trees & Fractals                    | FRI 10/10                |
 | Lab 11: Recursive Reporters                 | WED 10/15                |

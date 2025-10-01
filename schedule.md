@@ -349,7 +349,7 @@
           <a href="https://drive.google.com/drive/folders/1IqNGB45VcUVvBJNT60BRbuuIeTvARtR6?usp=sharing">(Slides 8)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577025">(Lecture Quiz 8)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Lab 8. Testing + 2048</a></td>
+      <td><a href="/fa25/labs/lab08">Lab 8. Testing + 2048</a></td>
       <td></td>
       <td></td>
     </tr>

@@ -1,26 +1,23 @@
 ---
 title: Project 3
 description: 2048
-due: "11:59 PM PST on Monday, 3/17"
-gradescope_assignment_id: 5617831
+due: "11:59 PM PST on Monday, 10/20"
+gradescope_assignment_id: 6577013
 submission_files:
     - starter.xml
 ---
 
 <!-- *Version 3.1. Last Updated: 2024-10-10.* -->
 
-*[Project 3 Walkthrough Guide](https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing)*
-
-## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=BJC%20CS10%20Project%203%3A%202048)
+## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=CS10%20Project%203%3a%202048&editMode&noRun)
 
 > Any important announcements will be made here:
 
->> Project 3 Party is Friday, 3/14 from 3 to 5PM in Soda 411
+>> Project 3 Party is TBD
 
 >> *We highly recommend reading through this spec in its entirety before you begin.*
 
->> *We also recommend you complete all labs up to and including Lab 8: Boards*
-
+*[Project 3 Walkthrough Guide](https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing)*
 
 ## Content
 
@@ -47,6 +44,15 @@ The expected timeframe for this project is about 20 hours, with a partner.
 - Part 4: "no moves left for _ ?" Block - 5 hours
 - Part 5: "Tests" - 30 minutes
 - Feedback Form - 20 minutes
+
+Working on this project assumes you have completed the following:
+- Lectures: 1 through 10
+- Labs: 1 through 9
+- Discussions: 1 through 6
+
+Important: Ensure that you use the starter file we’ve linked below- do NOT create your own Snap! file for this project!
+
+Note: The Project Feedback Form will ask about how long you took at each part of the project. Please keep track of your time frame as you work through the project. For example, if you work for 30 minutes on Thursday, then 40 minutes on Saturday for part 2, you spend 1 hour and 10 minutes total on part 2.
 
 ### Submission Guidelines
 Please submit on Gradescope using these submission instructions, and make sure to add your partner!
@@ -183,7 +189,7 @@ Here is guide and some examples of the testing block:
 
 ## Feedback Form
 
-Congratulations on finishing your third project in CS10🥳Please spend some time completing this [feedback form](https://forms.gle/q1KLqQf4UVCLqkkT7). This will be worth 1 point of your project grade. Each member of your group should submit to the form. Each person in the group should submit the form to get full credit. Thank you!
+Congratulations on finishing your third project in CS10🥳Please spend some time completing this [feedback form](https://forms.gle/xSE1e9pS7BWfvhy7A). This will be worth 1 point of your project grade. Each member of your group should submit to the form. Each person in the group should submit the form to get full credit. Thank you!
 
 ## Grading
 
@@ -203,3 +209,4 @@ See grading breakdown below:
 | no moves left for _ ? | Predicate | 4.67 |
 | Testing | Variable | 3.65 |
 | Feedback Form | N/A | 1 |
+

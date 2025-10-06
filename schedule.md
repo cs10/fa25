@@ -393,7 +393,7 @@
           <a href="https://drive.google.com/drive/folders/1vDV-fA55SkL7dJHZdKUZfdKXdGQAwQQN?usp=sharing">(Slides 11)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577034">(Lecture Quiz 11)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Lab 9. Boards</a></td>
+      <td><a href="https://drive.google.com/file/d/1SwyABpiF4cJ7ye2ks7Bh9qUG0EIvdqJj/view">Lab 9. Boards</a></td>
       <td></td>
       <td><a href="/fa25/projects/"><b>Proj 3: 2048 Released</b></a><br/><b>Due (10/20)</b><br/><b>QUEST 2</b></td> <!-- Assignment / Exam -->  
     </tr>

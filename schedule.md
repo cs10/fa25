@@ -411,7 +411,7 @@
           <a href="https://drive.google.com/drive/folders/12thQx9MxMPzJdXqeCPusd1blSmgJBoMb?usp=sharing">(Slides 12)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577037">(Lecture Quiz 12)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Lab 10. Trees &amp; Fractals</a></td>
+      <td><a href="https://docs.google.com/document/d/1_3KMAI3X7NQjgk9sa915RSrL8hryKjJVkGdhX1Bd6GE/edit?tab=t.0#heading=h.ew4i1encppj2">Lab 10. Trees &amp; Fractals</a></td>
       <td></td>
       <td></td>
     </tr>

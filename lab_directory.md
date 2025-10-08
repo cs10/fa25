@@ -27,7 +27,7 @@ Lab Slides:
 | [Lab 7: Algorithms](https://docs.google.com/document/d/1vBD-hA5BTbiBJIT-TstaM2wMu_bPbGt_XRrwTN-ZBWY/edit?tab=t.0#heading=h.ew4i1encppj2)        | WED 10/1                 |
 | [Lab 8: Testing + Proj 3](/fa25/labs/lab08)                     | FRI 10/3                 |
 | [Lab 9: Boards](https://drive.google.com/file/d/1SwyABpiF4cJ7ye2ks7Bh9qUG0EIvdqJj/view)                               | WED 10/8                 |
-| Lab 10: Trees & Fractals                    | FRI 10/10                |
+| [Lab 10: Trees & Fractals](https://docs.google.com/document/d/1_3KMAI3X7NQjgk9sa915RSrL8hryKjJVkGdhX1Bd6GE/edit?tab=t.0#heading=h.ew4i1encppj2)                    | FRI 10/10                |
 | Lab 11: Recursive Reporters                 | WED 10/15                |
 | Lab 12: Algorithmic Complexity              | FRI 10/17                |
 | Practice Midterm: without Snap              | WED 10/22                |

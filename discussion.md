@@ -87,16 +87,16 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
       <td>Advanced HOFs, Lambdas, Debugging</td>
       <td><a href="https://docs.google.com/document/d/1Q1HLIjJfhrw7qwXO80Jdv8dLkRY1YMn3/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 6</a></td>
       <td>Solutions 6</td>
-      <td>No Recording 6</td>
+<a href="https://berkeley.zoom.us/rec/share/rTMMmYH_a4fhM-bihf_Z1V20x9rsHB7Mt2atXB2aORGkyzPCKQNk-SwTvakSlLFk.rZAoCy8BZDF43chF">Recording 6</a><br/>Passcode: jD3$e23r</td>
       <td><a href="https://docs.google.com/presentation/d/1aHkPxNyFaCoNEIPg3-KM5UptxhI2AsqpRMlKgo_MFWI/edit?usp=sharing">Slides 6</a></td>
     </tr>
     <tr>
       <td>Week 7 Discussion</td>
       <td>Recursion + Fractals</td>
-      <td>Worksheet 7</td>
+      <td><a href="https://docs.google.com/document/d/1olw_dEZpx7Zk0rdj3ecssCu6cldHZ7QX/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 7</a></td>
       <td>Solutions 7</td>
       <td>Recording 7</td>
-      <td>Slides 7</td>
+      <td><a href="https://docs.google.com/presentation/d/1gx_cSQtd5qWckYtz5f01ayL95ZHig0honC5aS-4U-O0/edit?usp=sharing">Slides 7</a></td>
     </tr>
     <tr>
       <td>Week 8 Discussion </td>
@@ -164,6 +164,7 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
     </tr>
   </tbody>
 </table>
+
 
 
 

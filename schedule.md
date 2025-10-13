@@ -456,7 +456,7 @@
           <a href="https://drive.google.com/drive/folders/1qeqivahR8DMR9xzT9hc_UfwOqO6bu4ax?usp=sharing">(Slides 13)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577044">(Lecture Quiz 13)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Lab 11. Recursive Reporters</a></td>
+      <td><a href="https://docs.google.com/document/d/10nYAb3jFIiGgPonkYgwgHSweWEjZs16sUPStrWK7UGw/edit?tab=t.0#heading=h.ew4i1encppj2">Lab 11. Recursive Reporters</a></td>
       <td></td>
       <td></td>
     </tr>

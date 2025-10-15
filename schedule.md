@@ -474,7 +474,7 @@
           <a href="https://drive.google.com/drive/folders/1uviKMrpsrj1_skyztQx-aqgAbwj0QLcN?usp=sharing">(Slides 14)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577028">(Lecture Quiz 14)</a>
       </td>
-      <td><a href="https://docs.google.com/document/d/1w64IS81i779MZT_9ST0IdZuPa0TtjxCphTjOvEOZbJs/edit?tab=t.0#heading=h.ew4i1encppj2">Lab 12. Algorithmic Complexity</a></td>
+      <td><a href="https://docs.google.com/document/d/1SQyE3IKAN4TfEr4untkEsx1mFVF-n6QEfQ_0TBGcp54/edit?tab=t.0#heading=h.ew4i1encppj2">Lab 12. Algorithmic Complexity</a></td>
       <td></td>
       <td></td>
     </tr>

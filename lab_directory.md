@@ -29,7 +29,7 @@ Lab Slides:
 | [Lab 9: Boards](https://drive.google.com/file/d/1SwyABpiF4cJ7ye2ks7Bh9qUG0EIvdqJj/view)                               | WED 10/8                 |
 | [Lab 10: Trees & Fractals](https://docs.google.com/document/d/1_3KMAI3X7NQjgk9sa915RSrL8hryKjJVkGdhX1Bd6GE/edit?tab=t.0#heading=h.ew4i1encppj2)                    | FRI 10/10                |
 | [Lab 11: Recursive Reporters](https://docs.google.com/document/d/10nYAb3jFIiGgPonkYgwgHSweWEjZs16sUPStrWK7UGw/edit?tab=t.0#heading=h.ew4i1encppj2)                 | WED 10/15                |
-| Lab 12: Algorithmic Complexity              | FRI 10/17                |
+| [Lab 12: Algorithmic Complexity](https://docs.google.com/document/d/1w64IS81i779MZT_9ST0IdZuPa0TtjxCphTjOvEOZbJs/edit?tab=t.0#heading=h.ew4i1encppj2)              | FRI 10/17                |
 | Practice Midterm: without Snap              | WED 10/22                |
 | Practice Midterm: with Snap                 | FRI 10/24                |
 | Lab 13: Concurrency                         | WED 10/29                |

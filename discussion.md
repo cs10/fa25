@@ -95,7 +95,7 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
       <td>Recursion + Fractals</td>
       <td><a href="https://docs.google.com/document/d/1olw_dEZpx7Zk0rdj3ecssCu6cldHZ7QX/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 7</a></td>
       <td>Solutions 7</td>
-      <td>Recording 7</td>
+      <td><a href="https://berkeley.zoom.us/rec/share/ls-D13mtIeustZFUxU-Dj0ol2nyJ6xZcU7lyBksuW5kY3-AujV-60CeAY7gpMCuX.2c-JuU4HI1QxHUKe ">Recording 7</a><br/>Passcode: 45r.Wg^8</td>
       <td><a href="https://docs.google.com/presentation/d/1gx_cSQtd5qWckYtz5f01ayL95ZHig0honC5aS-4U-O0/edit?usp=sharing">Slides 7</a></td>
     </tr>
     <tr>
@@ -164,6 +164,7 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
     </tr>
   </tbody>
 </table>
+
 
 
 

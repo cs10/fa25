@@ -50,7 +50,7 @@ nav_order: 6
       <td>Project 4: Tech in Context</td>
       <td>Project 4 Intructions</td>
       <!--<td><a href="https://drive.google.com/drive/folders/1Rr0uR3vTD9ch5qs6IaLWrtEILqh_mCzk?usp=sharing">Example Projects</a></td>--> <td>Example Projects</td>
-      <td>Wednesday, 10/22</td>
+      <td>Monday, 10/20</td>
       <td>Wednesday, 10/29</td>
     </tr>
     <tr>
@@ -90,6 +90,7 @@ nav_order: 6
     </tr>
   </tbody>
 </table> 
+
 
 
 

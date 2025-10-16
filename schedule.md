@@ -520,7 +520,8 @@
       </td>
       <td><a href="/fa25/lab_directory">Practice Midterm (no code)</a></td>
       <td></td>
-      <td><a href="/fa25/projects/"><b>Proj 3 Due</b></a></td>
+      <td><a href="/fa25/projects/"><b>Proj 3 Due</b></a><br/>
+      <a href="/fa25/projects/"><b>Proj 4: Explore Released</b></a><br/><b>Due (10/29)</b></td>
     </tr>
     <tr>
       <th>Tue 10/21</th>
@@ -538,7 +539,7 @@
       </td>
       <td><a href="/fa25/lab_directory">Practice Midterm (fractal)</a></td>
       <td></td>
-      <td><a href="/fa25/projects/"><b>Proj 4: Explore Released</b></a><br/><b>Due (10/29)</b></td> <!-- Assignment / Exam -->  
+      <td></td> <!-- Assignment / Exam -->  
     </tr>
     <tr>
       <th>Thu 10/23</th>

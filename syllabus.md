@@ -159,8 +159,8 @@ Here are the following Project Parties times and dates:
 | Project Parties                               |  Date | Time  |  Room  |
 | :----:                                        |  :----:        |  :----:   |
 | Project 1 Party: Wordle™-lite                       | TBD | TBD  |  TBD  |
-| Project 2 Party: Spelling-Bee                       | TBD | TBD  |  TBD  |
-| Project 3 Party: 2048                               | TBD | TBD  |  TBD  |
+| Project 2 Party: Spelling-Bee                       | THUR 9/28 | 6-8PM  |  Soda 411  |
+| Project 3 Party: 2048                               | MON 10/20 | 5-8PM  |  Soda 380  |
 | Project 5 Party: Final Project                      | WED 12/3 | 3-5PM   |  Barker 101  |
 | Project 5 Party: Final Project                      | WED 12/3 | 8-10PM   |  Soda 438  |
 
@@ -371,6 +371,7 @@ Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/pro
 
 It is very important to the EECS Department that every student in the EECS community feels safe, respected and welcome.  We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
+
 
 
 

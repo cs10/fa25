@@ -87,7 +87,7 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
       <td>Advanced HOFs, Lambdas, Debugging</td>
       <td><a href="https://docs.google.com/document/d/1Q1HLIjJfhrw7qwXO80Jdv8dLkRY1YMn3/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 6</a></td>
       <td>Solutions 6</td>
-<a href="https://berkeley.zoom.us/rec/share/rTMMmYH_a4fhM-bihf_Z1V20x9rsHB7Mt2atXB2aORGkyzPCKQNk-SwTvakSlLFk.rZAoCy8BZDF43chF">Recording 6</a><br/>Passcode: jD3$e23r</td>
+<td><a href="https://berkeley.zoom.us/rec/share/rTMMmYH_a4fhM-bihf_Z1V20x9rsHB7Mt2atXB2aORGkyzPCKQNk-SwTvakSlLFk.rZAoCy8BZDF43chF">Recording 6</a><br/>Passcode: jD3$e23r</td>
       <td><a href="https://docs.google.com/presentation/d/1aHkPxNyFaCoNEIPg3-KM5UptxhI2AsqpRMlKgo_MFWI/edit?usp=sharing">Slides 6</a></td>
     </tr>
     <tr>
@@ -101,10 +101,10 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
     <tr>
       <td>Week 8 Discussion </td>
       <td>Tree Recursion + Algorithmic Complexity</td>
-      <td>Worksheet 8</td>
+      <td><a href="https://docs.google.com/document/d/1CG5KrPYyDkQ2D1GfAawvtVET_qdcdWua/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 8</a></td>
       <td>Solutions 8</td>
       <td>Recording 8</td>
-      <td>Slides 8</td>
+      <td><a href="">Slides 8</a></td>
     </tr>
      <tr>
       <td>Week 9 Discussion</td>
@@ -164,6 +164,7 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
     </tr>
   </tbody>
 </table>
+
 
 
 

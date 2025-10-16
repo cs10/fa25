@@ -487,8 +487,8 @@
     </tr>
     <tr>
       <th>Fri 10/17</th>
-      <td>Talk 8: Quest 3 Preview<br/>
-          (No Recording: Talk 8)</td>
+      <td>Talk 8: Recursion II + Algorithmic Complexity<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 8)</a></td>
       <td></td>
       <td></td>
       <td></td>

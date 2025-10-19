@@ -254,7 +254,6 @@ Project 4 will be graded for coherence and content based on the following rubric
 |   | Documentation addresses at least two questions from “TECHNICAL ELEMENTS” | +1.0 |
 |   | Documentation highlights intended message of Artifact        | +1.0   |
 |   | All references are properly cited and submission follows style guide | +0.5 |
-
 | **Part 2: Presentation (8 pts)** (Partially graded by peers) |                             |            |
 |     | Signs up and is present at the allotted time. Presents for at least six minutes      | +1.0       |
 |     | Explains why you chose this artifact                                                 | +1.0       |
@@ -270,4 +269,5 @@ Project 4 will be graded for coherence and content based on the following rubric
 |                                   | Reflects on a second student’s presentation (3-6 sentences). Comments are insightful and thoughtful  | +1.5       |
 | **Feedback Form (1 pt)**           |                                                         |            |
 |                                   | Complete the feedback form                                   | +1.0       |
+
 

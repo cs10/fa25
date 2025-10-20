@@ -518,7 +518,7 @@
           <a href="">(Slides 15)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577060">(Lecture Quiz 15)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Practice Midterm (no code)</a></td>
+      <td><a href="https://us.prairielearn.com/pl/course_instance/192475/assessments">Practice Midterm (no code)</a></td>
       <td></td>
       <td><a href="/fa25/projects/"><b>Proj 3 Due</b></a><br/>
       <a href="/fa25/projects/"><b>Proj 4: Explore Released</b></a><br/><b>Due (10/29)</b></td>

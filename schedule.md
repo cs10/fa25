@@ -515,20 +515,19 @@
       <th>Mon 10/20</th>
       <td>Lec 15. Guest Lecture: Human–Computer Interaction (HCI)<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 15)</a><br/>
-          <a href="">(Slides 15)</a><br/>
+          <a href="https://drive.google.com/drive/folders/1Aazmz_UAl1aomvsqUFlXdcGC6eKGy2BH?usp=drive_link">(Slides 15)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577060">(Lecture Quiz 15)</a>
       </td>
       <td><a href="https://us.prairielearn.com/pl/course_instance/192475/assessments">Practice Midterm (no code)</a></td>
       <td></td>
-      <td><a href="/fa25/projects/"><b>Proj 3 Due</b></a><br/>
-      <a href="/fa25/projects/"><b>Proj 4: Explore Released</b></a><br/><b>Due (10/29)</b></td>
+      <td><a href="/fa25/projects/"><b>Proj 3 Due</b></a><br/></td>
     </tr>
     <tr>
       <th>Tue 10/21</th>
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td><a href="/fa25/projects/"><b>Proj 4: Explore Released</b></a><br/><b>Due (10/29)</b></td>
     </tr>
     <tr>
       <th>Wed 10/22</th>

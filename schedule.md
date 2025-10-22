@@ -536,7 +536,7 @@
           <a href="https://drive.google.com/drive/folders/1xpzxhmuzQ5NIYwlHOOuw_jCgF4qFgLxA?usp=sharing">(Slides 16)</a><br/>
           <a href="">(Lecture Quiz 16)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Practice Midterm (fractal)</a></td>
+      <td><a href="https://us.prairielearn.com/pl/course_instance/192475/assessments">Practice Midterm (fractal)</a></td>
       <td></td>
       <td></td> <!-- Assignment / Exam -->  
     </tr>

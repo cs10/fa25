@@ -531,9 +531,9 @@
     </tr>
     <tr>
       <th>Wed 10/22</th>
-      <td>Lec 16. Guest Lecture<br/>
+      <td>Lec 16. HCI (Tim Aveni) <br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 16)</a><br/>
-          <a href="">(Slides 16)</a><br/>
+          <a href="https://drive.google.com/drive/folders/1xpzxhmuzQ5NIYwlHOOuw_jCgF4qFgLxA?usp=sharing">(Slides 16)</a><br/>
           <a href="">(Lecture Quiz 16)</a>
       </td>
       <td><a href="/fa25/lab_directory">Practice Midterm (fractal)</a></td>

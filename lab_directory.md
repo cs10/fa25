@@ -31,7 +31,7 @@ Lab Slides:
 | [Lab 11: Recursive Reporters](https://docs.google.com/document/d/10nYAb3jFIiGgPonkYgwgHSweWEjZs16sUPStrWK7UGw/edit?tab=t.0#heading=h.ew4i1encppj2)                 | WED 10/15                |
 | [Lab 12: Algorithmic Complexity](https://docs.google.com/document/d/1SQyE3IKAN4TfEr4untkEsx1mFVF-n6QEfQ_0TBGcp54/edit?tab=t.0#heading=h.ew4i1encppj2)              | FRI 10/17                |
 | [Practice Midterm: without Snap](https://us.prairielearn.com/pl/course_instance/192475/assessments)              | WED 10/22                |
-| Practice Midterm: with Snap                 | FRI 10/24                |
+| [Practice Midterm: with Snap](https://us.prairielearn.com/pl/course_instance/192475/assessments)                 | FRI 10/24                |
 | Lab 13: Concurrency                         | WED 10/29                |
 | Lab 14: OOP in Snap!                        | FRI 10/31                |
 | Lab 15: Welcome to Python                   | WED 11/5                 |

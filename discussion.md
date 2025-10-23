@@ -94,7 +94,7 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
       <td>Week 7 Discussion</td>
       <td>Recursion + Fractals</td>
       <td><a href="https://docs.google.com/document/d/1olw_dEZpx7Zk0rdj3ecssCu6cldHZ7QX/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 7</a></td>
-      <td>Solutions 7</td>
+      <td><a href="https://docs.google.com/document/d/1gOW45G4wMxbp2zkmj2_Foh0Gp30yx3Be/edit?usp=drive_link&ouid=106220240438634734707&rtpof=true&sd=true">Solutions 7</a></td>
       <td><a href="https://berkeley.zoom.us/rec/share/ls-D13mtIeustZFUxU-Dj0ol2nyJ6xZcU7lyBksuW5kY3-AujV-60CeAY7gpMCuX.2c-JuU4HI1QxHUKe ">Recording 7</a><br/>Passcode: 45r.Wg^8</td>
       <td><a href="https://docs.google.com/presentation/d/1gx_cSQtd5qWckYtz5f01ayL95ZHig0honC5aS-4U-O0/edit?usp=sharing">Slides 7</a></td>
     </tr>
@@ -102,17 +102,17 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
       <td>Week 8 Discussion </td>
       <td>Tree Recursion + Algorithmic Complexity</td>
       <td><a href="https://docs.google.com/document/d/1CG5KrPYyDkQ2D1GfAawvtVET_qdcdWua/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 8</a></td>
-      <td>Solutions 8</td>
-      <td>Recording 8</td>
-      <td><a href="">Slides 8</a></td>
+      <td><a href="https://docs.google.com/document/d/1eQ_0tQxJoAHclPBUWm0G80nzq5S77WLC/edit?usp=drive_link&ouid=106220240438634734707&rtpof=true&sd=true">Solutions 8</a></td>
+      <td><a href="https://berkeley.zoom.us/rec/share/OD9Js-0Jx_Oekklnpd6hvI04aGTkxsOYYLxa2_dEwve0SSQegMJtL_SouWTZU8Qi.rfPmomuYKJAFWRtO">Recording 8</a><br/> Passcode: sr9^@.&J</td>
+      <td><a href="https://docs.google.com/presentation/d/1QBWmiEgkTjYs4FYSTem9TyBdVbSEemHRP-2kkpqW5XM/edit?usp=drive_link">Slides 8</a></td>
     </tr>
      <tr>
       <td>Week 9 Discussion</td>
       <td>Midterm Practice</td>
-      <td>Worksheet 9</td>
+      <td><a href="https://docs.google.com/document/d/1qhat5qe6V2-tJDZSsBauko7dUDBf5Xq2/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 9</a></td>
       <td>Solutions 9</td>
       <td>Recording 9</td>
-      <td>Slides 9</td>
+      <td><a href="https://docs.google.com/presentation/d/1OqHIbmfDUIPzV0G1dm-HN_KFWVrjEZfEy6H_KC1R8X8/edit?usp=sharing">Slides 9</a></td>
     </tr>
     <tr>
     <td>Week 10 Discussion</td>
@@ -164,6 +164,7 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
     </tr>
   </tbody>
 </table>
+
 
 
 

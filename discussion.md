@@ -110,8 +110,8 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
       <td>Week 9 Discussion</td>
       <td>Midterm Practice</td>
       <td><a href="https://docs.google.com/document/d/1qhat5qe6V2-tJDZSsBauko7dUDBf5Xq2/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 9</a></td>
-      <td>Solutions 9</td>
-      <td>Recording 9</td>
+      <td><a href="https://docs.google.com/document/d/1IFVnCUl4sKgLShGsbh6VfcWzDQUmuHoP/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Solutions 9</a></td>
+      <td><a href="https://berkeley.zoom.us/rec/share/xDtcZF9v4oH335tWNRINj-Rx0-3QSnQG51eyn2g7XM-UvhYC6zENQTQTaadnwHTa.eNBkNG7jJ3h12glC">Recording 9</a><br/>Passcode: 0dA*a.Pt</td>
       <td><a href="https://docs.google.com/presentation/d/1OqHIbmfDUIPzV0G1dm-HN_KFWVrjEZfEy6H_KC1R8X8/edit?usp=sharing">Slides 9</a></td>
     </tr>
     <tr>
@@ -164,6 +164,7 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
     </tr>
   </tbody>
 </table>
+
 
 
 

@@ -32,7 +32,7 @@ Lab Slides:
 | [Lab 12: Algorithmic Complexity](https://docs.google.com/document/d/1SQyE3IKAN4TfEr4untkEsx1mFVF-n6QEfQ_0TBGcp54/edit?tab=t.0#heading=h.ew4i1encppj2)              | FRI 10/17                |
 | [Practice Midterm: without Snap](https://us.prairielearn.com/pl/course_instance/192475/assessments)              | WED 10/22                |
 | [Practice Midterm: with Snap](https://us.prairielearn.com/pl/course_instance/192475/assessments)                 | FRI 10/24                |
-| Lab 13: Concurrency                         | WED 10/29                |
+| [Lab 13: Concurrency (conceptual only)](https://www.gradescope.com/courses/1098053/assignments/6577056/review_grades)                         | WED 10/29                |
 | Lab 14: OOP in Snap!                        | FRI 10/31                |
 | Lab 15: Welcome to Python                   | WED 11/5                 |
 | Lab 16: Lists and Mutability                | FRI 11/7                 |

@@ -580,7 +580,7 @@
           <a href="">(Slides 15)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577059">(Lecture Quiz 15)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Lab 13. Concurrency</a></td>
+      <td><a href="https://www.gradescope.com/courses/1098053/assignments/6577056/review_grades">Lab 13. Concurrency<br/>(Conceptual only)</a></td>
       <td></td>
       <td></td>
     </tr>

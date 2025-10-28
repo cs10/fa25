@@ -577,7 +577,7 @@
       <th>Mon 10/27</th>
       <td>Lec 15. Concurrency<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 15)</a><br/>
-          <a href="">(Slides 15)</a><br/>
+          <a href="https://drive.google.com/drive/u/0/folders/16iHvLf9PCE63J3XivvdS4s3D13_JXGlZ">(Slides 15)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577059">(Lecture Quiz 15)</a>
       </td>
       <td><a href="https://www.gradescope.com/courses/1098053/assignments/6577056/review_grades">Lab 13. Concurrency<br/>(Conceptual only)</a></td>

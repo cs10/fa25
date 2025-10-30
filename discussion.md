@@ -117,7 +117,7 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
     <tr>
     <td>Week 10 Discussion</td>
       <td>Project 4 Presentations</td>
-      <td>No Worksheet</td>
+      <td><a href="https://docs.google.com/document/d/1SHMKGwKYmTjeZ_Z-6Uo-VHEN0l2B4NxVk-oNSF7KQ6A/edit?usp=sharing">Instructions</a></td>
       <td>No Solutions</td>
       <td>No Recording</td>
       <td>No Slides</td>
@@ -164,6 +164,7 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
     </tr>
   </tbody>
 </table>
+
 
 
 

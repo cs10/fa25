@@ -1,6 +1,6 @@
 ---
 name: HyungJoon Lee
-role: Teaching Assistant / Academic Intern
+role: Academic Intern
 photo: HyungJoon_Lee.png
 pronouns: he/him
 ---

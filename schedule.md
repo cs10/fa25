@@ -598,7 +598,7 @@
           <a href="">(Slides 16)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577079">(Lecture Quiz 16)</a>
       </td>
-      <td><a href="https://docs.google.com/document/d/1jjhzw54JnIV11akPemcqUDQIMejNjoHbN_LG4P3VoCw/edit?tab=t.0#heading=h.opqtlp9ffvz4">Lab 14. OOP in Snap!</a></td>
+      <td><a href="/fa25/labs/lab14">Lab 14. OOP in Snap!</a></td>
       <td></td>
       <td><a href="/fa25/projects/"><b>Proj 4 Due</b></a></td>
     </tr>

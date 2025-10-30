@@ -33,7 +33,7 @@ Lab Slides:
 | [Practice Midterm: without Snap](https://us.prairielearn.com/pl/course_instance/192475/assessments)              | WED 10/22                |
 | [Practice Midterm: with Snap](https://us.prairielearn.com/pl/course_instance/192475/assessments)                 | FRI 10/24                |
 | [Lab 13: Concurrency (conceptual only)](https://www.gradescope.com/courses/1098053/assignments/6577056/review_grades)                         | WED 10/29                |
-| [Lab 14: OOP in Snap!](/fa25/labs/lab06)                        | FRI 10/31                |
+| [Lab 14: OOP in Snap!](/fa25/labs/lab14)                        | FRI 10/31                |
 | Lab 15: Welcome to Python                   | WED 11/5                 |
 | Lab 16: Lists and Mutability                | FRI 11/7                 |
 | Lab 17: Data Structures in Python           | WED 11/12                |

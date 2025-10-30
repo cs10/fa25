@@ -49,10 +49,10 @@ Create clones of your sprite to shoot balloons at targets. Each clone should be 
 **Helpful Tips**
 - You may find it helps to have a kind of check on how many clones you're creating and only create more if your sprite has less than a certain number. It's very easy to make a thousand clones in 1 second!
 - You find the following to blocks helpful to get a list of your clones, or ask what the x, y positions are of the clones:
-  - ![clone helper blocks]({{ site.baseurl }}/assets/images/lab_images/lab14_clone_blocks_1.png)
-  - ![clone helper blocks 2]({{ site.baseurl }}/assets/images/lab_images/lab14_clone_blocks_2.png)
+  - ![clone helper blocks]({{ site.baseurl }}/assets/images/lab_images/lab14_1.png)
+  - ![clone helper blocks 2]({{ site.baseurl }}/assets/images/lab_images/lab14_2.png)
 - Here's an example:
-  - ![clone example]({{ site.baseurl }}/assets/images/lab_images/lab14_clone_example.png)
+  - ![clone example]({{ site.baseurl }}/assets/images/lab_images/lab14_3.png)
 
 **Fun Tip**  
 You can make your clones "laugh" or say funny things like "Take that!" every time they shoot a balloon! You can also delete clones if you have to many or if they reach their "target"

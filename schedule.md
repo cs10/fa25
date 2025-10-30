@@ -595,7 +595,7 @@
       <th>Wed 10/29</th>
       <td>Lec 16. OOP in Snap!<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 16)</a><br/>
-          <a href="">(Slides 16)</a><br/>
+          <a href="https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=Fall%202025%20OOP%20fun%20in%20class">(Demo 16 - No Slides)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577079">(Lecture Quiz 16)</a>
       </td>
       <td><a href="/fa25/labs/lab14">Lab 14. OOP in Snap!</a></td>

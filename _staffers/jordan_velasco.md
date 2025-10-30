@@ -4,4 +4,4 @@ role: Academic Intern
 photo: jordan_velasco.jpg
 pronouns: he/him
 ---
-(About to come)
+(Jordan's introduction is being updated)

@@ -1,6 +1,6 @@
 ---
 name: Matthew Qi
-role: Intern
+role: Academic Intern
 photo: Matthew_Qi.png
 pronouns: He/Him
 ---

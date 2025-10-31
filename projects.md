@@ -63,7 +63,7 @@ nav_order: 6
     <tr>
       <td>Project 4: Feedback + Comments</td>
       <td>Project 4 Intructions</td>
-      <td>Example Feedback + Comments</td>
+      <td><a href="https://edstem.org/us/courses/83126/discussion/7236195?comment=16833339">Example Feedback + Comments</a></td>
       <td>-</td>
       <td>Friday, 11/7</td>
     </tr>
@@ -90,6 +90,7 @@ nav_order: 6
     </tr>
   </tbody>
 </table> 
+
 
 
 

@@ -7,7 +7,7 @@ submission_files:
     - N/A
 ---
 
-*Version 1.0. Last Updated: 2025-10-19.*
+*Version 1.0. Last Updated: 2025-10-31.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
@@ -17,7 +17,8 @@ submission_files:
     - Information on Mmake-up presentations is provided below. 
 
 - [Comments + Peer Feedback](https://www.gradescope.com/courses/1098053/assignments/6577075) Due: **Friday, 11/7 at 11:59 PM PT** on Gradescope
-
+    - Be sure to upload the comments to [Ed Discussion, linked here](https://edstem.org/us/courses/83126/discussion/7236195)
+      
 > Any important updates or clarifications will be made here.
 
 ## Content
@@ -162,9 +163,9 @@ The small group setting is intended to create a supportive environment where you
 
 Presentations will be largely student led with AI/Tutor/TA supervision. You will be graded for your engagement and active participation. 
 
-You will sign-up for a time and group (rec: 4-5) that best works for you. Sign ups are filled on a first-come first-serve basis. 
+You will sign-up for a time and group (rec: 3-4) that best works for you. Sign ups are filled on a first-come first-serve basis. 
 
-If you can not attend the allotted Discussion Time for any reason. You will have time in Makeup Office Hours to regain your points. Please, note we are only offering specific, limited times, and we will release more information later. Sign Ups will be released in the future. 
+If you can not attend the allotted Discussion Time for any reason. You will have time in Makeup Office Hours to regain your points. Please, note we are only offering specific, limited times, and we will release more information later. Sign Ups sheet is linked below
 
 
 
@@ -209,8 +210,9 @@ Conclude the Q&A with a brief summary of your project’s key points or takeaway
 
 ## Part 3: Peer Reflection/Comments
 
-You will be writing comments for two members of your group. These comments will be posted in [EdStem Thread](). To submit, you will need to take screenshots of your comments from EdStem, and upload the screenshots to Gradescope.
+You will be writing comments for two members of your group. These comments will be posted in [EdStem Thread](https://edstem.org/us/courses/83126/discussion/7236195). To submit, you will need to take screenshots of your comments from EdStem, and upload the screenshots to Gradescope.
 
+### Comments
 - Guidelines & Submission
     - Reflect on 2 of your classmates’ essays on Gradescope (Due: 11/7) .
         - Your response should be a short reflection based on two presentations you participated in. 
@@ -219,12 +221,19 @@ You will be writing comments for two members of your group. These comments will 
         - The expected length of each response is around 3-6 sentences.
     - The 2 students you should respond to are: any two students in your group (you pick)
     - Your feedback will not be shared with the students and will be used for the purpose of evaluating your peers and your own work
+
+### Peer Feeback Slips
+- The peer feedback slips should be filled out during the presentations.
+- You will need to collect the feedback from your peers of your presentation
+- You will upload a photo of the feedback to Gradescope
  
 
 ### Make-up Presentations + Logistics
 - We will offer make-up presentations during the following times, but you must sign up using the Google Sheet link above:
+    - Ethan's office hours from 5 to 6PM on Monday, 11/3
     - Marius's office hours from 2 to 3PM on Tuesday, 11/4
     - Marius's office hours from 2 to 3PM on Thursday, 11/6
+    - Victoria's office hours from 1 to 2PM on Thursday, 11/6
     - Aanvi's office hours from 12 to 1PM on Friday, 11/7
     - Bella's office hours from 2 to 3PM on Friday, 11/7
     - Bella's office hours from 3 to 4PM on Friday, 11/7
@@ -265,9 +274,11 @@ Project 4 will be graded for coherence and content based on the following rubric
 |     | Provides thoughtful answers to at least 2 peer questions                             | +0.5       |
 |     | Asks a question (as an audience member) to each presenter in the group               | +1.0       |
 | **Part 3: Peer Reflection / Comments (3 pts)** |                                                         |            |
-|                                   | Reflects on a student’s presentation (3-6 sentences). Comments are insightful and thoughtful         | +1.5       |
-|                                   | Reflects on a second student’s presentation (3-6 sentences). Comments are insightful and thoughtful  | +1.5       |
+|                                   | Reflects on a student’s presentation (3-6 sentences). Comments are insightful and thoughtful         | +1.0       |
+|                                   | Reflects on a second student’s presentation (3-6 sentences). Comments are insightful and thoughtful  | +1.0 
+|                                   | Peer Feedback Slips from Presentation  | +1.0     |
 | **Feedback Form (1 pt)**           |                                                         |            |
 |                                   | Complete the feedback form                                   | +1.0       |
+
 
 

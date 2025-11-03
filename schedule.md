@@ -643,7 +643,7 @@
           <a href="">(Slides 17)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577083">(Lecture Quiz 17)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Lab 15. Welcome to Python</a></td>
+      <td><a href="/fa25/labs/lab15">Lab 15. Welcome to Python</a></td>
       <td></td>
       <td></td>
     </tr>

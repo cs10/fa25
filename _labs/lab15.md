@@ -16,7 +16,8 @@ This worksheet serves as a guide and set of instructions to complete the lab.
 - All material was sourced from the CS10 version of The Beauty and Joy of Computing course.
 
 ## Notes
-As we begin working with Python, it's totally normal to have questions about getting your code up and running. We know it can take some time to get comfortable, and you might get stuck or need help. Before asking a logistical question, PLEASE check the workbook first. It includes step-by-step instructions on using the terminal, opening a shell, running Python, and defining functions. You can also find guidance [here](https://docs.google.com/document/d/14xz0EMdIDLtjIYJAxSeM01bd7GhqZfWfKioDhGM04_c/edit?tab=t.0) for setting up Python on your computer.
+As we begin working with Python, it's totally normal to have questions about getting your code up and running. We know it can take some time to get comfortable, and you might get stuck or need help. Before asking a logistical question, PLEASE check the workbook first. It includes step-by-step instructions on using the terminal, opening a shell, running Python, and defining functions. You can find guidance in the link below for setting up Python on your computer.
+- [How to set up Python3 & Text Editor](https://docs.google.com/document/d/14xz0EMdIDLtjIYJAxSeM01bd7GhqZfWfKioDhGM04_c/edit?tab=t.0) 
 
 ## Submitting
 You will need to complete Exercises 1-4 and submit the file to Gradescope.

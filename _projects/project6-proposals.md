@@ -1,7 +1,7 @@
 ---
 title: Project 5
 description: Final Project Proposals
-due: "11:59 PM PST on Monday, 4/7"
+due: "11:59 PM PST on Monday, 11/10"
 gradescope_assignment_id: 5617918
 submission_files:
     - N/A
@@ -12,10 +12,11 @@ submission_files:
 *We highly recommend reading through this spec in its entirety before you begin.*
 
 - Meeting with a Staff Member
+    - Before meeting with a staff member, you must submit your proposal.
     - You must sign-up for a 10-minute slot with a staff member to get your project approved. Only one member of your group needs to attend. Failure to be one time will mean you will need to sign-up for a new time slot; otherwise, you will get a '0' score. 
-        - Click here for the [link to sign up](https://calendar.google.com/calendar/u/0/appointments/AcZssZ2gYOJsSLRS97v-zbASRViZIUo_fKvMB9qPQEQ=)
-    - Meetings will run a specific times during Week 12 (April 8th through April 11th)
-    - As of 4/2, there are only a limited number of spots, but we will add more.
+        - Click here for the [link to sign up](https://calendar.app.google/WX8udamw8kJxfDkZ9)
+    - Meetings will run at specific times during Week 12 (November 10th through November 14th)
+    - As of 11/3, there are only a limited number of spots, but we will add more.
 
 ## Content
 
@@ -35,11 +36,11 @@ submission_files:
 
 ## Important logistics
 
-- The Project Proposal Meeting is worth 10 points of your final grade. 10 minute Meetings will be held in person Mon-Fri during Week 11 in Soda 326. To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](https://calendar.google.com/calendar/u/0/appointments/AcZssZ2gYOJsSLRS97v-zbASRViZIUo_fKvMB9qPQEQ=).
+- The Project Proposal Meeting is worth 10 points of your final grade. 10 minute Meetings will be held in person Mon-Fri during Week 12 in Soda 341B or online (will be specified in sign-up). To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](https://calendar.app.google/WX8udamw8kJxfDkZ9).
 - You must work in groups of 2. Groups of 3 are sometimes permitted with approval from a TA, and we increase their project-complexity requirements accordingly. If you want to work alone you must get explicit permission from your lab TA. You will still be graded as if you were in a group of 2.   
-- The deadline for this proposal part of the project is Wednesday, 10/30 at 11:59pm PST. Please ensure that you submit your proposal before the deadline. There will be NO extensions available for the proposal and it is your responsibility to reach out on EdStem if your group can not make any of the meeting times. 
+- The deadline for this proposal part of the project is Monday, 11/10 at 11:59pm PST. Please ensure that you submit your proposal before the deadline and before your meeting. There will be NO extensions available for the proposal and it is your responsibility to reach out on EdStem if your group can not make any of the meeting times. 
 - Please sign up for a time slot to meet up with a staff member for a proposal review before you submit the assignment on gradescope. You should sign up for an appointment on Google Calendar. You can choose whichever time works best for your group. Meetings will take place in-person, during designated lab times.  
-- If none of the times work for you, please make a private post on Ed ASAP. If you do not notify us by 10/30, you will not be able to meet with a staff member and will receive a 0 on this part of the project.
+- If none of the times work for you, please make a private post on Ed ASAP. If you do not notify us by 11/10, you will not be able to meet with a staff member and will receive a 0 on this part of the project.
 
 ## Introduction
 
@@ -90,7 +91,7 @@ There are certain technical and style requirements that we want you to be able t
 
 - Non-trivial list: Your project should include at least one non-trivial list, meaning a list whose function could not be simply replaced with another implementation. Often this can be a tracker of high scores, or part of a game board.
 - Custom block/function: Your project should include at least TWO functions that you define yourself. There is no restriction on what type of function this should be, whatever suits your project is what you should do!
-- Script/local variable: Your project should include at least one non-global variable. 
+- Script/local variable: Your project should include at least one <em>non-global</em> variable. 
 
 ## Required Features
 
@@ -107,8 +108,9 @@ On top of the technical requirement your project must have required features. He
     - Must include:
         - A visual print statement of current state of program
         - A list of functions the user can (such as help, place move, restart, etc.)
-- Extensive use of OOP in Python 
+- Extensive use of OOP in Python (not Snap!)
     - The main logic of the name would use an OOP structure
+    - Most likely, all final projects completed in Snap! will need to use extensive OOP in Snap!, so we are not counting OOP in Snap! as a feature.
 - API calls (calls to other programs or websites) - Don’t worry about doing this one; but it’s an option if you’re interested!
 - Structures keeping track of important data
     - Examples: Dictionaries, Lists, Trees, Sets
@@ -145,11 +147,11 @@ Here is an [example proposal](https://docs.google.com/document/d/1gy4L6KfyPLT01X
 
 ## Submission Guidelines
 
-By Sunday, October 28th 11:59pm PST deadline, you and your partner(s) will submit your project proposal as a group on Gradescope. There is 1 assignment, and you should mention the date and time of the slot you signed up for in Question 2 of the assignment.
+By Monday, November 10th 11:59pm PST deadline, you and your partner(s) will submit your project proposal as a group on Gradescope. There is 1 assignment, and you should mention the date and time of the slot you signed up for in Question 2 of the assignment.
 
 The assignment has the proposal format in it, so your group will need to fill out all of the boxes with your answers to the questions listed in the previous section! Only one person from the group needs to submit. After you submit, please don’t forget to add your partner(s) to the submissions!
 
-![How to add partner to Gradescope](/fa24/assets/images/p6/p6-1.png)
+![How to add partner to Gradescope](/fa25/assets/images/p6/p6-1.png)
 
 Your project proposal review will take place during the time slot your group signs up for. These slots are during the lab. You need to ensure that you can show up for the time slot you signed up for. 
 
@@ -169,4 +171,5 @@ If your initial project proposal is approved:
 - Congrats! You can start working on your project. Note any questions (for resources, clarifications, or suggestions/advice on implementation) that you might have for your project TA/tutor, and bring them up during your proposal review session!
 
 As you begin to code, you may feel the need to make adjustments to your project and features (often because of time constraints or unexpected complexity). This is perfectly okay! You don’t have to run the changes by your project TA/tutor to start implementing them, but we do recommend that you check in with any adjustments to ensure that you are still within complexity guidelines.
+
 

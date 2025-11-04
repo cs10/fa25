@@ -69,20 +69,20 @@ nav_order: 6
     </tr>
     <tr>
       <td>Project 5: Proposals</td>
-      <td>Project 5 Proposal Intructions</td>
+      <td><a href="/fa25/projects/project6-proposals">Project 5 Proposal Intructions</a></td>
       <td>Example Projects Proposals</td>
-      <td>Friday, 10/31</td>
-      <td>Friday, 11/07</td>
+      <td>Friday, 11/3</td>
+      <td>Friday, 11/10</td>
     </tr>
     <tr>
       <td>Project 5: Proposal Meetings</td>
-      <td>Project 5 Proposal Intructions</td>
-      <td>-</td>
+      <td><a href="/fa25/projects/project6-proposals">Project 5 Proposal Intructions</a></td>
+      <td><a href="https://calendar.google.com/calendar/u/0/appointments/AcZssZ16qdWw-qlMNKLLF79jCXT8I92ENGoAeP3Jm0s=">Proposal Meeting Sign-up Link</a></td>
       <td>Monday, 11/10</td>
       <td>Friday, 11/14</td>
     </tr>
     <tr>
-      <td>Project 5: Final Project</td>
+      <td><a href="/fa25/projects/project6-project">Project 5: Final Project</a></td>
       <td>Project 5 Intructions</td>
       <td>-</td>
       <td>Monday, 11/10 (earliest)<br/>Only start once your project has been approved</td>
@@ -90,6 +90,7 @@ nav_order: 6
     </tr>
   </tbody>
 </table> 
+
 
 
 

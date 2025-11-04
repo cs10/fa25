@@ -142,7 +142,7 @@ So now that you’ve got a project idea in mind, it’s time to write about it! 
 - How will someone interact with your project? Describe the controls that will be used. For Projects 1-2, the answer to this question would be text input via keyboard. For Project 3, the answer would be keyboard controls/arrow keys. 
 - What are the technical elements behind your features? Go into more detail about your preliminary thoughts about how you’ll make the 2-3 features happen. What you come up with here doesn’t have to be exactly what you end up doing, but it should convey how you plan on implementing the project in terms of blocks/functions or computing ideas. For example, Pytris utilizes object-oriented programming to build and abstract different elements of the game.
 
-Here is an [example proposal](https://docs.google.com/document/d/1gy4L6KfyPLT01Xt7acnBNbHwCyI1QR9uXGyin9UWFXc/edit?usp=sharing); it should give a sense of how much detail we want you to go into on the proposal. Feel free to make a copy. 
+Here is an [example proposal](https://docs.google.com/document/d/1IBLwmPiIa9qJ3p1Jvg6o23CnJNGfK0Jr0xQbZg9nMNM/edit?usp=sharing); it should give a sense of how much detail we want you to go into on the proposal. Feel free to make a copy. 
 
 
 ## Submission Guidelines
@@ -171,6 +171,7 @@ If your initial project proposal is approved:
 - Congrats! You can start working on your project. Note any questions (for resources, clarifications, or suggestions/advice on implementation) that you might have for your project TA/tutor, and bring them up during your proposal review session!
 
 As you begin to code, you may feel the need to make adjustments to your project and features (often because of time constraints or unexpected complexity). This is perfectly okay! You don’t have to run the changes by your project TA/tutor to start implementing them, but we do recommend that you check in with any adjustments to ensure that you are still within complexity guidelines.
+
 
 
 

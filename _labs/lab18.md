@@ -1,7 +1,7 @@
 ---
 title: "Lab 18"
 description: "Text Processing"
-due: "TBD"
+due: "Friday 11/14"
 gradescope_assignment_id:
 submission_files:
 ---

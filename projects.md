@@ -56,7 +56,7 @@ nav_order: 6
     <tr>
       <td>Project 4: Presentations</td>
       <td>Project 4 Intructions</td>
-      <td>-</td>
+      <td><a href="https://docs.google.com/document/d/1SHMKGwKYmTjeZ_Z-6Uo-VHEN0l2B4NxVk-oNSF7KQ6A/edit?usp=sharing">Presenting Instructions</a></td>
       <td>-</td>
       <td>Thursday, 10/30</td>
     </tr>
@@ -90,6 +90,7 @@ nav_order: 6
     </tr>
   </tbody>
 </table> 
+
 
 
 

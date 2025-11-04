@@ -70,7 +70,7 @@ nav_order: 6
     <tr>
       <td>Project 5: Proposals</td>
       <td><a href="/fa25/projects/project6-proposals">Project 5 Proposal Intructions</a></td>
-      <td>Example Projects Proposals</td>
+      <td><a href="https://docs.google.com/document/d/1IBLwmPiIa9qJ3p1Jvg6o23CnJNGfK0Jr0xQbZg9nMNM/edit?usp=sharing">Example Projects Proposals</a></td>
       <td>Friday, 11/3</td>
       <td>Friday, 11/10</td>
     </tr>
@@ -90,6 +90,7 @@ nav_order: 6
     </tr>
   </tbody>
 </table> 
+
 
 
 

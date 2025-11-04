@@ -2,12 +2,12 @@
 title: Project 5
 description: Final Project Proposals
 due: "11:59 PM PST on Monday, 11/10"
-gradescope_assignment_id: 5617918
+gradescope_assignment_id: 6577061
 submission_files:
     - N/A
 ---
 
-*Version 1.1. Last Updated: 2025-04-02.*
+*Version 1.1. Last Updated: 2025-11-03.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
@@ -171,5 +171,6 @@ If your initial project proposal is approved:
 - Congrats! You can start working on your project. Note any questions (for resources, clarifications, or suggestions/advice on implementation) that you might have for your project TA/tutor, and bring them up during your proposal review session!
 
 As you begin to code, you may feel the need to make adjustments to your project and features (often because of time constraints or unexpected complexity). This is perfectly okay! You don’t have to run the changes by your project TA/tutor to start implementing them, but we do recommend that you check in with any adjustments to ensure that you are still within complexity guidelines.
+
 
 

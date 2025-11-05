@@ -640,7 +640,7 @@
       <th>Mon 11/03</th>
       <td>Lec 17. Python I – Intro<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 17)</a><br/>
-          <a href="">(Slides 17)</a><br/>
+          <a href="https://drive.google.com/drive/u/0/folders/1-Odp1zmmdr5ImbHw6k2LqtE6rOFO3fWm">(Slides 17)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577083">(Lecture Quiz 17)</a>
       </td>
       <td><a href="/fa25/labs/lab15">Lab 15. Welcome to Python</a></td>
@@ -658,7 +658,7 @@
       <th>Wed 11/05</th>
       <td>Lec 18. Python II – Data Structures<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 18)</a><br/>
-          <a href="">(Slides 18)</a><br/>
+          <a href="https://drive.google.com/drive/u/0/folders/1cymjfiH3Ldrn99hCC74Wj7ctxF9TPXz5">(Slides 18)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577048">(Lecture Quiz 18)</a></td>
       <td><a href="/fa25/labs/lab16">Lab 16. Lists and Mutability</a></td>
       <td></td>

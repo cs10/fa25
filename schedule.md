@@ -660,7 +660,7 @@
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 18)</a><br/>
           <a href="">(Slides 18)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577048">(Lecture Quiz 18)</a></td>
-      <td><a href="/fa25/lab_directory">Lab 16. Lists and Mutability</a></td>
+      <td><a href="/fa25/labs/lab16">Lab 16. Lists and Mutability</a></td>
       <td></td>
       <td></td>
     </tr>

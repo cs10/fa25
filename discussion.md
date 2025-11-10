@@ -125,10 +125,10 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
     <tr>
     <td>Week 11 Discussion</td>
       <td>Welcome to Python</td>
-     <td>Worksheet 11</td>
+      <td><a href="https://docs.google.com/document/d/1rlAfAxi6KTHHo57dnonNWXRUSYZvYbe6/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 11</a></td>
       <td>Solutions 11</td>
-      <td>Recording 11</td>
-      <td>Slides 11</td>
+      <td><a href="https://berkeley.zoom.us/rec/share/oIh72scODG8sgCSdNpfC5IobABCUgT3r08KF_uaqyJu6HTelp0zgZVYrcsQ27m21.ojQDqM4f6L-DXWAN">Recording 11</a><br/>Passcode: ?8diSqd#</td>
+      <td><a href="https://docs.google.com/presentation/d/1FaNdfWhNRESUjzalhijpJISU9R4prtvZOVF89jgE1XE/edit?usp=drive_link">Slides 11</a></td>
     </tr>
     <tr>
     <td>Week 12 Discussion</td>
@@ -164,6 +164,7 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
     </tr>
   </tbody>
 </table>
+
 
 
 

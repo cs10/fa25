@@ -707,7 +707,7 @@
           <a href="">(Slides 19)</a><br/>
           <a href="">(Lecture Quiz 19)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Lab 17. Data Structures in Python</a></td>
+      <td><a href="/fa25/labs/lab17">Lab 17. Data Structures in Python</a></td>
       <td></td>
       <td><a href="/fa25/projects/">Final Project Meetings</a></td>
     </tr>

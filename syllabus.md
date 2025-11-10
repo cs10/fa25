@@ -51,7 +51,7 @@ This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) s
     -  Lab iClicker:
           - [Nahee's Section: 3 to 5PM in Barker 101](https://join.iclicker.com/LLFC)
           - [Marius's Section: 8 to 10PM in Soda 438](https://join.iclicker.com/WXYE)
-* **PrairieLearn**: This is the platform you will use to take exams (Quest, Midterm, and Postterm). We will manually add you the site later in the semester. <!--Here is the link to [PrairieLearn](https://us.prairielearn.com/pl/course_instance/192475). You will need to manually be added to the PrairieLearn. If you are not, please post a message on EdStem.-->
+* **PrairieLearn**: This is the platform you will use to take exams (Quest, Midterm, and Postterm). We will manually add you the site later in the semester. -Here is the link to [PrairieLearn](https://us.prairielearn.com/pl/course_instance/192475). You will need to manually be added to the PrairieLearn. If you are not, please post a message on EdStem.
 * **Snap!**: The programming language we will be using for more than half the semester. The website can be found here: [Snap!](https://snap.berkeley.edu/)
 * **Gradeview**: This is the website where you will be able to access your current grades in the class. You will need to sign-in using your UC Berkeley credentials on the [Gradeview](https://gradeview.eecs.berkeley.edu/login) website.
 
@@ -371,6 +371,7 @@ Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/pro
 
 It is very important to the EECS Department that every student in the EECS community feels safe, respected and welcome.  We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
+
 
 
 

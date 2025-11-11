@@ -575,7 +575,7 @@
     <tr>
       <td class="schedule-week-num" rowspan=5>Week 10</td>
       <th>Mon 10/27</th>
-      <td>Lec 15. Concurrency<br/>
+      <td>Lec 17. Concurrency<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 15)</a><br/>
           <a href="https://drive.google.com/drive/u/0/folders/16iHvLf9PCE63J3XivvdS4s3D13_JXGlZ">(Slides 15)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577059">(Lecture Quiz 15)</a>
@@ -593,7 +593,7 @@
     </tr>
     <tr>
       <th>Wed 10/29</th>
-      <td>Lec 16. OOP in Snap!<br/>
+      <td>Lec 18. OOP in Snap!<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 16)</a><br/>
           <a href="https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=Fall%202025%20OOP%20fun%20in%20class">(Demo 16 - No Slides)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577079">(Lecture Quiz 16)</a>
@@ -638,7 +638,7 @@
     <tr>
       <td class="schedule-week-num" rowspan=5>Week 11</td>
       <th>Mon 11/03</th>
-      <td>Lec 17. Python I – Intro<br/>
+      <td>Lec 19. Python I – Intro<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 17)</a><br/>
           <a href="https://drive.google.com/drive/u/0/folders/1-Odp1zmmdr5ImbHw6k2LqtE6rOFO3fWm">(Slides 17)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577083">(Lecture Quiz 17)</a>
@@ -656,7 +656,7 @@
     </tr>
     <tr>
       <th>Wed 11/05</th>
-      <td>Lec 18. Python II – Data Structures<br/>
+      <td>Lec 20. Python II – Data Structures<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 18)</a><br/>
           <a href="https://drive.google.com/drive/u/0/folders/1cymjfiH3Ldrn99hCC74Wj7ctxF9TPXz5">(Slides 18)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577048">(Lecture Quiz 18)</a></td>
@@ -702,10 +702,10 @@
     <tr>
       <td class="schedule-week-num" rowspan=6>Week 12</td>
       <th>Mon 11/10</th>
-      <td>Lec 19. Guest Lecture<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 19)</a><br/>
-          <a href="">(Slides 19)</a><br/>
-          <a href="">(Lecture Quiz 19)</a>
+      <td>Lec 21. AI Video Generation (Bella) <br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 21)</a><br/>
+          <a href="https://drive.google.com/drive/folders/1yXM2gsE4jsCO1_5J4tSBMViX6IbvhD_D?usp=drive_link">(Slides 21)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/7143927">(Lecture Quiz 21)</a>
       </td>
       <td><a href="/fa25/labs/lab17">Lab 17. Data Structures in Python</a></td>
       <td></td>
@@ -717,10 +717,10 @@
     </tr>
     <tr>
       <th>Wed 11/12</th>
-      <td>Lec 20. Programming Paradigms<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 20)</a><br/>
-          <a href="">(Slides 20)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577047">(Lecture Quiz 20)</a>
+      <td>Lec 22. Programming Paradigms<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 22)</a><br/>
+          <a href="https://drive.google.com/drive/folders/1l1pNdsfMMWigJ4xB3s6_HwLn8mnsLjRU?usp=drive_link">(Slides 22)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577047">(Lecture Quiz 22)</a>
       </td>
       <td><a href="/fa25/lab_directory">Lab 18. Text Processing in Python</a></td>
       <td></td>
@@ -762,10 +762,10 @@
     <tr>
       <td class="schedule-week-num" rowspan=6>Week 13</td>
       <th>Mon 11/17</th>
-      <td>Lec 21. Generative AI<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 21)</a><br/>
-          <a href="">(Slides 21)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577081">(Lecture Quiz 21)</a>
+      <td>Lec 23. Generative AI<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 23)</a><br/>
+          <a href="https://drive.google.com/drive/folders/1_aS9Z63gj2rkRhYr38xoAcAuyjqehK5X?usp=drive_link">(Slides 23)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577081">(Lecture Quiz 23)</a>
       </td>
       <td><a href="/fa25/lab_directory">Lab 19. Data Science</a></td>
       <td></td>
@@ -780,10 +780,10 @@
     </tr>
     <tr>
       <th>Wed 11/19</th>
-      <td>Lec 22. Ethics in AI<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 22)</a><br/>
-          <a href="">(Slides 22)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577077">(Lecture Quiz 22)</a>
+      <td>Lec 24. Ethics in AI<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 24)</a><br/>
+          <a href="https://drive.google.com/drive/folders/1CVZJWEKwJDovWhi8xvyWyUnPFL1jx9jg?usp=drive_link">(Slides 24)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577077">(Lecture Quiz 24)</a>
       </td>
       <td><a href="/fa25/labs">Practice Postterm (no code + code)</a></td>
       <td></td>
@@ -825,10 +825,10 @@
     <tr>
       <td class="schedule-week-num" rowspan=6>Week 14</td>
       <th>Mon 11/24</th>
-      <td>Lec 23. Python III – Game Theory<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 23)</a><br/>
-          <a href="">(Slides 23)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577076">(Lecture Quiz 23)</a>
+      <td>Lec 25. Python III – Game Theory<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 25)</a><br/>
+          <a href="https://drive.google.com/drive/folders/17GcLVgPDtacDOrcVoCca9DkWHxYhP6Jr?usp=drive_link">(Slides 25)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577076">(Lecture Quiz 25)</a>
       </td>
       <td><a href="/fa25/lab_directory">Lab 20. Recursion in Python</a></td>
       <td></td>
@@ -873,10 +873,10 @@
     <tr>
       <td class="schedule-week-num" rowspan=5>Week 15</td>
       <th>Mon 12/01</th>
-      <td>Lec 25. Alumni Panel<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 25)</a><br/>
-          <a href="">(Slides 25)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577058">(Lecture Quiz 25)</a>
+      <td>Lec 26. Alumni Panel<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 26)</a><br/>
+          <a href="">(Slides 26)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577058">(Lecture Quiz 26)</a>
       </td>
       <td><a href="/fa25/lab_directory">Lab 21 OPTIONAL. Snap + Python Libraries</a></td>
       <td></td>
@@ -891,10 +891,10 @@
     </tr>
     <tr>
       <th>Wed 12/03</th>
-      <td>Lec 26. Conclusion and Farewell<br/><br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 26)</a><br/>
-          <a href="">(Slides 26)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577082">(Lecture Quiz 26)</a>
+      <td>Lec 27. Conclusion and Farewell<br/><br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 27)</a><br/>
+          <a href="">(Slides 27)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577082">(Lecture Quiz 27)</a>
       </td>
       <td>Project Work Session</td>
       <td></td>

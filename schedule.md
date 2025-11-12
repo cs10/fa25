@@ -722,7 +722,7 @@
           <a href="https://drive.google.com/drive/folders/1l1pNdsfMMWigJ4xB3s6_HwLn8mnsLjRU?usp=drive_link">(Slides 22)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577047">(Lecture Quiz 22)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Lab 18. Text Processing in Python</a></td>
+      <td><a href="/fa25/labs/lab18">Lab 18. Text Processing in Python</a></td>
       <td></td>
       <td><a href="/fa25/projects/">Final Project Meetings</a></td>
     </tr>

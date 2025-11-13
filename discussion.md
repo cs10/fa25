@@ -132,15 +132,15 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
     </tr>
     <tr>
     <td>Week 12 Discussion</td>
-      <td>Data Structures in Python</td>
-      <td>Worksheet 12</td>
+      <td>Data Structures in Python + Concurrency</td>
+      <td><a href="https://docs.google.com/document/d/168JjR2GXh4mHRseT-SzsGIjcbSbLl2mk/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 12</a></td>
       <td>Solutions 12</td>
       <td>Recording 12</td>
-      <td>Slides 12</td>
+      <td><a href="https://docs.google.com/presentation/d/1Wxz28j9AC0kkXUXEzXkx48kb3FZNqbkk-gCyzK0xPB8/edit?usp=sharing">Slides 12</a></td>
     </tr>
     <tr>
     <td>Week 13 Discussion</td>
-      <td>Concurrency + Practice Postterm</td>
+      <td>Practice Postterm</td>
       <td>Worksheet 13</td>
       <td>Solutions 12</td>
       <td>Recordings 12</td>
@@ -164,6 +164,7 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
     </tr>
   </tbody>
 </table>
+
 
 
 

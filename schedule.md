@@ -767,7 +767,7 @@
           <a href="https://drive.google.com/drive/folders/1_aS9Z63gj2rkRhYr38xoAcAuyjqehK5X?usp=drive_link">(Slides 23)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577081">(Lecture Quiz 23)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Lab 19. Data Science</a></td>
+      <td><a href="https://docs.google.com/document/d/1G0QyfJ8zRrZQ5KLzmtalvNjOBs0z5QHbfXqeFWj84kM/edit?tab=t.0#heading=h.tu8drwh3omqx">Lab 19. Data Science</a></td>
       <td></td>
       <td></td>
     </tr>

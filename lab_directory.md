@@ -38,7 +38,7 @@ Lab Slides:
 | [Lab 16: Lists and Mutability](/fa25/labs/lab16)                | FRI 11/7                 |
 | [Lab 17: Data Structures in Python](/fa25/labs/lab17)           | WED 11/12                |
 | [Lab 18: Text Processing](/fa25/labs/lab18)                     | FRI 11/14                |
-| Lab 19: Data Science                        | WED 11/19                |
+| [Lab 19: Data Science](https://docs.google.com/document/d/1G0QyfJ8zRrZQ5KLzmtalvNjOBs0z5QHbfXqeFWj84kM/edit?tab=t.0)                        | WED 11/19                |
 | Practice Postterm                           | FRI 11/21                |
 | Lab 20: Recursion in Python                 | WED 11/26                |
 | OPTIONAL Lab 21: Snap + Python Libraries    | No submission             |

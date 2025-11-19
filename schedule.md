@@ -785,7 +785,7 @@
           <a href="https://drive.google.com/drive/folders/1CVZJWEKwJDovWhi8xvyWyUnPFL1jx9jg?usp=drive_link">(Slides 24)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577077">(Lecture Quiz 24)</a>
       </td>
-      <td><a href="/fa25/labs">Practice Postterm (no code + code)</a></td>
+      <td><a href="https://us.prairielearn.com/pl/course_instance/192475/assessments">Practice Postterm (no code + code)</a></td>
       <td></td>
       <td><a href="/fa25/projects/"><b>Proj 4 Resubmissions Due</b></a></td>
     </tr>

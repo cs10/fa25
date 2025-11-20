@@ -830,7 +830,8 @@
           <a href="https://drive.google.com/drive/folders/17GcLVgPDtacDOrcVoCca9DkWHxYhP6Jr?usp=drive_link">(Slides 25)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577076">(Lecture Quiz 25)</a>
       </td>
-      <td>Project 5 Party (Optional)</td>
+      <td>Project 5 Party<br/>
+          (Optional)</td>
       <td></td>
       <td></td>
     </tr>

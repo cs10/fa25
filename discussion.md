@@ -126,7 +126,7 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
     <td>Week 11 Discussion</td>
       <td>Welcome to Python</td>
       <td><a href="https://docs.google.com/document/d/1rlAfAxi6KTHHo57dnonNWXRUSYZvYbe6/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 11</a></td>
-      <td>Solutions 11</td>
+      <td><a href="https://docs.google.com/document/d/1n5qR5HGTBoB4drxKh1qBbUNzRS772M6M/edit?usp=drive_link&ouid=106220240438634734707&rtpof=true&sd=true">Solutions 11</a></td>
       <td><a href="https://berkeley.zoom.us/rec/share/EeyvyDpmLLUyHMz1rWOYu6KW0itkcO7bTCZhtfz7jnqrFvJyHmWpbkCY0-KgZ50s.kbOsaXwgPuz6LMCZ?startTime=1762478093000">Recording 11</a><br/>Passcode: ?8diSqd#</td>
       <td><a href="https://docs.google.com/presentation/d/1FaNdfWhNRESUjzalhijpJISU9R4prtvZOVF89jgE1XE/edit?usp=drive_link">Slides 11</a></td>
     </tr>
@@ -141,8 +141,8 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
     <tr>
     <td>Week 13 Discussion</td>
       <td>Practice Postterm</td>
-      <td>Worksheet 13</td>
-      <td>Solutions 12</td>
+      <td><a href="https://docs.google.com/document/d/1scpSfbBmKzFsVxao8pjx2CI2xsJyVxFU/edit?usp=drive_link&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 13</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1jt_FGP06dZXen9rW1bVUe78cgeB8vbAZYrkv5gfiNsQ/edit?usp=drive_link">Solutions 12</a></td>
       <td>Recordings 12</td>
       <td>Slides 12</td>
     </tr>
@@ -164,6 +164,7 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
     </tr>
   </tbody>
 </table>
+
 
 
 

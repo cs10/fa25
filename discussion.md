@@ -134,17 +134,17 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
     <td>Week 12 Discussion</td>
       <td>Data Structures in Python + Concurrency</td>
       <td><a href="https://docs.google.com/document/d/168JjR2GXh4mHRseT-SzsGIjcbSbLl2mk/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 12</a></td>
-      <td>Solutions 12</td>
-      <td>Recording 12</td>
+      <td><a href="https://docs.google.com/document/d/1kmtRVs8ZICwR3IMBJcg-5i-AUX9xayYx/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Solutions 12</a></td>
+      <td><a href="https://berkeley.zoom.us/rec/share/VzqbZCXCmE085Rr1QZPEfpftTxXjv702Y4Ln85prbxfMUnngKQwNdHIKsh74lZAq.FtTntddZMlgAX8BZ">Recording 12</a><br/>Passcode: jnBY7IS+</td>
       <td><a href="https://docs.google.com/presentation/d/1Wxz28j9AC0kkXUXEzXkx48kb3FZNqbkk-gCyzK0xPB8/edit?usp=sharing">Slides 12</a></td>
     </tr>
     <tr>
     <td>Week 13 Discussion</td>
       <td>Practice Postterm</td>
       <td><a href="https://docs.google.com/document/d/1scpSfbBmKzFsVxao8pjx2CI2xsJyVxFU/edit?usp=drive_link&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 13</a></td>
-      <td><a href="https://docs.google.com/presentation/d/1jt_FGP06dZXen9rW1bVUe78cgeB8vbAZYrkv5gfiNsQ/edit?usp=drive_link">Solutions 12</a></td>
-      <td>Recordings 12</td>
-      <td>Slides 12</td>
+      <td><a href="https://docs.google.com/document/d/1wI5yyMM9Hts7Z2pVR6F_fMDK8byf79Nv/edit?usp=drive_link&ouid=106220240438634734707&rtpof=true&sd=true">Solutions 13</a></td>
+      <td><a href="https://berkeley.zoom.us/rec/share/w8SJH4C_ytxg1zBLjhGxknpRA2wFTTrltoJWFZvpRQ-WfWBDc_ju5OoXmTdSp9DF.Nd33tMtIcbs0Wrdl">Recordings 13</a><br/>Passcode: 8pMm.*5k</td>
+      <td><a href="https://docs.google.com/presentation/d/1jt_FGP06dZXen9rW1bVUe78cgeB8vbAZYrkv5gfiNsQ/edit?usp=drive_link">Slides 13</a></td>
     </tr>
     <tr>
     <td>Week 14 Discussion</td>
@@ -164,6 +164,7 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
     </tr>
   </tbody>
 </table>
+
 
 
 

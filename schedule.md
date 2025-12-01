@@ -879,7 +879,7 @@
           <a href="https://docs.google.com/presentation/d/1VhCulWZmBBCiIbiqgzCpSNoG03UkNfsFR-2paSl6T7Q/edit?usp=sharing">(Slides 26)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577058">(Lecture Quiz 26)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Lab 21 OPTIONAL. Snap + Python Libraries</a></td>
+      <td><a href="/fa25/lab_directory">Lab 21 OPTIONAL. Snap + Python Libraries</a><br/>Project 5 Party</td>
       <td></td>
       <td></td>
     </tr>
@@ -897,7 +897,7 @@
           <a href="https://drive.google.com/drive/folders/1wGA9aByrWClTdocxSn0B4aiceK54cPtU?usp=drive_link">(Slides 27)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577082">(Lecture Quiz 27)</a>
       </td>
-      <td>Project Work Session</td>
+      <td>Project 5 Party</td>
       <td></td>
       <td></td>
     </tr>
@@ -905,7 +905,7 @@
       <th>Thu 12/04</th>
       <td></td>
       <td></td>
-      <td><a href="/fa25/discussion">Disc 14. Review</a></td>
+      <td><a href="/fa25/discussion">Disc 15. Postterm Practice + Donuts</a></td>
       <td></td>
     </tr>
     <tr>

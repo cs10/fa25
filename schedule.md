@@ -879,7 +879,7 @@
           <a href="https://docs.google.com/presentation/d/1VhCulWZmBBCiIbiqgzCpSNoG03UkNfsFR-2paSl6T7Q/edit?usp=sharing">(Slides 26)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577058">(Lecture Quiz 26)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Lab 21 OPTIONAL. Snap + Python Libraries</a><br/>Project 5 Party</td>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment">Lab 21 OPTIONAL. Snap + Python Libraries</a><br/>Project 5 Party</td>
       <td></td>
       <td></td>
     </tr>

@@ -49,7 +49,7 @@ nav_order: 6
     <tr>
       <td>Project 4: Tech in Context</td>
       <td><a href="/fa25/projects/project4">Project 4 Intructions</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1Rr0uR3vTD9ch5qs6IaLWrtEILqh_mCzk?usp=sharing">Example Projects</a></td> <td>Example Projects</td>
+      <td><a href="https://drive.google.com/drive/folders/1Rr0uR3vTD9ch5qs6IaLWrtEILqh_mCzk?usp=sharing">Example Projects</a></td>
       <td>Tuesday, 10/21</td>
       <td>Wednesday, 10/29</td>
     </tr>
@@ -82,14 +82,15 @@ nav_order: 6
       <td>Friday, 11/14</td>
     </tr>
     <tr>
-      <td><a href="/fa25/projects/project6-project">Project 5: Final Project</a></td>
-      <td>Project 5 Intructions</td>
+      <td>Project 5: Final Project</td>
+      <td><a href="/fa25/projects/project6-project">Project 5 Intructions</a></td>
       <td>-</td>
       <td>Monday, 11/10 (earliest)<br/>Only start once your project has been approved</td>
       <td>Monday, 12/08</td>
     </tr>
   </tbody>
 </table> 
+
 
 
 

@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week12">Jump to Current Week</a>
+    <a href="#week15">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -798,7 +798,7 @@
     </tr>
     <tr>
       <th>Fri 11/21</th>
-      <td>Talk 13: Postterm 1 Preview<br/>
+      <td>Talk 13: Postterm Preview<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 13)</a>
       </td>
       <td></td>
@@ -876,7 +876,7 @@
       <th>Mon 12/01</th>
       <td>Lec 26. Alumni Panel<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 26)</a><br/>
-          <a href="">(Slides 26)</a><br/>
+          <a href="https://docs.google.com/presentation/d/1VhCulWZmBBCiIbiqgzCpSNoG03UkNfsFR-2paSl6T7Q/edit?usp=sharing">(Slides 26)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577058">(Lecture Quiz 26)</a>
       </td>
       <td><a href="/fa25/lab_directory">Lab 21 OPTIONAL. Snap + Python Libraries</a></td>
@@ -894,7 +894,7 @@
       <th>Wed 12/03</th>
       <td>Lec 27. Conclusion and Farewell<br/><br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 27)</a><br/>
-          <a href="">(Slides 27)</a><br/>
+          <a href="https://drive.google.com/drive/folders/1wGA9aByrWClTdocxSn0B4aiceK54cPtU?usp=drive_link">(Slides 27)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577082">(Lecture Quiz 27)</a>
       </td>
       <td>Project Work Session</td>
@@ -910,8 +910,8 @@
     </tr>
     <tr>
       <th>Fri 12/05</th>
-      <td>POSTTERM 2 REVIEW<br/>
-          (No Recording: Postterm 2 Review)</td>
+      <td>POSTTERM 1 REVIEW<br/>
+          (No Recording: Postterm 1 Review)</td>
       <td></td>
       <td></td>
       <td><b>POSTTERM 2</b></td>

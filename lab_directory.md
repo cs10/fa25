@@ -40,4 +40,4 @@ Lab Slides:
 | [Lab 18: Text Processing](/fa25/labs/lab18)                     | FRI 11/14                |
 | [Lab 19: Data Science](https://docs.google.com/document/d/1G0QyfJ8zRrZQ5KLzmtalvNjOBs0z5QHbfXqeFWj84kM/edit?tab=t.0)                        | WED 11/19                |
 | [Practice Postterm](https://us.prairielearn.com/pl/course_instance/192475/assessments)                           | FRI 11/21                |
-| OPTIONAL Lab 21: Snap + Python Libraries    | No submission             |
+| [OPTIONAL Lab 21: Snap + Python Libraries](https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment)    | No submission             |

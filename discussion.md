@@ -157,13 +157,14 @@ Recording 2</a><br/>Passcode: c4rZ76Z</td>
     <tr>
     <td>Week 15 Discussion</td>
       <td>Postterm Practice + Donuts</td>
-      <td>Worksheet 15</td>
+      <td><a href="https://docs.google.com/document/d/1mRw0emr5EvFQIkbMVNyg8kJu8NsRmq76/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 15</a></td>
       <td>Solutions 15</td>
       <td>Recording 15</td>
-      <td>Slides 15</td>
+      <td><a href="https://docs.google.com/presentation/d/1H-F1lD5Nr9DKC0fou8ftfWOmIyTKk8oIGMi_3ja6JyE/edit?usp=sharing">Slides 15</a></td>
     </tr>
   </tbody>
 </table>
+
 
 
 

@@ -937,7 +937,7 @@
     <tr>
       <td class="schedule-week-num" rowspan=5>RRR Week</td>
       <th>Mon 12/08</th>
-      <td></td>
+      <td>Postterm 2 Review Session <b>(Soda 606, 3-5PM)</b></td>
       <td></td>
       <td></td>
       <td></td>

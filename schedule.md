@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week15">Jump to Current Week</a>
+    <a href="#week16">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -940,14 +940,14 @@
       <td>Postterm 2 Review Session <b>(Soda 606, 3-5PM)</b></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>Proj 5 due</td>
     </tr>
     <tr>
       <th>Tue 12/09</th>
       <td></td>
       <td></td>
       <td></td>
-      <td><a href="/fa25/projects/"><b>Final Project Due</b></a></td>
+      <td></td>
     </tr>
     <tr>
       <th>Wed 12/10</th>
